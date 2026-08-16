@@ -526,7 +526,7 @@
             "last_commit": "2026-08-14T22:49:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38532
+            "stars": 38540
           }
         },
         {
@@ -1543,7 +1543,7 @@
             "last_commit": "2024-07-23T23:39:41Z",
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40052
+            "stars": 40050
           }
         },
         {
@@ -1765,7 +1765,7 @@
             "last_commit": "2026-04-29T05:11:11Z",
             "owner": "gzerveas",
             "repo": "mvts_transformer",
-            "stars": 873
+            "stars": 874
           }
         },
         {
@@ -1779,7 +1779,7 @@
             "last_commit": "2024-07-29T22:09:18Z",
             "owner": "zhihanyue",
             "repo": "ts2vec",
-            "stars": 865
+            "stars": 866
           }
         },
         {
@@ -1807,7 +1807,7 @@
             "last_commit": "2024-07-31T15:37:50Z",
             "owner": "White-Link",
             "repo": "UnsupervisedScalableRepresentationLearningTimeSeries",
-            "stars": 403
+            "stars": 404
           }
         },
         {
@@ -1924,7 +1924,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T03:26:32.900Z",
+    "last_updated": "2026-08-16T03:35:59.851Z",
     "original_repository": "jason718/awesome-self-supervised-learning",
     "original_repository_sha": "8ce285c4e2b0a88f5aae134820f31f9e4d688c98",
     "enhanced_repository": "enhansome/enhansome-self-supervised-learning",
