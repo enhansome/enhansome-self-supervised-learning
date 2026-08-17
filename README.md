@@ -16,7 +16,7 @@ Self-Supervised Learning has become an exciting direction in AI community.
   <img src="http://cdn1.sportngin.com/attachments/news_article/7269/5172/needyou_small.jpg" alt="We Need You!">
 </p>
 
-Please help contribute this list by [pull request](https://github.com/jason718/Awesome-Self-Supervised-Learning/pulls) ⭐ 6,412 | 🐛 1 | 📅 2026-02-24
+Please help contribute this list by [pull request](https://github.com/jason718/Awesome-Self-Supervised-Learning/pulls) ⭐ 6,411 | 🐛 1 | 📅 2026-02-24
 
 Markdown format:
 
@@ -432,7 +432,7 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,540 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-14
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,554 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-16
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
@@ -956,7 +956,7 @@ Markdown format:
 
 * Self-supervised Learning for Human Activity Recognition Using 700,000 Person-days of Wearable Data
   [\[pdf\]](https://arxiv.org/abs/2206.02909)
-  [\[code\]](https://github.com/OxWearables/ssl-wearables) ⭐ 162 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-10-24
+  [\[code\]](https://github.com/OxWearables/ssl-wearables) ⭐ 163 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-10-24
   * Hang Yuan\*, Shing Chan\*, Andrew P. Creagh, Catherine Tong, David A. Clifton, Aiden Doherty
 
 * Multi-Task Self-Supervised Object Detection via Recycling of Bounding Box Annotations.
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
