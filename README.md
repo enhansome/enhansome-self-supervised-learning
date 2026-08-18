@@ -1,6 +1,6 @@
 # Awesome Self-Supervised Learning with stars
 
-A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,182 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,910 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,177 | 🐛 37 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,190 | 🐛 2 | 📅 2020-09-15
+A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,183 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,910 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,177 | 🐛 37 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,190 | 🐛 2 | 📅 2020-09-15
 
 #### Why Self-Supervised?
 
@@ -432,7 +432,7 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,554 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-16
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,570 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-16
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
