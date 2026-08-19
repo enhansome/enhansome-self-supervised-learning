@@ -432,7 +432,7 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,577 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-16
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,579 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-16
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
@@ -483,7 +483,7 @@ Markdown format:
 
 * Contrastive learning of global and local features for medical image segmentation with limited annotations
   [\[pdf\]](https://arxiv.org/pdf/2006.10511.pdf)
-  [\[code\]](https://github.com/krishnabits001/domain_specific_cl) ⭐ 185 | 🐛 5 | 🌐 Python | 📅 2021-07-12
+  [\[code\]](https://github.com/krishnabits001/domain_specific_cl) ⭐ 184 | 🐛 5 | 🌐 Python | 📅 2021-07-12
   * Krishna Chaitanya, Ertunc Erdil, Neerav Karani, Ender Konukoglu. *NeurIPS 2020, Oral*
 
 * Self-Supervised Relational Reasoning for Representation Learning
