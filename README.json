@@ -526,7 +526,7 @@
             "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38570
+            "stars": 38577
           }
         },
         {
@@ -944,7 +944,7 @@
             "last_commit": "2025-03-10T10:35:11Z",
             "owner": "CVMI-Lab",
             "repo": "SlotCon",
-            "stars": 98
+            "stars": 97
           }
         },
         {
@@ -1276,7 +1276,7 @@
             "last_commit": "2021-10-26T05:58:09Z",
             "owner": "tinghuiz",
             "repo": "SfMLearner",
-            "stars": 2017
+            "stars": 2016
           }
         },
         {
@@ -1543,7 +1543,7 @@
             "last_commit": "2024-07-23T23:39:41Z",
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40048
+            "stars": 40047
           }
         },
         {
@@ -1675,7 +1675,7 @@
             "last_commit": "2026-03-12T19:14:49Z",
             "owner": "s3prl",
             "repo": "s3prl",
-            "stars": 2561
+            "stars": 2559
           }
         },
         {
@@ -1689,7 +1689,7 @@
             "last_commit": "2026-03-12T19:14:49Z",
             "owner": "s3prl",
             "repo": "s3prl",
-            "stars": 2561
+            "stars": 2559
           }
         },
         {
@@ -1924,7 +1924,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T03:32:37.532Z",
+    "last_updated": "2026-08-19T03:34:23.294Z",
     "original_repository": "jason718/awesome-self-supervised-learning",
     "original_repository_sha": "8ce285c4e2b0a88f5aae134820f31f9e4d688c98",
     "enhanced_repository": "enhansome/enhansome-self-supervised-learning",
