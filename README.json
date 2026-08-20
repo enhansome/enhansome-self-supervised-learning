@@ -452,7 +452,7 @@
                     "last_commit": "2019-08-28T23:01:14Z",
                     "owner": "maple-research-lab",
                     "repo": "AET",
-                    "stars": 108
+                    "stars": 107
                   }
                 },
                 {
@@ -546,10 +546,10 @@
                     "archived": false,
                     "id": 151619717,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-16T18:45:46Z",
+                    "last_commit": "2026-08-19T20:48:11Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38579
+                    "stars": 38581
                   }
                 },
                 {
@@ -1795,7 +1795,7 @@
             "last_commit": "2026-03-12T19:14:49Z",
             "owner": "s3prl",
             "repo": "s3prl",
-            "stars": 2559
+            "stars": 2560
           }
         },
         {
@@ -1810,7 +1810,7 @@
             "last_commit": "2026-03-12T19:14:49Z",
             "owner": "s3prl",
             "repo": "s3prl",
-            "stars": 2559
+            "stars": 2560
           }
         },
         {
@@ -2055,7 +2055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:50:09.417Z",
+    "last_updated": "2026-08-20T03:34:50.999Z",
     "original_repository": "jason718/awesome-self-supervised-learning",
     "original_repository_id": 120975327,
     "original_repository_sha": "8ce285c4e2b0a88f5aae134820f31f9e4d688c98",
