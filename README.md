@@ -1,6 +1,6 @@
 # Awesome Self-Supervised Learning with stars
 
-A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,183 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,909 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,178 | 🐛 37 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,190 | 🐛 2 | 📅 2020-09-15
+A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,183 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,909 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,176 | 🐛 37 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,190 | 🐛 2 | 📅 2020-09-15
 
 #### Why Self-Supervised?
 
@@ -432,7 +432,7 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,581 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-19
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,590 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-19
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
@@ -462,7 +462,7 @@ Markdown format:
 
 * SCAN: Learning to Classify Images without Labels
   [\[pdf\]](https://arxiv.org/abs/2005.12320)
-  [\[code\]](https://github.com/wvangansbeke/Unsupervised-Classification) ⭐ 1,458 | 🐛 20 | 🌐 Python | 📅 2023-07-27
+  [\[code\]](https://github.com/wvangansbeke/Unsupervised-Classification) ⭐ 1,455 | 🐛 20 | 🌐 Python | 📅 2023-07-27
   * Wouter Van Gansbeke, Simon Vandenhende, Stamatios Georgoulis, Marc Proesmans, Luc Van Gool. *ECCV 2020*
 
 * Exploring Simple Siamese Representation Learning
@@ -796,7 +796,7 @@ Markdown format:
 
 * PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm
   [\[pdf\]](https://arxiv.org/abs/2310.08586)
-  [\[code\]](https://github.com/OpenGVLab/PonderV2) ⭐ 376 | 🐛 0 | 🌐 Python | 📅 2025-09-30
+  [\[code\]](https://github.com/OpenGVLab/PonderV2) ⭐ 377 | 🐛 0 | 🌐 Python | 📅 2025-09-30
   * Haoyi Zhu, Honghui Yang, Xiaoyang Wu, Di Huang, Tong He, Hengshuang Zhao, Chunhua Shen, Yu Qiao and Wanli Ouyang *Arxiv 2023*
 
 * PointContrast: Unsupervised Pre-training for 3D Point Cloud
@@ -1398,7 +1398,7 @@ Markdown format:
 
 * GPT-GNN: Generative Pre-Training of Graph Neural Networks
   [\[pdf\]](https://arxiv.org/pdf/2006.15437.pdf)
-  [\[code\]](https://github.com/acbull/GPT-GNN) ⭐ 501 | 🐛 23 | 🌐 Python | 📅 2024-07-25
+  [\[code\]](https://github.com/acbull/GPT-GNN) ⭐ 499 | 🐛 23 | 🌐 Python | 📅 2024-07-25
   * Ziniu Hu, Yuxiao Dong, Kuansan Wang, Kai-Wei Chang, Yizhou Sun. *KDD 2020*
 
 * Deep Graph Contrastive Representation Learning
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
