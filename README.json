@@ -546,10 +546,10 @@
                     "archived": false,
                     "id": 151619717,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-19T20:48:11Z",
+                    "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38590
+                    "stars": 38593
                   }
                 },
                 {
@@ -901,7 +901,7 @@
                     "last_commit": "2022-11-23T13:42:15Z",
                     "owner": "deu30303",
                     "repo": "RUC",
-                    "stars": 152
+                    "stars": 151
                   }
                 },
                 {
@@ -1654,7 +1654,7 @@
             "last_commit": "2024-07-23T23:39:41Z",
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40048
+            "stars": 40047
           }
         },
         {
@@ -2055,7 +2055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T03:38:02.678Z",
+    "last_updated": "2026-08-22T03:29:42.391Z",
     "original_repository": "jason718/awesome-self-supervised-learning",
     "original_repository_id": 120975327,
     "original_repository_sha": "8ce285c4e2b0a88f5aae134820f31f9e4d688c98",
