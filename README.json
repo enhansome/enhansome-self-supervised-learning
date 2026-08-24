@@ -549,7 +549,7 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38601
+                    "stars": 38607
                   }
                 },
                 {
@@ -1720,7 +1720,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32235
+            "stars": 32233
           }
         },
         {
@@ -1735,7 +1735,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32235
+            "stars": 32233
           }
         },
         {
@@ -1750,7 +1750,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32235
+            "stars": 32233
           }
         },
         {
@@ -1765,7 +1765,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32235
+            "stars": 32233
           }
         },
         {
@@ -1780,7 +1780,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32235
+            "stars": 32233
           }
         },
         {
@@ -2055,7 +2055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T03:38:00.776Z",
+    "last_updated": "2026-08-24T03:40:45.791Z",
     "original_repository": "jason718/awesome-self-supervised-learning",
     "original_repository_id": 120975327,
     "original_repository_sha": "8ce285c4e2b0a88f5aae134820f31f9e4d688c98",
