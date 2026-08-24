@@ -549,7 +549,7 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38607
+                    "stars": 38611
                   }
                 },
                 {
@@ -1087,6 +1087,28 @@
               "description": null,
               "node_type": "group",
               "title": "2023"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Towards evolution of Deep Neural Networks through contrastive Self-Supervised learning [pdf]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 521421688,
+                    "language": "Python",
+                    "last_commit": "2026-01-10T17:24:28Z",
+                    "owner": "cdvetal",
+                    "repo": "evodenss",
+                    "stars": 7
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "2024"
             }
           ],
           "description": null,
@@ -1289,6 +1311,28 @@
                 "repo": "VTHCL",
                 "stars": 24
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "How Severe is Benchmark-Sensitivity in Video Self-Supervised Learning? [pdf]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 509868847,
+                    "language": "Python",
+                    "last_commit": "2023-08-31T08:59:14Z",
+                    "owner": "fmthoker",
+                    "repo": "SEVERE-BENCHMARK",
+                    "stars": 26
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Benchmark code for video self-supervised learning"
             }
           ],
           "description": null,
@@ -1720,7 +1764,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32233
+            "stars": 32234
           }
         },
         {
@@ -1735,7 +1779,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32233
+            "stars": 32234
           }
         },
         {
@@ -1750,7 +1794,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32233
+            "stars": 32234
           }
         },
         {
@@ -1765,7 +1809,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32233
+            "stars": 32234
           }
         },
         {
@@ -1780,7 +1824,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32233
+            "stars": 32234
           }
         },
         {
@@ -1795,7 +1839,7 @@
             "last_commit": "2026-03-12T19:14:49Z",
             "owner": "s3prl",
             "repo": "s3prl",
-            "stars": 2560
+            "stars": 2561
           }
         },
         {
@@ -1810,7 +1854,7 @@
             "last_commit": "2026-03-12T19:14:49Z",
             "owner": "s3prl",
             "repo": "s3prl",
-            "stars": 2560
+            "stars": 2561
           }
         },
         {
@@ -2055,7 +2099,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:40:45.791Z",
+    "last_updated": "2026-08-24T13:58:39.062Z",
     "original_repository": "jason718/awesome-self-supervised-learning",
     "original_repository_id": 120975327,
     "original_repository_sha": "8ce285c4e2b0a88f5aae134820f31f9e4d688c98",
