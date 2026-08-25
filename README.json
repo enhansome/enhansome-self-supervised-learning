@@ -549,7 +549,7 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38612
+                    "stars": 38613
                   }
                 },
                 {
@@ -2099,7 +2099,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:36:25.598Z",
+    "last_updated": "2026-08-25T05:46:40.337Z",
     "original_repository": "jason718/awesome-self-supervised-learning",
     "original_repository_id": 120975327,
     "original_repository_sha": "8ce285c4e2b0a88f5aae134820f31f9e4d688c98",
