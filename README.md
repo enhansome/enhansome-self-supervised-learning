@@ -432,7 +432,7 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,611 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-21
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,612 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-21
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
@@ -1398,7 +1398,7 @@ Markdown format:
 
 * GPT-GNN: Generative Pre-Training of Graph Neural Networks
   [\[pdf\]](https://arxiv.org/pdf/2006.15437.pdf)
-  [\[code\]](https://github.com/acbull/GPT-GNN) ⭐ 499 | 🐛 23 | 🌐 Python | 📅 2024-07-25
+  [\[code\]](https://github.com/acbull/GPT-GNN) ⭐ 500 | 🐛 23 | 🌐 Python | 📅 2024-07-25
   * Ziniu Hu, Yuxiao Dong, Kuansan Wang, Kai-Wei Chang, Yizhou Sun. *KDD 2020*
 
 * Deep Graph Contrastive Representation Learning
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
