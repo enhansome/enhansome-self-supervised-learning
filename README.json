@@ -546,10 +546,10 @@
                     "archived": false,
                     "id": 151619717,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-21T19:58:51Z",
+                    "last_commit": "2026-08-25T18:30:01Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38613
+                    "stars": 38621
                   }
                 },
                 {
@@ -1698,7 +1698,7 @@
             "last_commit": "2024-07-23T23:39:41Z",
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40045
+            "stars": 40046
           }
         },
         {
@@ -1764,7 +1764,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32235
+            "stars": 32232
           }
         },
         {
@@ -1779,7 +1779,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32235
+            "stars": 32232
           }
         },
         {
@@ -1794,7 +1794,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32235
+            "stars": 32232
           }
         },
         {
@@ -1809,7 +1809,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32235
+            "stars": 32232
           }
         },
         {
@@ -1824,7 +1824,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32235
+            "stars": 32232
           }
         },
         {
@@ -1950,7 +1950,7 @@
             "last_commit": "2024-07-29T22:09:18Z",
             "owner": "zhihanyue",
             "repo": "ts2vec",
-            "stars": 867
+            "stars": 868
           }
         },
         {
@@ -2099,7 +2099,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:46:40.337Z",
+    "last_updated": "2026-08-26T03:40:59.986Z",
     "original_repository": "jason718/awesome-self-supervised-learning",
     "original_repository_id": 120975327,
     "original_repository_sha": "8ce285c4e2b0a88f5aae134820f31f9e4d688c98",
