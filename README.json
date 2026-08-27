@@ -546,10 +546,10 @@
                     "archived": false,
                     "id": 151619717,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-25T18:30:01Z",
+                    "last_commit": "2026-08-27T09:11:14Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38621
+                    "stars": 38630
                   }
                 },
                 {
@@ -564,7 +564,7 @@
                     "last_commit": "2026-02-03T19:40:18Z",
                     "owner": "facebookresearch",
                     "repo": "moco",
-                    "stars": 5137
+                    "stars": 5136
                   }
                 },
                 {
@@ -1405,7 +1405,7 @@
                 "last_commit": "2021-10-26T05:58:09Z",
                 "owner": "tinghuiz",
                 "repo": "SfMLearner",
-                "stars": 2016
+                "stars": 2017
               }
             },
             {
@@ -1764,7 +1764,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32232
+            "stars": 32231
           }
         },
         {
@@ -1779,7 +1779,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32232
+            "stars": 32231
           }
         },
         {
@@ -1794,7 +1794,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32232
+            "stars": 32231
           }
         },
         {
@@ -1809,7 +1809,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32232
+            "stars": 32231
           }
         },
         {
@@ -1824,7 +1824,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32232
+            "stars": 32231
           }
         },
         {
@@ -1839,7 +1839,7 @@
             "last_commit": "2026-03-12T19:14:49Z",
             "owner": "s3prl",
             "repo": "s3prl",
-            "stars": 2561
+            "stars": 2562
           }
         },
         {
@@ -1854,7 +1854,7 @@
             "last_commit": "2026-03-12T19:14:49Z",
             "owner": "s3prl",
             "repo": "s3prl",
-            "stars": 2561
+            "stars": 2562
           }
         },
         {
@@ -2099,9 +2099,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:40:59.986Z",
-    "original_repository": "jason718/awesome-self-supervised-learning",
-    "original_repository_id": 120975327,
+    "last_updated": "2026-08-27T12:02:51.428Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 120975327,
+      "language": null,
+      "last_commit": "2026-02-24T08:30:02Z",
+      "owner": "jason718",
+      "repo": "awesome-self-supervised-learning",
+      "stars": 6413
+    },
     "original_repository_sha": "8ce285c4e2b0a88f5aae134820f31f9e4d688c98",
     "enhanced_repository": "enhansome/enhansome-self-supervised-learning",
     "enhanced_repository_description": null,
