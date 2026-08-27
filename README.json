@@ -549,7 +549,7 @@
                     "last_commit": "2026-08-27T09:11:14Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38630
+                    "stars": 38631
                   }
                 },
                 {
@@ -1174,7 +1174,7 @@
                 "last_commit": "2021-12-11T04:27:20Z",
                 "owner": "ajabri",
                 "repo": "videowalk",
-                "stars": 281
+                "stars": 282
               }
             },
             {
@@ -1698,7 +1698,7 @@
             "last_commit": "2024-07-23T23:39:41Z",
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40046
+            "stars": 40045
           }
         },
         {
@@ -1950,7 +1950,7 @@
             "last_commit": "2024-07-29T22:09:18Z",
             "owner": "zhihanyue",
             "repo": "ts2vec",
-            "stars": 868
+            "stars": 869
           }
         },
         {
@@ -2099,7 +2099,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:02:51.428Z",
+    "last_updated": "2026-08-27T13:07:48.790Z",
     "original_repository_info": {
       "archived": false,
       "id": 120975327,

@@ -432,7 +432,7 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,630 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-27
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,631 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-27
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
@@ -672,7 +672,7 @@ Markdown format:
 
 * Space-Time Correspondence as a Contrastive Random Walk
   [\[pdf\]](https://arxiv.org/abs/2006.14613)
-  [\[code\]](https://github.com/ajabri/videowalk/) ⭐ 281 | 🐛 13 | 🌐 Python | 📅 2021-12-11
+  [\[code\]](https://github.com/ajabri/videowalk/) ⭐ 282 | 🐛 13 | 🌐 Python | 📅 2021-12-11
   [\[project\]](http://ajabri.github.io/videowalk)
   * Allan Jabri, Andrew Owens, Alexei A. Efros. *NeurIPS 2020 Oral*
 
@@ -1366,7 +1366,7 @@ Markdown format:
 
 * TS2Vec: Towards Universal Representation of Time Series
   [\[pdf\]](https://www.aaai.org/AAAI22Papers/AAAI-8809.YueZ.pdf)
-  [\[code\]](https://github.com/yuezhihan/ts2vec) ⭐ 868 | 🐛 27 | 🌐 Python | 📅 2024-07-29
+  [\[code\]](https://github.com/yuezhihan/ts2vec) ⭐ 869 | 🐛 27 | 🌐 Python | 📅 2024-07-29
   * Zerveas, George, Srideepika Jayaraman, Dhaval Patel, Anuradha Bhamidipaty, and Carsten Eickhoff. *AAAI 2022*
 
 * Time-Series Representation Learning via Temporal and Contextual Contrasting
