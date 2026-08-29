@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Scaling and Benchmarking Self-Supervised Visual Representation Learning",
+                    "homepage": null,
                     "id": 186499279,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-10-12T21:34:03Z",
+                    "open_issues": 3,
                     "owner": "facebookresearch",
                     "repo": "fair_self_supervision_benchmark",
-                    "stars": 588
+                    "stars": 588,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -30,12 +35,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official benchmark code for the CVPR 2021 paper \"How Well Do Self-Supervised Models Transfer?\"",
+                    "homepage": null,
                     "id": 315089639,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-05-07T12:00:42Z",
+                    "open_issues": 0,
                     "owner": "linusericsson",
                     "repo": "ssl-transfer",
-                    "stars": 186
+                    "stars": 186,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 }
@@ -53,12 +63,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 46470788,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2019-12-01T18:38:42Z",
+                    "open_issues": 19,
                     "owner": "piiswrong",
                     "repo": "dec",
-                    "stars": 490
+                    "stars": 490,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -69,12 +84,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Torch code for our CVPR 2016 paper \"Joint Unsupervised LEarning of Deep Representations and Image Clusters\"",
+                    "homepage": null,
                     "id": 55751668,
                     "language": "MATLAB",
+                    "license": "MIT",
                     "last_commit": "2019-08-27T02:27:16Z",
+                    "open_issues": 16,
                     "owner": "jwyang",
                     "repo": "JULE.torch",
-                    "stars": 295
+                    "stars": 295,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -85,12 +105,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "FeatureLearning-ECCV2016",
+                    "homepage": null,
                     "id": 70132815,
                     "language": "Matlab",
+                    "license": "NOASSERTION",
                     "last_commit": "2018-09-23T04:06:27Z",
+                    "open_issues": 0,
                     "owner": "dongli12",
                     "repo": "FeatureLearning",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 }
@@ -108,12 +133,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "code for \"Adversarial Feature Learning\"",
+                    "homepage": null,
                     "id": 90122954,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-07-12T06:37:29Z",
+                    "open_issues": 7,
                     "owner": "jeffdonahue",
                     "repo": "bigan",
-                    "stars": 240
+                    "stars": 240,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -124,12 +154,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction. In CVPR, 2017.",
+                    "homepage": "http://richzhang.github.io/splitbrainauto",
                     "id": 74920523,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2018-06-25T22:43:53Z",
+                    "open_issues": 3,
                     "owner": "richzhang",
                     "repo": "splitbrainauto",
-                    "stars": 142
+                    "stars": 142,
+                    "topics": [
+                      "autoencoder",
+                      "caffe",
+                      "unsupervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -140,12 +179,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Self-supervised learning of visual features through embedding images into text topic spaces",
+                    "homepage": null,
                     "id": 87625845,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-08-20T17:12:12Z",
+                    "open_issues": 0,
                     "owner": "lluisgomez",
                     "repo": "TextTopicNet",
-                    "stars": 95
+                    "stars": 95,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -156,12 +200,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Unsupervised Learning by Predicting Noise",
+                    "homepage": null,
                     "id": 99703433,
                     "language": "Lua",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-10-12T21:32:41Z",
+                    "open_issues": 0,
                     "owner": "facebookresearch",
                     "repo": "noise-as-targets",
-                    "stars": 90
+                    "stars": 90,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -172,12 +221,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 96578124,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2018-04-26T13:00:18Z",
+                    "open_issues": 8,
                     "owner": "HsinYingLee",
                     "repo": "OPN",
-                    "stars": 47
+                    "stars": 47,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -188,12 +242,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code repository for the paper \"DeepPermNet: Visual Permutation Learning\".",
+                    "homepage": null,
                     "id": 104005234,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2017-10-06T00:32:56Z",
+                    "open_issues": 1,
                     "owner": "rfsantacruz",
                     "repo": "deep-perm-net",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 }
@@ -211,12 +270,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Deep Clustering for Unsupervised Learning of Visual Features",
+                    "homepage": null,
                     "id": 144161174,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-10-12T21:32:33Z",
+                    "open_issues": 10,
                     "owner": "facebookresearch",
                     "repo": "deepcluster",
-                    "stars": 1743
+                    "stars": 1743,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -227,12 +291,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unsupervised Feature Learning via Non-parametric Instance Discrimination",
+                    "homepage": null,
                     "id": 132115652,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-03-25T17:34:06Z",
+                    "open_issues": 20,
                     "owner": "zhirongw",
                     "repo": "lemniscate.pytorch",
-                    "stars": 758
+                    "stars": 758,
+                    "topics": [
+                      "computer-vision",
+                      "cvpr2018",
+                      "deep-learning",
+                      "imagenet",
+                      "nce",
+                      "pytorch",
+                      "representation-learning",
+                      "self-supervised-learning",
+                      "unsupervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -243,12 +322,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 122768914,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-10-24T13:17:07Z",
+                    "open_issues": 13,
                     "owner": "gidariss",
                     "repo": "FeatureLearningRotNet",
-                    "stars": 527
+                    "stars": 527,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -259,12 +343,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for paper \"Cross-Domain Self-supervised Multi-task Feature Learning using Synthetic Imagery\", Ren et al., CVPR'18 ",
+                    "homepage": null,
                     "id": 135939049,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-07-14T06:14:30Z",
+                    "open_issues": 0,
                     "owner": "jason718",
                     "repo": "game-feature-learning",
-                    "stars": 69
+                    "stars": 69,
+                    "topics": [
+                      "computer-vision",
+                      "deep-learning",
+                      "domain-adaptation",
+                      "representation-learning",
+                      "self-supervised",
+                      "synthetic-data"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -275,12 +371,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 68022809,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2018-09-12T12:21:27Z",
+                    "open_issues": 6,
                     "owner": "MehdiNoroozi",
                     "repo": "JigsawPuzzleSolver",
-                    "stars": 54
+                    "stars": 54,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -291,12 +392,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Self-Supervised Feature Learning by Learning to Spot Artifacts. In CVPR, 2018.",
+                    "homepage": "https://sjenni.github.io/LearningToSpotArtifacts/",
                     "id": 132330227,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-03-24T22:43:59Z",
+                    "open_issues": 3,
                     "owner": "sjenni",
                     "repo": "LearningToSpotArtifacts",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": [
+                      "alexnet",
+                      "classification",
+                      "compter-vision",
+                      "deep-learning",
+                      "feature-learning",
+                      "machine-learning",
+                      "self-supervised-learning",
+                      "stl-10",
+                      "tensorflow",
+                      "unsupervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -307,12 +424,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "index.md",
                     "id": 83193522,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-08-02T16:09:00Z",
+                    "open_issues": 4,
                     "owner": "ozcell",
                     "repo": "LALNets",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": [
+                      "robustness",
+                      "semi-supervised-learning",
+                      "unsupervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 }
@@ -330,12 +456,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[arXiv 2019] \"Contrastive Multiview Coding\", also contains implementations for MoCo and InstDis",
+                    "homepage": null,
                     "id": 191742506,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2020-11-10T07:33:17Z",
+                    "open_issues": 25,
                     "owner": "HobbitLong",
                     "repo": "CMC",
-                    "stars": 1340
+                    "stars": 1340,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -346,12 +477,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Scaling and Benchmarking Self-Supervised Visual Representation Learning",
+                    "homepage": null,
                     "id": 186499279,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-10-12T21:34:03Z",
+                    "open_issues": 3,
                     "owner": "facebookresearch",
                     "repo": "fair_self_supervision_benchmark",
-                    "stars": 588
+                    "stars": 588,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -362,12 +498,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Public repo for Augmented Multiscale Deep InfoMax representation learning",
+                    "homepage": null,
                     "id": 192003497,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-07-02T15:13:09Z",
+                    "open_issues": 9,
                     "owner": "Philip-Bachman",
                     "repo": "amdim-public",
-                    "stars": 402
+                    "stars": 402,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -378,12 +519,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": null,
                     "id": 167518008,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2020-02-13T11:26:24Z",
+                    "open_issues": 1,
                     "owner": "google",
                     "repo": "revisiting-self-supervised",
-                    "stars": 351
+                    "stars": 351,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -394,12 +540,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Self-Supervised Learning for OOD Detection (NeurIPS 2019)",
+                    "homepage": null,
                     "id": 191080893,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-04-29T17:42:13Z",
+                    "open_issues": 3,
                     "owner": "hendrycks",
                     "repo": "ss-ood",
-                    "stars": 269
+                    "stars": 269,
+                    "topics": [
+                      "ml-safety",
+                      "out-of-distribution-detection",
+                      "robustness",
+                      "self-supervised",
+                      "self-supervised-learning",
+                      "uncertainty"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -410,12 +568,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Implements the unsupervised pre-training of convolutional neural networks",
+                    "homepage": null,
                     "id": 190297192,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-09-16T16:17:36Z",
+                    "open_issues": 2,
                     "owner": "facebookresearch",
                     "repo": "DeeperCluster",
-                    "stars": 253
+                    "stars": 253,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -426,12 +589,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The implementation of \"Self-Supervised Generalisation with Meta Auxiliary Learning\" [NeurIPS 2019].",
+                    "homepage": "https://shikun.io/projects/meta-auxiliary-learning",
                     "id": 161814720,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-12-19T20:46:37Z",
+                    "open_issues": 0,
                     "owner": "lorenmt",
                     "repo": "maxl",
-                    "stars": 174
+                    "stars": 174,
+                    "topics": [
+                      "auxiliary-learning",
+                      "meta-learning",
+                      "multi-task-learning",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -442,12 +615,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for our CVPR 2019 work.",
+                    "homepage": null,
                     "id": 180077357,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-07-19T13:04:30Z",
+                    "open_issues": 4,
                     "owner": "XiaohangZhan",
                     "repo": "conditional-motion-propagation",
-                    "stars": 159
+                    "stars": 159,
+                    "topics": [
+                      "deep-learning",
+                      "interactive-annotation",
+                      "motion-prediction",
+                      "representation-learning",
+                      "self-supervised",
+                      "self-supervised-learning",
+                      "unsupervised-learning",
+                      "video-generation"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -458,12 +645,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Pytorch Implementation for ICML'19 paper: Unsupervised Deep Learning by Neighbourhood Discovery",
+                    "homepage": "https://raymond-sci.github.io/projects/huang2019and",
                     "id": 183294932,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-06-21T14:55:19Z",
+                    "open_issues": 1,
                     "owner": "Raymond-sci",
                     "repo": "AND",
-                    "stars": 156
+                    "stars": 156,
+                    "topics": [
+                      "deep-learning",
+                      "machine-learning",
+                      "unsupervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -474,12 +670,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Auto-Encoding Transformations (AETv1), CVPR 2019",
+                    "homepage": "https://arxiv.org/abs/1901.04596",
                     "id": 175749424,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-08-28T23:01:14Z",
+                    "open_issues": 6,
                     "owner": "maple-research-lab",
                     "repo": "AET",
-                    "stars": 107
+                    "stars": 107,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -490,12 +691,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Self-Supervised Representation Learning by Rotation Feature Decoupling",
+                    "homepage": null,
                     "id": 182020181,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-07-07T11:53:13Z",
+                    "open_issues": 5,
                     "owner": "philiptheother",
                     "repo": "FeatureDecoupling",
-                    "stars": 96
+                    "stars": 96,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -506,12 +712,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Tensorflow implementation of S4L: Self-Supervised Semi-Supervised Learning",
+                    "homepage": "https://arxiv.org/abs/1905.03670",
                     "id": 217064787,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2019-11-06T10:00:13Z",
+                    "open_issues": 4,
                     "owner": "google-research",
                     "repo": "s4l",
-                    "stars": 95
+                    "stars": 95,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -522,12 +733,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TensorFlow model for training SSMA for multimodal semantic segmentation",
+                    "homepage": "http://deepscene.cs.uni-freiburg.de",
                     "id": 146883237,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2019-09-16T10:12:19Z",
+                    "open_issues": 2,
                     "owner": "DeepSceneSeg",
                     "repo": "SSMA",
-                    "stars": 88
+                    "stars": 88,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -538,12 +754,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Ready to train Pytorch implementation of the CVPR'19 paper \"Self-Supervised GANs via Auxiliary Rotation Loss\"",
+                    "homepage": null,
                     "id": 220742235,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-11-12T04:26:32Z",
+                    "open_issues": 2,
                     "owner": "vandit15",
                     "repo": "Self-Supervised-Gans-Pytorch",
-                    "stars": 66
+                    "stars": 66,
+                    "topics": [
+                      "computer-vision",
+                      "cvpr",
+                      "cvpr2019",
+                      "deep-learning",
+                      "gan",
+                      "image-generation",
+                      "machine-learning",
+                      "pytorch",
+                      "unsupervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -554,12 +785,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Notes and tutorials on \"Mutual information and self-supervised learning\"",
+                    "homepage": null,
                     "id": 208955599,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-11-01T13:05:48Z",
+                    "open_issues": 0,
                     "owner": "SeongokRyu",
                     "repo": "mutual_information_and_self-supervised_learning",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 }
@@ -577,12 +813,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Google Research",
+                    "homepage": "https://research.google",
                     "id": 151619717,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T09:11:14Z",
+                    "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38640
+                    "stars": 38643,
+                    "topics": [
+                      "ai",
+                      "machine-learning",
+                      "research"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -593,12 +838,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch implementation of MoCo: https://arxiv.org/abs/1911.05722",
+                    "homepage": null,
                     "id": 248087594,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-02-03T19:40:18Z",
+                    "open_issues": 61,
                     "owner": "facebookresearch",
                     "repo": "moco",
-                    "stars": 5136
+                    "stars": 5136,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -609,12 +859,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "SimCLRv2 - Big Self-Supervised Models are Strong Semi-Supervised Learners",
+                    "homepage": "https://arxiv.org/abs/2006.10029",
                     "id": 246357476,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-05-22T04:42:53Z",
+                    "open_issues": 71,
                     "owner": "google-research",
                     "repo": "simclr",
-                    "stars": 4502
+                    "stars": 4502,
+                    "topics": [
+                      "computer-vision",
+                      "contrastive-learning",
+                      "representation-learning",
+                      "self-supervised-learning",
+                      "simclr",
+                      "simclrv2",
+                      "unsupervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -625,12 +888,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "SimCLRv2 - Big Self-Supervised Models are Strong Semi-Supervised Learners",
+                    "homepage": "https://arxiv.org/abs/2006.10029",
                     "id": 246357476,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-05-22T04:42:53Z",
+                    "open_issues": 71,
                     "owner": "google-research",
                     "repo": "simclr",
-                    "stars": 4502
+                    "stars": 4502,
+                    "topics": [
+                      "computer-vision",
+                      "contrastive-learning",
+                      "representation-learning",
+                      "self-supervised-learning",
+                      "simclr",
+                      "simclrv2",
+                      "unsupervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -641,12 +917,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "PyTorch implementation of SwAV https//arxiv.org/abs/2006.09882",
+                    "homepage": null,
                     "id": 280260739,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-04-13T16:40:34Z",
+                    "open_issues": 41,
                     "owner": "facebookresearch",
                     "repo": "swav",
-                    "stars": 2096
+                    "stars": 2096,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -657,12 +938,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Usable Implementation of \"Bootstrap Your Own Latent\" self-supervised learning, from Deepmind, in Pytorch",
+                    "homepage": null,
                     "id": 272785290,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-04-27T20:33:48Z",
+                    "open_issues": 41,
                     "owner": "lucidrains",
                     "repo": "byol-pytorch",
-                    "stars": 1903
+                    "stars": 1903,
+                    "topics": [
+                      "artificial-intelligence",
+                      "deep-learning",
+                      "self-supervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -673,12 +963,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SCAN: Learning to Classify Images without Labels, incl. SimCLR. [ECCV 2020]",
+                    "homepage": "https://arxiv.org/abs/2005.12320",
                     "id": 247672670,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-07-27T19:24:04Z",
+                    "open_issues": 20,
                     "owner": "wvangansbeke",
                     "repo": "Unsupervised-Classification",
-                    "stars": 1455
+                    "stars": 1455,
+                    "topics": [
+                      "clustering",
+                      "contrastive-learning",
+                      "eccv-2020",
+                      "eccv2020",
+                      "image-classification",
+                      "moco",
+                      "representation-learning",
+                      "self-supervised-learning",
+                      "simclr",
+                      "unsupervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -689,12 +995,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A pytorch implementation for paper 'Exploring Simple Siamese Representation Learning'",
+                    "homepage": null,
                     "id": 316507602,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-07-14T05:55:25Z",
+                    "open_issues": 32,
                     "owner": "PatrickHua",
                     "repo": "SimSiam",
-                    "stars": 830
+                    "stars": 830,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -705,12 +1016,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2020] Semi-Supervision (Unlabeled Data) & Self-Supervision Improve Class-Imbalanced / Long-Tailed Learning",
+                    "homepage": "https://arxiv.org/abs/2006.07529",
                     "id": 292877948,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-04-03T04:38:04Z",
+                    "open_issues": 0,
                     "owner": "YyzHarry",
                     "repo": "imbalanced-semi-self",
-                    "stars": 756
+                    "stars": 756,
+                    "topics": [
+                      "class-imbalance",
+                      "imbalanced-classification",
+                      "imbalanced-data",
+                      "imbalanced-learning",
+                      "long-tail",
+                      "long-tailed-recognition",
+                      "neurips",
+                      "neurips-2020",
+                      "self-supervised-learning",
+                      "semi-supervised-learning",
+                      "unlabeled-data"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -721,12 +1049,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Self-labelling via simultaneous clustering and representation learning. (ICLR 2020)",
+                    "homepage": "http://www.robots.ox.ac.uk/~vgg/research/self-label/",
                     "id": 229603018,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-07-25T10:49:30Z",
+                    "open_issues": 4,
                     "owner": "yukimasano",
                     "repo": "self-label",
-                    "stars": 546
+                    "stars": 546,
+                    "topics": [
+                      "clustering",
+                      "iclr2020",
+                      "representation-learning",
+                      "resnet",
+                      "resnet-v2",
+                      "self-supervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -737,12 +1077,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for NeurIPS 2020 article \"Contrastive learning of global and local features for medical image segmentation with limited annotations\"",
+                    "homepage": null,
                     "id": 304342398,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-07-12T20:22:59Z",
+                    "open_issues": 5,
                     "owner": "krishnabits001",
                     "repo": "domain_specific_cl",
-                    "stars": 184
+                    "stars": 184,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -753,12 +1098,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official PyTorch implementation of the paper \"Self-Supervised Relational Reasoning for Representation Learning\", NeurIPS 2020 Spotlight.",
+                    "homepage": "https://arxiv.org/abs/2006.05849",
                     "id": 270635590,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-04-21T18:07:07Z",
+                    "open_issues": 0,
                     "owner": "mpatacchiola",
                     "repo": "self-supervised-relational-reasoning",
-                    "stars": 143
+                    "stars": 143,
+                    "topics": [
+                      "deep-learning",
+                      "deep-neural-networks",
+                      "deepcluster",
+                      "relational-reasoning",
+                      "rotnet",
+                      "self-supervised-learning",
+                      "simclr",
+                      "stl10",
+                      "unsupervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -769,12 +1129,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Self-supervised Label Augmentation via Input Transformations (ICML 2020)",
+                    "homepage": null,
                     "id": 275332597,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-11-28T11:35:35Z",
+                    "open_issues": 0,
                     "owner": "hankook",
                     "repo": "SLA",
-                    "stars": 107
+                    "stars": 107,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -785,12 +1150,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 322029304,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-05-17T19:29:20Z",
+                    "open_issues": 2,
                     "owner": "valeoai",
                     "repo": "obow",
-                    "stars": 95
+                    "stars": 95,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -801,12 +1171,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch implementation for the ICLR 2020 paper \"Understanding the Limitations of Variational Mutual Information Estimators\"",
+                    "homepage": null,
                     "id": 239863084,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2020-02-12T00:44:51Z",
+                    "open_issues": 0,
                     "owner": "ermongroup",
                     "repo": "smile-mi-estimator",
-                    "stars": 76
+                    "stars": 76,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -817,12 +1192,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official code for the paper \"Self-Supervised Prototypical Transfer Learning for Few-Shot Classification\"",
+                    "homepage": "https://arxiv.org/abs/2006.11325",
                     "id": 273546374,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-08-04T19:04:42Z",
+                    "open_issues": 0,
                     "owner": "indy-lab",
                     "repo": "ProtoTransfer",
-                    "stars": 51
+                    "stars": 51,
+                    "topics": [
+                      "few-shot-learning",
+                      "self-supervised-learning",
+                      "transfer-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -833,12 +1217,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Evaluating AlexNet features at various depths",
+                    "homepage": null,
                     "id": 240527039,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-10-13T11:53:28Z",
+                    "open_issues": 3,
                     "owner": "yukimasano",
                     "repo": "linear-probes",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -849,12 +1238,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 221835839,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-07-27T23:47:37Z",
+                    "open_issues": 0,
                     "owner": "Sungwon-Han",
                     "repo": "TwoStageUC",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -865,12 +1259,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code to generate datasets used in \"How Useful is Self-Supervised Pretraining for Visual Tasks?\"",
+                    "homepage": null,
                     "id": 255413859,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2020-04-13T20:54:59Z",
+                    "open_issues": 1,
                     "owner": "princeton-vl",
                     "repo": "selfstudy-render",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -881,12 +1280,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unsupervised Representation Learning by Invariance Propagation",
+                    "homepage": null,
                     "id": 301957462,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-04-07T10:23:38Z",
+                    "open_issues": 1,
                     "owner": "WangFeng18",
                     "repo": "InvariancePropagation",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 }
@@ -904,12 +1308,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "PyTorch implementation of Barlow Twins.",
+                    "homepage": null,
                     "id": 344510921,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-03-03T02:59:31Z",
+                    "open_issues": 8,
                     "owner": "facebookresearch",
                     "repo": "barlowtwins",
-                    "stars": 1017
+                    "stars": 1017,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -920,12 +1329,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning, CVPR 2021",
+                    "homepage": "https://arxiv.org/abs/2011.10043",
                     "id": 331370251,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-10-24T22:56:47Z",
+                    "open_issues": 22,
                     "owner": "zdaxie",
                     "repo": "PixPro",
-                    "stars": 363
+                    "stars": 363,
+                    "topics": [
+                      "contrastive-learning",
+                      "cvpr2021",
+                      "pixel-level-contrastive-learning",
+                      "pixpro",
+                      "unsupervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -936,12 +1356,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official benchmark code for the CVPR 2021 paper \"How Well Do Self-Supervised Models Transfer?\"",
+                    "homepage": null,
                     "id": 315089639,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-05-07T12:00:42Z",
+                    "open_issues": 0,
                     "owner": "linusericsson",
                     "repo": "ssl-transfer",
-                    "stars": 186
+                    "stars": 186,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -952,12 +1377,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 323227492,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-11-23T13:42:15Z",
+                    "open_issues": 4,
                     "owner": "deu30303",
                     "repo": "RUC",
-                    "stars": 151
+                    "stars": 151,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -968,12 +1398,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Improving Contrastive Learning by Visualizing Feature Transformation, ICCV 2021 Oral",
+                    "homepage": "https://arxiv.org/abs/2108.02982",
                     "id": 390993137,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2021-10-11T14:51:51Z",
+                    "open_issues": 1,
                     "owner": "DTennant",
                     "repo": "CL-Visualizing-Feature-Transformation",
-                    "stars": 90
+                    "stars": 90,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -984,12 +1419,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is the code for CVPR 2021 oral paper: Jigsaw Clustering for Unsupervised Visual Representation Learning",
+                    "homepage": null,
                     "id": 351648816,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-05-11T07:40:18Z",
+                    "open_issues": 3,
                     "owner": "JIA-Lab-research",
                     "repo": "JigsawClustering",
-                    "stars": 77
+                    "stars": 77,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -1000,12 +1440,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 21] Vectorization and Rasterization: Self-Supervised Learning for Sketch and Handwriting, IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), 2021.",
+                    "homepage": "https://ayankumarbhunia.github.io/Self-Supervised-Learning-for-Sketch/",
                     "id": 349496232,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-04-27T12:16:40Z",
+                    "open_issues": 5,
                     "owner": "AyanKumarBhunia",
                     "repo": "Self-Supervised-Learning-for-Sketch",
-                    "stars": 58
+                    "stars": 58,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -1016,12 +1461,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for SelfAugment",
+                    "homepage": null,
                     "id": 275866924,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2020-12-16T18:09:39Z",
+                    "open_issues": 2,
                     "owner": "cjrd",
                     "repo": "selfaugment",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 }
@@ -1039,12 +1489,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Masked Siamese Networks for Label-Efficient Learning (https://arxiv.org/abs/2204.07141)",
+                    "homepage": null,
                     "id": 480844839,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-05-09T19:03:07Z",
+                    "open_issues": 16,
                     "owner": "facebookresearch",
                     "repo": "msn",
-                    "stars": 463
+                    "stars": 463,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -1055,12 +1510,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "(NeurIPS 2022) Self-Supervised Visual Representation Learning with Semantic Grouping",
+                    "homepage": "https://wen-xin.info/slotcon/",
                     "id": 543130537,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-03-10T10:35:11Z",
+                    "open_issues": 2,
                     "owner": "CVMI-Lab",
                     "repo": "SlotCon",
-                    "stars": 97
+                    "stars": 97,
+                    "topics": [
+                      "contrastive-learning",
+                      "neurips-2022",
+                      "object-discovery",
+                      "pre-training",
+                      "self-supervised-learning",
+                      "slotcon"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -1071,12 +1538,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 510404079,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-08-23T13:03:58Z",
+                    "open_issues": 0,
                     "owner": "Sungwon-Han",
                     "repo": "FEDX",
-                    "stars": 73
+                    "stars": 73,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -1087,12 +1559,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official PyTorch Repository of \"Tailoring Self-Supervision for Supervised Learning\" (ECCV 2022 Paper)",
+                    "homepage": "https://arxiv.org/abs/2207.10023",
                     "id": 510294462,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-07-28T16:10:44Z",
+                    "open_issues": 0,
                     "owner": "wjun0830",
                     "repo": "Localizable-Rotation",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": [
+                      "data-augmentation",
+                      "deep-learning",
+                      "long-tailed-recognition",
+                      "model-robustness",
+                      "out-of-distribution-detection",
+                      "self-supervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -1103,12 +1587,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ASCL: adpative Soft Contrastive Learning (ICPR2022)",
+                    "homepage": "https://doi.org/10.1109/ICPR56361.2022.9956660",
                     "id": 502325304,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-03-22T13:15:24Z",
+                    "open_issues": 0,
                     "owner": "MrChenFeng",
                     "repo": "Adaptive-Soft-Contrastive-Learning_ICPR2022",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": [
+                      "contrastive-learning",
+                      "deep-learning",
+                      "pytorch",
+                      "representation-learning",
+                      "self-supervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 }
@@ -1126,12 +1621,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official implementation of paper: \"Inter-Instance Similarity Modeling for Contrastive Learning\"",
+                    "homepage": null,
                     "id": 644772943,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-03T09:27:54Z",
+                    "open_issues": 0,
                     "owner": "visresearch",
                     "repo": "patchmix",
-                    "stars": 119
+                    "stars": 119,
+                    "topics": [
+                      "cifar",
+                      "contrastive-learning",
+                      "imagenet",
+                      "representation-learning",
+                      "self-supervised-learning",
+                      "transfer-learning",
+                      "unsupervised-learning",
+                      "vision-transformer"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 },
@@ -1142,12 +1651,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official implementation of \"Asymmetric Patch Sampling for Contrastive Learning\"",
+                    "homepage": null,
                     "id": 649677940,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-06-27T07:34:13Z",
+                    "open_issues": 0,
                     "owner": "visresearch",
                     "repo": "aps",
-                    "stars": 55
+                    "stars": 55,
+                    "topics": [
+                      "cifar",
+                      "contrastive-learning",
+                      "imagenet",
+                      "representation-learning",
+                      "self-supervised-learning",
+                      "transfer-learning",
+                      "unsupervised-learning",
+                      "vision-transformer"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 }
@@ -1165,12 +1688,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 521421688,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-01-10T17:24:28Z",
+                    "open_issues": 1,
                     "owner": "cdvetal",
                     "repo": "evodenss",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 }
@@ -1193,12 +1721,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learning Correspondence from the Cycle-consistency of Time (CVPR 2019)",
+                "homepage": null,
                 "id": 177499233,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-06-26T03:56:42Z",
+                "open_issues": 10,
                 "owner": "xiaolonw",
                 "repo": "TimeCycle",
-                "stars": 723
+                "stars": 723,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1209,12 +1742,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unsupervised Learning of Video Representations using LSTMs",
+                "homepage": "http://arxiv.org/abs/1502.04681",
                 "id": 48787669,
                 "language": "Cuda",
+                "license": "MIT",
                 "last_commit": "2018-03-06T02:55:46Z",
+                "open_issues": 16,
                 "owner": "mansimov",
                 "repo": "unsupervised-videos",
-                "stars": 361
+                "stars": 361,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1225,12 +1763,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS'20] Self-supervised Co-Training for Video Representation Learning. Tengda Han, Weidi Xie, Andrew Zisserman.",
+                "homepage": null,
                 "id": 300868514,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-10-10T20:04:42Z",
+                "open_issues": 5,
                 "owner": "TengdaHan",
                 "repo": "CoCLR",
-                "stars": 288
+                "stars": 288,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1241,12 +1784,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for \"Space-Time Correspondence as a Contrastive Random Walk\" (NeurIPS 2020)",
+                "homepage": "http://ajabri.github.io/videowalk",
                 "id": 274583476,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-12-11T04:27:20Z",
+                "open_issues": 13,
                 "owner": "ajabri",
                 "repo": "videowalk",
-                "stars": 282
+                "stars": 282,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1257,12 +1805,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Joint-task Self-supervised Learning for Temporal Correspondence (NeurIPS 2019)",
+                "homepage": null,
                 "id": 194919202,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-12T23:38:04Z",
+                "open_issues": 1,
                 "owner": "Liusifei",
                 "repo": "UVC",
-                "stars": 176
+                "stars": 176,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1273,12 +1826,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of ACMMM'20 paper 'Self-supervised Video Representation Learning Using Inter-intra Contrastive Framework'",
+                "homepage": null,
                 "id": 285502590,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-03-22T01:51:17Z",
+                "open_issues": 2,
                 "owner": "BestJuly",
                 "repo": "IIC",
-                "stars": 111
+                "stars": 111,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1289,12 +1847,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "code for our ECCV-2020 paper: Self-supervised Video Representation Learning by Pace Prediction",
+                "homepage": null,
                 "id": 278782945,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-05-13T21:35:03Z",
+                "open_issues": 5,
                 "owner": "laura-wang",
                 "repo": "video-pace",
-                "stars": 100
+                "stars": 100,
+                "topics": [
+                  "eccv",
+                  "pace-prediction",
+                  "self-supervised-learning",
+                  "video-pace"
+                ]
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1305,12 +1873,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI2021] The source code for our paper 《Enhancing Unsupervised Video Representation Learning by Decoupling the Scene and the Motion》.",
+                "homepage": "https://arxiv.org/abs/2009.05757",
                 "id": 318528162,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-29T02:30:47Z",
+                "open_issues": 0,
                 "owner": "FingerRec",
                 "repo": "DSM-decoupling-scene-motion",
-                "stars": 96
+                "stars": 96,
+                "topics": [
+                  "motion-dominated",
+                  "self-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1321,12 +1897,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Video Representation Learning by Recognizing Temporal Transformations. In ECCV, 2020.",
+                "homepage": "https://sjenni.github.io/temporal-ssl/",
                 "id": 279964858,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-03-18T09:48:17Z",
+                "open_issues": 3,
                 "owner": "sjenni",
                 "repo": "temporal-ssl",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "action-recognition",
+                  "c3d",
+                  "hmdb51",
+                  "self-supervised-learning",
+                  "tensorflow",
+                  "transfer-learning",
+                  "ucf101",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1337,12 +1927,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and training data for our ECCV 2016 paper on Unsupervised Learning",
+                "homepage": null,
                 "id": 66581828,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-12-12T21:22:13Z",
+                "open_issues": 5,
                 "owner": "imisra",
                 "repo": "shuffle-tuple",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1353,12 +1948,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 246869597,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-05-07T09:16:36Z",
+                "open_issues": 3,
                 "owner": "yuanyao366",
                 "repo": "PRP",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1369,12 +1969,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Pytorch implementation for AAAI2021 paper (RSPNet: Relative Speed Perception for Unsupervised Video Representation Learning)",
+                "homepage": null,
                 "id": 319488122,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-11-05T09:34:52Z",
+                "open_issues": 1,
                 "owner": "PeihaoChen",
                 "repo": "RSPNet",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1385,12 +1990,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[arXiv 2020] Video Representation Learning with Visual Tempo Consistency",
+                "homepage": "https://arxiv.org/pdf/2006.15489.pdf",
                 "id": 270563296,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-06-30T02:37:03Z",
+                "open_issues": 3,
                 "owner": "decisionforce",
                 "repo": "VTHCL",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1403,12 +2013,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 509868847,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-08-31T08:59:14Z",
+                    "open_issues": 0,
                     "owner": "fmthoker",
                     "repo": "SEVERE-BENCHMARK",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
                 }
@@ -1431,12 +2046,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[T-PAMI 2025] PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm",
+                "homepage": "https://arxiv.org/abs/2310.08586",
                 "id": 704527130,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-30T06:33:23Z",
+                "open_issues": 0,
                 "owner": "OpenGVLab",
                 "repo": "PonderV2",
-                "stars": 377
+                "stars": 377,
+                "topics": [
+                  "3d-vision",
+                  "foundation-models",
+                  "pretraining"
+                ]
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1447,12 +2071,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Code for paper <PointContrast: Unsupervised Pretraining for 3D Point Cloud Understanding>",
+                "homepage": null,
                 "id": 291783473,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-08-30T20:44:17Z",
+                "open_issues": 19,
                 "owner": "facebookresearch",
                 "repo": "PointContrast",
-                "stars": 350
+                "stars": 350,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1463,12 +2092,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-supervised Learning of Point Clouds via Orientation Estimation (3DV 2020)",
+                "homepage": "https://arxiv.org/pdf/2008.00305.pdf",
                 "id": 321867366,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-08-06T01:38:11Z",
+                "open_issues": 1,
                 "owner": "OmidPoursaeed",
                 "repo": "Self_supervised_Learning_Point_Clouds",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "3d",
+                  "deep-learning",
+                  "point-cloud",
+                  "rotation",
+                  "self-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             }
@@ -1486,12 +2126,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An unsupervised learning framework for depth and ego-motion estimation from monocular videos",
+                "homepage": null,
                 "id": 89383667,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2021-10-26T05:58:09Z",
+                "open_issues": 48,
                 "owner": "tinghuiz",
                 "repo": "SfMLearner",
-                "stars": 2017
+                "stars": 2017,
+                "topics": [
+                  "deep-learning",
+                  "depth-prediction",
+                  "self-supervised-learning",
+                  "unsupervised-learning",
+                  "visual-odometry"
+                ]
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1502,12 +2153,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Geometry-Aware Learning of Maps for Camera Localization (CVPR2018)",
+                "homepage": "https://goo.gl/mRB3Au.",
                 "id": 128466151,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-07-27T00:32:44Z",
+                "open_issues": 9,
                 "owner": "NVlabs",
                 "repo": "geomapnet",
-                "stars": 359
+                "stars": 359,
+                "topics": [
+                  "computer-vision",
+                  "cvpr2018",
+                  "deep-learning",
+                  "localization",
+                  "mapnet"
+                ]
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1518,12 +2180,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue",
+                "homepage": null,
                 "id": 64445270,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2019-03-11T16:37:15Z",
+                "open_issues": 3,
                 "owner": "Ravi-Garg",
                 "repo": "Unsupervised_Depth_Estimation",
-                "stars": 240
+                "stars": 240,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1534,12 +2201,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for Paper: Self-supervised Learning of Motion Capture",
+                "homepage": null,
                 "id": 121676445,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-02-15T20:15:37Z",
+                "open_issues": 5,
                 "owner": "htung0101",
                 "repo": "3d_smpl",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1550,12 +2222,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Descriptor Vector Exchange",
+                "homepage": null,
                 "id": 202733141,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-10-24T09:15:56Z",
+                "open_issues": 2,
                 "owner": "jamt9000",
                 "repo": "DVE",
-                "stars": 76
+                "stars": 76,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             }
@@ -1573,12 +2250,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codebase for ECCV18 \"The Sound of Pixels\"",
+                "homepage": "http://sound-of-pixels.csail.mit.edu",
                 "id": 158138352,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-04-25T06:26:41Z",
+                "open_issues": 11,
                 "owner": "hangzhaomit",
                 "repo": "Sound-of-Pixels",
-                "stars": 393
+                "stars": 393,
+                "topics": [
+                  "computer-vision",
+                  "cross-modality",
+                  "self-supervised-learning",
+                  "sound-separation"
+                ]
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1589,12 +2276,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BYOL for Audio: Self-Supervised Learning for General-Purpose Audio Representation",
+                "homepage": "https://arxiv.org/abs/2103.06695",
                 "id": 361613438,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-26T07:17:20Z",
+                "open_issues": 0,
                 "owner": "nttcslab",
                 "repo": "byol-a",
-                "stars": 239
+                "stars": 239,
+                "topics": [
+                  "audio",
+                  "byol",
+                  "byol-a",
+                  "byol-pytorch",
+                  "ntt"
+                ]
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1605,12 +2303,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the paper: Audio-Visual Scene Analysis with Self-Supervised Multisensory Features",
+                "homepage": "http://andrewowens.com/multisensory/",
                 "id": 129283202,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-07-17T06:57:17Z",
+                "open_issues": 34,
                 "owner": "andrewowens",
                 "repo": "multisensory",
-                "stars": 225
+                "stars": 225,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1621,12 +2324,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch code for training MM-DistillNet for multimodal knowledge distillation. http://rl.uni-freiburg.de/research/multimodal-distill",
+                "homepage": null,
                 "id": 344192128,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-05-17T21:35:48Z",
+                "open_issues": 12,
                 "owner": "robot-learning-freiburg",
                 "repo": "MM-DistillNet",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1637,12 +2345,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-supervised algorithm for learning representations from ego-centric video data. Code is tested on EPIC-Kitchens-100 and Ego4D in PyTorch. (NeurIPS 2022)",
+                "homepage": null,
                 "id": 516128143,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-10-23T03:08:53Z",
+                "open_issues": 5,
                 "owner": "HimangiM",
                 "repo": "RepLAI",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "pytorch",
+                  "self-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             }
@@ -1660,12 +2376,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the paper: Fighting Fake News: Image Splice Detection via Learned Self-Consistency",
+                "homepage": null,
                 "id": 132853080,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-22T02:18:23Z",
+                "open_issues": 9,
                 "owner": "minyoungg",
                 "repo": "selfconsistency",
-                "stars": 197
+                "stars": 197,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1676,12 +2397,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-supervised learning for wearables using the UK-Biobank (>700,000 person-days)",
+                "homepage": "https://oxwearables.github.io/ssl-wearables/",
                 "id": 495828244,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2024-10-24T13:43:32Z",
+                "open_issues": 6,
                 "owner": "OxWearables",
                 "repo": "ssl-wearables",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "accelerometer",
+                  "deep-learning",
+                  "foundation-models",
+                  "human-activity-recognition",
+                  "pytorch",
+                  "self-supervised-learning",
+                  "wearable"
+                ]
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1692,12 +2426,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-task Self-supervised Object Detection via Recycling of Bounding Box Annotations (CVPR, 2019)",
+                "homepage": null,
                 "id": 178776379,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-02-02T22:00:12Z",
+                "open_issues": 1,
                 "owner": "wonheeML",
                 "repo": "mtl-ssl",
-                "stars": 128
+                "stars": 128,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1708,12 +2447,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-supervised method for scene-flow estimation of LiDAR point clouds. Method is trained and tested on the nuScenes and KITTI datasets in TensorFlow. (CVPR 2020)",
+                "homepage": null,
                 "id": 238605906,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-02-15T22:51:42Z",
+                "open_issues": 27,
                 "owner": "HimangiM",
                 "repo": "Just-Go-with-the-Flow-Self-Supervised-Scene-Flow-Estimation",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1724,12 +2468,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 495431766,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-07-02T23:37:06Z",
+                "open_issues": 0,
                 "owner": "akhilmathurs",
                 "repo": "collossl",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             }
@@ -1753,12 +2502,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for \"Unsupervised State Representation Learning in Atari\" ",
+                "homepage": "https://arxiv.org/abs/1906.08226",
                 "id": 167142473,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-02T08:10:23Z",
+                "open_issues": 14,
                 "owner": "mila-iqia",
                 "repo": "atari-representation-learning",
-                "stars": 259
+                "stars": 259,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             },
@@ -1769,12 +2523,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[RA-L 2023 & IROS 2023] Visual Reinforcement Learning with Self-Supervised 3D Representations",
+                "homepage": null,
                 "id": 548551169,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-08T14:08:09Z",
+                "open_issues": 0,
                 "owner": "YanjieZe",
                 "repo": "rl3d",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
             }
@@ -1796,12 +2555,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "TensorFlow code and pre-trained models for BERT",
+            "homepage": "https://arxiv.org/abs/1810.04805",
             "id": 154747577,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-23T23:39:41Z",
+            "open_issues": 880,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40045
+            "stars": 40046,
+            "topics": [
+              "google",
+              "natural-language-processing",
+              "natural-language-understanding",
+              "nlp",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
         },
@@ -1812,12 +2582,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for ICLR 2020 paper \"VL-BERT: Pre-training of Generic Visual-Linguistic Representations\".",
+            "homepage": null,
             "id": 223335609,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-05-22T22:33:35Z",
+            "open_issues": 21,
             "owner": "jackroos",
             "repo": "VL-BERT",
-            "stars": 740
+            "stars": 740,
+            "topics": [
+              "bert",
+              "iclr2020",
+              "pre-training",
+              "pytorch",
+              "representation-learning",
+              "self-supervised-learning",
+              "vision-and-language",
+              "vl-bert"
+            ]
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
         },
@@ -1828,12 +2612,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Self-Supervised Contrastive Learning Framework for Aspect Detection",
+            "homepage": null,
             "id": 300657674,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-10-10T02:43:41Z",
+            "open_issues": 3,
             "owner": "tshi04",
             "repo": "AspDecSSCL",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
         },
@@ -1844,12 +2633,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Implementation for \"Self-Gudied Contrastive Learning for BERT Sentence Representations (ACL 2021)\"",
+            "homepage": null,
             "id": 366359249,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-06-09T10:31:44Z",
+            "open_issues": 0,
             "owner": "galsang",
             "repo": "SG-BERT",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
         }
@@ -1866,12 +2660,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+            "homepage": null,
             "id": 101782647,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-30T11:16:06Z",
+            "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32232
+            "stars": 32232,
+            "topics": [
+              "artificial-intelligence",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
         },
@@ -1882,12 +2685,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+            "homepage": null,
             "id": 101782647,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-30T11:16:06Z",
+            "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32232
+            "stars": 32232,
+            "topics": [
+              "artificial-intelligence",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
         },
@@ -1898,12 +2710,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+            "homepage": null,
             "id": 101782647,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-30T11:16:06Z",
+            "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32232
+            "stars": 32232,
+            "topics": [
+              "artificial-intelligence",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
         },
@@ -1914,12 +2735,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+            "homepage": null,
             "id": 101782647,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-30T11:16:06Z",
+            "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32232
+            "stars": 32232,
+            "topics": [
+              "artificial-intelligence",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
         },
@@ -1930,12 +2760,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+            "homepage": null,
             "id": 101782647,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-30T11:16:06Z",
+            "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32232
+            "stars": 32232,
+            "topics": [
+              "artificial-intelligence",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
         },
@@ -1946,12 +2785,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-Supervised Speech Pre-training and Representation Learning Toolkit",
+            "homepage": "https://s3prl.github.io/s3prl/",
             "id": 196905457,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-12T19:14:49Z",
+            "open_issues": 71,
             "owner": "s3prl",
             "repo": "s3prl",
-            "stars": 2562
+            "stars": 2562,
+            "topics": [
+              "apc",
+              "cpc",
+              "data2vec",
+              "decoar",
+              "decoar2",
+              "distilhubert",
+              "hubert",
+              "mockingjay",
+              "pase",
+              "representation-learning",
+              "self-supervised-learning",
+              "speech-pretraining",
+              "speech-representation",
+              "tera",
+              "unispeech-sat",
+              "vq-apc",
+              "vq-wav2vec",
+              "wav2vec",
+              "wav2vec2",
+              "wavlm"
+            ]
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
         },
@@ -1962,12 +2827,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-Supervised Speech Pre-training and Representation Learning Toolkit",
+            "homepage": "https://s3prl.github.io/s3prl/",
             "id": 196905457,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-12T19:14:49Z",
+            "open_issues": 71,
             "owner": "s3prl",
             "repo": "s3prl",
-            "stars": 2562
+            "stars": 2562,
+            "topics": [
+              "apc",
+              "cpc",
+              "data2vec",
+              "decoar",
+              "decoar2",
+              "distilhubert",
+              "hubert",
+              "mockingjay",
+              "pase",
+              "representation-learning",
+              "self-supervised-learning",
+              "speech-pretraining",
+              "speech-representation",
+              "tera",
+              "unispeech-sat",
+              "vq-apc",
+              "vq-wav2vec",
+              "wav2vec",
+              "wav2vec2",
+              "wavlm"
+            ]
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
         },
@@ -1978,12 +2869,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An implementation of the Contrast Predictive Coding (CPC) method to train audio features in an unsupervised fashion.",
+            "homepage": null,
             "id": 232439775,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-10-12T21:34:06Z",
+            "open_issues": 14,
             "owner": "facebookresearch",
             "repo": "CPC_audio",
-            "stars": 374
+            "stars": 374,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
         },
@@ -1994,12 +2890,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autoregressive Predictive Coding: An unsupervised autoregressive model for speech representation learning",
+            "homepage": null,
             "id": 180405336,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-01-29T21:19:43Z",
+            "open_issues": 3,
             "owner": "iamyuanchung",
             "repo": "Autoregressive-Predictive-Coding",
-            "stars": 191
+            "stars": 191,
+            "topics": [
+              "pre-training",
+              "pytorch",
+              "representation-learning",
+              "self-supervised-learning",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
         },
@@ -2010,12 +2917,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Non-Autoregressive Predictive Coding",
+            "homepage": null,
             "id": 307816993,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-11-03T07:54:06Z",
+            "open_issues": 0,
             "owner": "Alexander-H-Liu",
             "repo": "NPC",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
         },
@@ -2026,12 +2938,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Non-Autoregressive Predictive Coding",
+            "homepage": null,
             "id": 307816993,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-11-03T07:54:06Z",
+            "open_issues": 0,
             "owner": "Alexander-H-Liu",
             "repo": "NPC",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
         }
@@ -2048,12 +2965,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multivariate Time Series Transformer, public version",
+            "homepage": null,
             "id": 374536582,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-29T05:11:11Z",
+            "open_issues": 35,
             "owner": "gzerveas",
             "repo": "mvts_transformer",
-            "stars": 874
+            "stars": 874,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
         },
@@ -2064,12 +2986,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A universal time series representation learning framework",
+            "homepage": null,
             "id": 373735271,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-29T22:09:18Z",
+            "open_issues": 28,
             "owner": "zhihanyue",
             "repo": "ts2vec",
-            "stars": 869
+            "stars": 869,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
         },
@@ -2080,12 +3007,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[IJCAI-21] \"Time-Series Representation Learning via Temporal and Contextual Contrasting\"",
+            "homepage": null,
             "id": 368401801,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-31T04:55:38Z",
+            "open_issues": 4,
             "owner": "emadeldeen24",
             "repo": "TS-TCC",
-            "stars": 498
+            "stars": 498,
+            "topics": [
+              "contextual",
+              "contrastive-learning",
+              "deep-learning",
+              "eeg",
+              "epilepsy",
+              "epileptic-seizures",
+              "fault-diagnosis",
+              "human-activity-recognition",
+              "machine-learning",
+              "representation-learning",
+              "sleep-stage-classification",
+              "temporal",
+              "time-series",
+              "transfer-learning",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
         },
@@ -2096,12 +3044,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unsupervised Scalable Representation Learning for Multivariate Time Series: Experiments",
+            "homepage": null,
             "id": 167964834,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-31T15:37:50Z",
+            "open_issues": 1,
             "owner": "White-Link",
             "repo": "UnsupervisedScalableRepresentationLearningTimeSeries",
-            "stars": 404
+            "stars": 404,
+            "topics": [
+              "deep-learning",
+              "machine-learning",
+              "neural-networks",
+              "neurips-2019",
+              "pytorch",
+              "time-series",
+              "time-series-classification",
+              "triplet-loss",
+              "ucr-archive",
+              "uea-archive"
+            ]
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
         },
@@ -2112,12 +3076,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 250282757,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-08T04:34:33Z",
+            "open_issues": 8,
             "owner": "sanatonek",
             "repo": "TNC_representation_learning",
-            "stars": 126
+            "stars": 126,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
         }
@@ -2134,12 +3103,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Graph Infomax (https://arxiv.org/abs/1809.10341)",
+            "homepage": null,
             "id": 162727376,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-01T16:50:49Z",
+            "open_issues": 11,
             "owner": "PetarV-",
             "repo": "DGI",
-            "stars": 667
+            "stars": 667,
+            "topics": [
+              "deep-graph-infomax",
+              "graph-convolutional-networks",
+              "neural-networks",
+              "python",
+              "pytorch",
+              "unsupervised-learning",
+              "unsupervised-node-embedding"
+            ]
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
         },
@@ -2150,12 +3132,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GraphMAE: Self-Supervised Masked Graph Autoencoders in KDD'22",
+            "homepage": null,
             "id": 494672550,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-04-12T11:15:23Z",
+            "open_issues": 11,
             "owner": "THUDM",
             "repo": "GraphMAE",
-            "stars": 591
+            "stars": 592,
+            "topics": [
+              "deep-learning",
+              "graph-neural-networks",
+              "pytorch",
+              "self-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
         },
@@ -2166,12 +3158,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for KDD'20 \"Generative Pre-Training of Graph Neural Networks\"",
+            "homepage": null,
             "id": 275249017,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-25T10:57:55Z",
+            "open_issues": 23,
             "owner": "acbull",
             "repo": "GPT-GNN",
-            "stars": 500
+            "stars": 500,
+            "topics": [
+              "graph-neural-networks",
+              "graph-representation-learning",
+              "pre-training",
+              "self-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
         },
@@ -2182,12 +3184,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[GRL+ @ ICML 2020] PyTorch implementation for \"Deep Graph Contrastive Representation Learning\" (https://arxiv.org/abs/2006.04131v2)",
+            "homepage": null,
             "id": 270248844,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-25T08:21:20Z",
+            "open_issues": 7,
             "owner": "CRIPAC-DIG",
             "repo": "GRACE",
-            "stars": 357
+            "stars": 357,
+            "topics": [
+              "contrastive-learning",
+              "deep-learning",
+              "graph-representation-learning",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
         },
@@ -2198,12 +3210,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for hyperboloid embeddings for knowledge graph entities",
+            "homepage": null,
             "id": 324075726,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-02T17:54:05Z",
+            "open_issues": 2,
             "owner": "amazon-science",
             "repo": "hyperbolic-embeddings",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
         },
@@ -2214,12 +3231,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Subgraph Based Learning of Contextual Embedding",
+            "homepage": null,
             "id": 285621918,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-11-05T00:12:55Z",
+            "open_issues": 5,
             "owner": "pnnl",
             "repo": "SLiCE",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
         }
@@ -2228,15 +3250,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:36:46.020Z",
+    "last_updated": "2026-08-29T04:14:58.918Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome self-supervised methods",
+      "homepage": null,
       "id": 120975327,
       "language": null,
+      "license": null,
       "last_commit": "2026-02-24T08:30:02Z",
+      "open_issues": 1,
       "owner": "jason718",
       "repo": "awesome-self-supervised-learning",
-      "stars": 6413
+      "stars": 6413,
+      "topics": [
+        "computer-vision",
+        "deep-learning",
+        "machine-learning",
+        "natural-language-processing",
+        "reinforcement-learning",
+        "robotics",
+        "self-supervised"
+      ]
     },
     "original_repository_sha": "8ce285c4e2b0a88f5aae134820f31f9e4d688c98",
     "enhanced_repository": "enhansome/enhansome-self-supervised-learning",
