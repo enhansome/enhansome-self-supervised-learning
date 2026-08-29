@@ -822,7 +822,7 @@
                     "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38643,
+                    "stars": 38644,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -3193,7 +3193,7 @@
             "open_issues": 7,
             "owner": "CRIPAC-DIG",
             "repo": "GRACE",
-            "stars": 357,
+            "stars": 358,
             "topics": [
               "contrastive-learning",
               "deep-learning",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:14:58.918Z",
+    "last_updated": "2026-08-29T09:24:32.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",
