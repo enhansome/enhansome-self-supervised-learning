@@ -432,7 +432,7 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,644 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-27
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,651 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-27
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
@@ -895,7 +895,7 @@ Markdown format:
 
 * BYOL for Audio: Self-Supervised Learning for General-Purpose Audio Representation.
   [\[pdf\]](https://arxiv.org/pdf/2103.06695.pdf)
-  [\[code\]](https://github.com/nttcslab/byol-a) ⭐ 239 | 🐛 0 | 🌐 Python | 📅 2023-04-26
+  [\[code\]](https://github.com/nttcslab/byol-a) ⭐ 240 | 🐛 0 | 🌐 Python | 📅 2023-04-26
   * Daisuke Niizumi; Daiki Takeuchi; Yasunori Ohishi *IJCNN 2021*
 
 * Audio-Visual Scene Analysis with Self-Supervised Multisensory Features.
@@ -1361,7 +1361,7 @@ Markdown format:
 
 * A Transformer-Based Framework for Multivariate Time Series Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/2010.02803.pdf)
-  [\[code\]](https://github.com/gzerveas/mvts_transformer) ⭐ 874 | 🐛 35 | 🌐 Python | 📅 2026-04-29
+  [\[code\]](https://github.com/gzerveas/mvts_transformer) ⭐ 875 | 🐛 35 | 🌐 Python | 📅 2026-04-29
   * Zerveas, George, Srideepika Jayaraman, Dhaval Patel, Anuradha Bhamidipaty, and Carsten Eickhoff. *KDD 2021*
 
 * TS2Vec: Towards Universal Representation of Time Series
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
