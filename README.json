@@ -822,7 +822,7 @@
                     "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38664,
+                    "stars": 38678,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -972,7 +972,7 @@
                     "open_issues": 20,
                     "owner": "wvangansbeke",
                     "repo": "Unsupervised-Classification",
-                    "stars": 1455,
+                    "stars": 1457,
                     "topics": [
                       "clustering",
                       "contrastive-learning",
@@ -1004,7 +1004,7 @@
                     "open_issues": 32,
                     "owner": "PatrickHua",
                     "repo": "SimSiam",
-                    "stars": 830,
+                    "stars": 829,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -1317,7 +1317,7 @@
                     "open_issues": 8,
                     "owner": "facebookresearch",
                     "repo": "barlowtwins",
-                    "stars": 1017,
+                    "stars": 1016,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -2406,7 +2406,7 @@
                 "open_issues": 6,
                 "owner": "OxWearables",
                 "repo": "ssl-wearables",
-                "stars": 163,
+                "stars": 164,
                 "topics": [
                   "accelerometer",
                   "deep-learning",
@@ -2564,7 +2564,7 @@
             "open_issues": 880,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40047,
+            "stars": 40046,
             "topics": [
               "google",
               "natural-language-processing",
@@ -3016,7 +3016,7 @@
             "open_issues": 4,
             "owner": "emadeldeen24",
             "repo": "TS-TCC",
-            "stars": 498,
+            "stars": 499,
             "topics": [
               "contextual",
               "contrastive-learning",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T07:59:50.761Z",
+    "last_updated": "2026-09-02T07:20:20.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",
@@ -3262,7 +3262,7 @@
       "open_issues": 1,
       "owner": "jason718",
       "repo": "awesome-self-supervised-learning",
-      "stars": 6413,
+      "stars": 6414,
       "topics": [
         "computer-vision",
         "deep-learning",

@@ -1,6 +1,6 @@
 # Awesome Self-Supervised Learning with stars
 
-A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,187 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,910 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,182 | 🐛 37 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,190 | 🐛 2 | 📅 2020-09-15
+A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,188 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,911 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,182 | 🐛 37 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,190 | 🐛 2 | 📅 2020-09-15
 
 #### Why Self-Supervised?
 
@@ -16,7 +16,7 @@ Self-Supervised Learning has become an exciting direction in AI community.
   <img src="http://cdn1.sportngin.com/attachments/news_article/7269/5172/needyou_small.jpg" alt="We Need You!">
 </p>
 
-Please help contribute this list by [pull request](https://github.com/jason718/Awesome-Self-Supervised-Learning/pulls) ⭐ 6,413 | 🐛 1 | 📅 2026-02-24
+Please help contribute this list by [pull request](https://github.com/jason718/Awesome-Self-Supervised-Learning/pulls) ⭐ 6,414 | 🐛 1 | 📅 2026-02-24
 
 Markdown format:
 
@@ -432,7 +432,7 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,664 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-31
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,678 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-31
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
@@ -462,12 +462,12 @@ Markdown format:
 
 * SCAN: Learning to Classify Images without Labels
   [\[pdf\]](https://arxiv.org/abs/2005.12320)
-  [\[code\]](https://github.com/wvangansbeke/Unsupervised-Classification) ⭐ 1,455 | 🐛 20 | 🌐 Python | 📅 2023-07-27
+  [\[code\]](https://github.com/wvangansbeke/Unsupervised-Classification) ⭐ 1,457 | 🐛 20 | 🌐 Python | 📅 2023-07-27
   * Wouter Van Gansbeke, Simon Vandenhende, Stamatios Georgoulis, Marc Proesmans, Luc Van Gool. *ECCV 2020*
 
 * Exploring Simple Siamese Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/2011.10566)
-  [\[unofficial-code\]](https://github.com/PatrickHua/SimSiam) ⭐ 830 | 🐛 32 | 🌐 Python | 📅 2022-07-14
+  [\[unofficial-code\]](https://github.com/PatrickHua/SimSiam) ⭐ 829 | 🐛 32 | 🌐 Python | 📅 2022-07-14
   * Xinlei Chen, Kaiming He
 
 * Rethinking the Value of Labels for Improving Class-Imbalanced Learning
@@ -956,7 +956,7 @@ Markdown format:
 
 * Self-supervised Learning for Human Activity Recognition Using 700,000 Person-days of Wearable Data
   [\[pdf\]](https://arxiv.org/abs/2206.02909)
-  [\[code\]](https://github.com/OxWearables/ssl-wearables) ⭐ 163 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-10-24
+  [\[code\]](https://github.com/OxWearables/ssl-wearables) ⭐ 164 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-10-24
   * Hang Yuan\*, Shing Chan\*, Andrew P. Creagh, Catherine Tong, David A. Clifton, Aiden Doherty
 
 * Multi-Task Self-Supervised Object Detection via Recycling of Bounding Box Annotations.
@@ -1371,7 +1371,7 @@ Markdown format:
 
 * Time-Series Representation Learning via Temporal and Contextual Contrasting
   [\[pdf\]](https://www.ijcai.org/proceedings/2021/0324.pdf)
-  [\[code\]](https://github.com/emadeldeen24/TS-TCC) ⭐ 498 | 🐛 4 | 🌐 Python | 📅 2024-03-31
+  [\[code\]](https://github.com/emadeldeen24/TS-TCC) ⭐ 499 | 🐛 4 | 🌐 Python | 📅 2024-03-31
   * Emadeldeen Eldele, Mohamed Ragab, Zhenghua Chen, Min Wu, Chee Keong Kwoh, Xiaoli Li, and Cuntai Guan. *IJCAI 2021*
 
 * Unsupervised Scalable Representation Learning for Multivariate Time Series
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
