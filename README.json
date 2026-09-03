@@ -818,11 +818,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-31T14:53:17Z",
+                    "last_commit": "2026-09-02T22:34:06Z",
                     "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38678,
+                    "stars": 38685,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2669,7 +2669,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32229,
+            "stars": 32230,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2694,7 +2694,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32229,
+            "stars": 32230,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2719,7 +2719,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32229,
+            "stars": 32230,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2744,7 +2744,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32229,
+            "stars": 32230,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2769,7 +2769,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32229,
+            "stars": 32230,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2791,7 +2791,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-03-12T19:14:49Z",
-            "open_issues": 71,
+            "open_issues": 72,
             "owner": "s3prl",
             "repo": "s3prl",
             "stars": 2562,
@@ -2833,7 +2833,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-03-12T19:14:49Z",
-            "open_issues": 71,
+            "open_issues": 72,
             "owner": "s3prl",
             "repo": "s3prl",
             "stars": 2562,
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T07:20:20.873Z",
+    "last_updated": "2026-09-03T07:23:55.530Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",
@@ -3262,7 +3262,7 @@
       "open_issues": 1,
       "owner": "jason718",
       "repo": "awesome-self-supervised-learning",
-      "stars": 6414,
+      "stars": 6415,
       "topics": [
         "computer-vision",
         "deep-learning",
