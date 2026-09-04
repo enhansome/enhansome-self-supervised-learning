@@ -300,7 +300,7 @@
                     "open_issues": 20,
                     "owner": "zhirongw",
                     "repo": "lemniscate.pytorch",
-                    "stars": 758,
+                    "stars": 759,
                     "topics": [
                       "computer-vision",
                       "cvpr2018",
@@ -700,7 +700,7 @@
                     "open_issues": 5,
                     "owner": "philiptheother",
                     "repo": "FeatureDecoupling",
-                    "stars": 96,
+                    "stars": 97,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -818,11 +818,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-02T22:34:06Z",
+                    "last_commit": "2026-09-03T08:28:07Z",
                     "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38685,
+                    "stars": 38689,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -944,7 +944,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-04-27T20:33:48Z",
-                    "open_issues": 41,
+                    "open_issues": 42,
                     "owner": "lucidrains",
                     "repo": "byol-pytorch",
                     "stars": 1902,
@@ -2564,7 +2564,7 @@
             "open_issues": 880,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40046,
+            "stars": 40045,
             "topics": [
               "google",
               "natural-language-processing",
@@ -2794,7 +2794,7 @@
             "open_issues": 72,
             "owner": "s3prl",
             "repo": "s3prl",
-            "stars": 2562,
+            "stars": 2563,
             "topics": [
               "apc",
               "cpc",
@@ -2836,7 +2836,7 @@
             "open_issues": 72,
             "owner": "s3prl",
             "repo": "s3prl",
-            "stars": 2562,
+            "stars": 2563,
             "topics": [
               "apc",
               "cpc",
@@ -2974,7 +2974,7 @@
             "open_issues": 35,
             "owner": "gzerveas",
             "repo": "mvts_transformer",
-            "stars": 876,
+            "stars": 875,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T07:23:55.530Z",
+    "last_updated": "2026-09-04T07:26:05.184Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",
@@ -3262,7 +3262,7 @@
       "open_issues": 1,
       "owner": "jason718",
       "repo": "awesome-self-supervised-learning",
-      "stars": 6415,
+      "stars": 6416,
       "topics": [
         "computer-vision",
         "deep-learning",
