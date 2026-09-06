@@ -465,7 +465,7 @@
                     "open_issues": 25,
                     "owner": "HobbitLong",
                     "repo": "CMC",
-                    "stars": 1340,
+                    "stars": 1339,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -819,10 +819,10 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-03T08:28:07Z",
-                    "open_issues": 1989,
+                    "open_issues": 1990,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38691,
+                    "stars": 38693,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1317,7 +1317,7 @@
                     "open_issues": 8,
                     "owner": "facebookresearch",
                     "repo": "barlowtwins",
-                    "stars": 1016,
+                    "stars": 1015,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T07:07:34.015Z",
+    "last_updated": "2026-09-06T07:19:26.015Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",
