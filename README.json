@@ -818,11 +818,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-03T08:28:07Z",
+                    "last_commit": "2026-09-07T16:12:34Z",
                     "open_issues": 1990,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38703,
+                    "stars": 38712,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1004,7 +1004,7 @@
                     "open_issues": 32,
                     "owner": "PatrickHua",
                     "repo": "SimSiam",
-                    "stars": 829,
+                    "stars": 828,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -2259,7 +2259,7 @@
                 "open_issues": 11,
                 "owner": "hangzhaomit",
                 "repo": "Sound-of-Pixels",
-                "stars": 393,
+                "stars": 394,
                 "topics": [
                   "computer-vision",
                   "cross-modality",
@@ -2564,7 +2564,7 @@
             "open_issues": 880,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40044,
+            "stars": 40043,
             "topics": [
               "google",
               "natural-language-processing",
@@ -3193,7 +3193,7 @@
             "open_issues": 7,
             "owner": "CRIPAC-DIG",
             "repo": "GRACE",
-            "stars": 358,
+            "stars": 357,
             "topics": [
               "contrastive-learning",
               "deep-learning",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T07:34:04.222Z",
+    "last_updated": "2026-09-08T07:27:08.971Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",

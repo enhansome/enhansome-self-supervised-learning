@@ -1,6 +1,6 @@
 # Awesome Self-Supervised Learning with stars
 
-A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,185 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,912 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,186 | 🐛 37 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,190 | 🐛 2 | 📅 2020-09-15
+A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,185 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,912 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,185 | 🐛 37 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,190 | 🐛 2 | 📅 2020-09-15
 
 #### Why Self-Supervised?
 
@@ -432,7 +432,7 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,703 | 🐛 1,990 | 🌐 Jupyter Notebook | 📅 2026-09-03
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,712 | 🐛 1,990 | 🌐 Jupyter Notebook | 📅 2026-09-07
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
@@ -467,7 +467,7 @@ Markdown format:
 
 * Exploring Simple Siamese Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/2011.10566)
-  [\[unofficial-code\]](https://github.com/PatrickHua/SimSiam) ⭐ 829 | 🐛 32 | 🌐 Python | 📅 2022-07-14
+  [\[unofficial-code\]](https://github.com/PatrickHua/SimSiam) ⭐ 828 | 🐛 32 | 🌐 Python | 📅 2022-07-14
   * Xinlei Chen, Kaiming He
 
 * Rethinking the Value of Labels for Improving Class-Imbalanced Learning
@@ -890,7 +890,7 @@ Markdown format:
 
 * The Sound of Pixels.
   [\[pdf\]](https://arxiv.org/pdf/1804.03160.pdf)
-  [\[project\]](https://github.com/hangzhaomit/Sound-of-Pixels) ⭐ 393 | 🐛 11 | 🌐 Python | 📅 2022-04-25
+  [\[project\]](https://github.com/hangzhaomit/Sound-of-Pixels) ⭐ 394 | 🐛 11 | 🌐 Python | 📅 2022-04-25
   * Zhao, Hang and Gan, Chuang and Rouditchenko, Andrew and Vondrick, Carl and McDermott, Josh and Torralba, Antonio. *ECCV 2018*
 
 * BYOL for Audio: Self-Supervised Learning for General-Purpose Audio Representation.
@@ -1403,7 +1403,7 @@ Markdown format:
 
 * Deep Graph Contrastive Representation Learning
   [\[pdf\]](http://arxiv.org/abs/2006.04131)
-  [\[code\]](https://github.com/CRIPAC-DIG/GRACE) ⭐ 358 | 🐛 7 | 🌐 Python | 📅 2024-04-25
+  [\[code\]](https://github.com/CRIPAC-DIG/GRACE) ⭐ 357 | 🐛 7 | 🌐 Python | 📅 2024-04-25
   * Yanqiao Zhu, Yichen Xu, Feng Yu, Qiang Liu, Shu Wu, Liang Wang. *ICML 2020 Workshop*
 
 * Self-Supervised Hyperboloid Representations from Logical Queries over Knowledge Graphs
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
