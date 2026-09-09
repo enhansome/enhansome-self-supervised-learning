@@ -279,7 +279,7 @@
                     "open_issues": 10,
                     "owner": "facebookresearch",
                     "repo": "deepcluster",
-                    "stars": 1743,
+                    "stars": 1741,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -818,11 +818,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-07T16:12:34Z",
+                    "last_commit": "2026-09-08T09:22:17Z",
                     "open_issues": 1990,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38712,
+                    "stars": 38715,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -926,7 +926,7 @@
                     "open_issues": 41,
                     "owner": "facebookresearch",
                     "repo": "swav",
-                    "stars": 2096,
+                    "stars": 2094,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -947,7 +947,7 @@
                     "open_issues": 42,
                     "owner": "lucidrains",
                     "repo": "byol-pytorch",
-                    "stars": 1903,
+                    "stars": 1901,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -1004,7 +1004,7 @@
                     "open_issues": 32,
                     "owner": "PatrickHua",
                     "repo": "SimSiam",
-                    "stars": 828,
+                    "stars": 827,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -1025,7 +1025,7 @@
                     "open_issues": 0,
                     "owner": "YyzHarry",
                     "repo": "imbalanced-semi-self",
-                    "stars": 756,
+                    "stars": 755,
                     "topics": [
                       "class-imbalance",
                       "imbalanced-classification",
@@ -1058,7 +1058,7 @@
                     "open_issues": 4,
                     "owner": "yukimasano",
                     "repo": "self-label",
-                    "stars": 546,
+                    "stars": 545,
                     "topics": [
                       "clustering",
                       "iclr2020",
@@ -1138,7 +1138,7 @@
                     "open_issues": 0,
                     "owner": "hankook",
                     "repo": "SLA",
-                    "stars": 107,
+                    "stars": 106,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -1730,7 +1730,7 @@
                 "open_issues": 10,
                 "owner": "xiaolonw",
                 "repo": "TimeCycle",
-                "stars": 723,
+                "stars": 722,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
@@ -2406,7 +2406,7 @@
                 "open_issues": 6,
                 "owner": "OxWearables",
                 "repo": "ssl-wearables",
-                "stars": 164,
+                "stars": 165,
                 "topics": [
                   "accelerometer",
                   "deep-learning",
@@ -2564,7 +2564,7 @@
             "open_issues": 880,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40043,
+            "stars": 40042,
             "topics": [
               "google",
               "natural-language-processing",
@@ -2669,7 +2669,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32231,
+            "stars": 32230,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2694,7 +2694,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32231,
+            "stars": 32230,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2719,7 +2719,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32231,
+            "stars": 32230,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2744,7 +2744,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32231,
+            "stars": 32230,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2769,7 +2769,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32231,
+            "stars": 32230,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2794,7 +2794,7 @@
             "open_issues": 72,
             "owner": "s3prl",
             "repo": "s3prl",
-            "stars": 2563,
+            "stars": 2564,
             "topics": [
               "apc",
               "cpc",
@@ -2836,7 +2836,7 @@
             "open_issues": 72,
             "owner": "s3prl",
             "repo": "s3prl",
-            "stars": 2563,
+            "stars": 2564,
             "topics": [
               "apc",
               "cpc",
@@ -2974,7 +2974,7 @@
             "open_issues": 35,
             "owner": "gzerveas",
             "repo": "mvts_transformer",
-            "stars": 875,
+            "stars": 874,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T07:27:08.971Z",
+    "last_updated": "2026-09-09T07:35:05.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",
@@ -3262,7 +3262,7 @@
       "open_issues": 1,
       "owner": "jason718",
       "repo": "awesome-self-supervised-learning",
-      "stars": 6415,
+      "stars": 6414,
       "topics": [
         "computer-vision",
         "deep-learning",
