@@ -822,7 +822,7 @@
                     "open_issues": 1992,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38730,
+                    "stars": 38740,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2564,7 +2564,7 @@
             "open_issues": 880,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40044,
+            "stars": 40042,
             "topics": [
               "google",
               "natural-language-processing",
@@ -3167,7 +3167,7 @@
             "open_issues": 23,
             "owner": "acbull",
             "repo": "GPT-GNN",
-            "stars": 500,
+            "stars": 499,
             "topics": [
               "graph-neural-networks",
               "graph-representation-learning",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T07:29:53.615Z",
+    "last_updated": "2026-09-12T07:21:41.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",
