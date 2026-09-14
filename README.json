@@ -822,7 +822,7 @@
                     "open_issues": 1992,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38744,
+                    "stars": 38752,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -847,7 +847,7 @@
                     "open_issues": 61,
                     "owner": "facebookresearch",
                     "repo": "moco",
-                    "stars": 5136,
+                    "stars": 5135,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -2669,7 +2669,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32229,
+            "stars": 32228,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2694,7 +2694,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32229,
+            "stars": 32228,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2719,7 +2719,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32229,
+            "stars": 32228,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2744,7 +2744,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32229,
+            "stars": 32228,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2769,7 +2769,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32229,
+            "stars": 32228,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2794,7 +2794,7 @@
             "open_issues": 72,
             "owner": "s3prl",
             "repo": "s3prl",
-            "stars": 2565,
+            "stars": 2566,
             "topics": [
               "apc",
               "cpc",
@@ -2836,7 +2836,7 @@
             "open_issues": 72,
             "owner": "s3prl",
             "repo": "s3prl",
-            "stars": 2565,
+            "stars": 2566,
             "topics": [
               "apc",
               "cpc",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T07:40:50.765Z",
+    "last_updated": "2026-09-14T08:07:41.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",
@@ -3262,7 +3262,7 @@
       "open_issues": 2,
       "owner": "jason718",
       "repo": "awesome-self-supervised-learning",
-      "stars": 6415,
+      "stars": 6416,
       "topics": [
         "computer-vision",
         "deep-learning",
