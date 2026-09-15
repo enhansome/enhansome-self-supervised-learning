@@ -1,6 +1,6 @@
 # Awesome Self-Supervised Learning with stars
 
-A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,185 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,913 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,187 | 🐛 37 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,191 | 🐛 2 | 📅 2020-09-15
+A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,186 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,913 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,187 | 🐛 37 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,191 | 🐛 2 | 📅 2020-09-15
 
 #### Why Self-Supervised?
 
@@ -432,7 +432,7 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,752 | 🐛 1,992 | 🌐 Jupyter Notebook | 📅 2026-09-10
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,765 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-10
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
@@ -650,7 +650,7 @@ Markdown format:
 
 * Towards evolution of Deep Neural Networks through contrastive Self-Supervised learning
   [\[pdf\]](https://arxiv.org/pdf/2406.14525)
-  [\[code\]](https://github.com/cdvetal/evodenss) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2026-01-10
+  [\[code\]](https://github.com/cdvetal/evodenss) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-01-10
   * Adriano Vinhas, João Correia, Penousal Machado. *CEC 2024*
 
 ### Video Representation Learning
@@ -1297,12 +1297,12 @@ Markdown format:
 
 * Mockingjay: Unsupervised Speech Representation Learning with Deep Bidirectional Transformer Encoders
   [\[pdf\]](https://arxiv.org/abs/1910.12638)
-  [\[code\]](https://github.com/s3prl/s3prl) ⭐ 2,566 | 🐛 72 | 🌐 Python | 📅 2026-03-12
+  [\[code\]](https://github.com/s3prl/s3prl) ⭐ 2,567 | 🐛 72 | 🌐 Python | 📅 2026-03-12
   * Andy T. Liu, Shu-wen Yang, Po-Han Chi, Po-chun Hsu, Hung-yi Lee. *ICASSP 2020*
 
 * TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech
   [\[pdf\]](https://arxiv.org/abs/2007.06028)
-  [\[code\]](https://github.com/s3prl/s3prl) ⭐ 2,566 | 🐛 72 | 🌐 Python | 📅 2026-03-12
+  [\[code\]](https://github.com/s3prl/s3prl) ⭐ 2,567 | 🐛 72 | 🌐 Python | 📅 2026-03-12
   * Andy T. Liu, Shang-Wen Li, Hung-yi Lee. *IEEE/ACM TASLP 2021*
 
 * Unsupervised Pretraining Transfers Well Across Languages
@@ -1366,7 +1366,7 @@ Markdown format:
 
 * TS2Vec: Towards Universal Representation of Time Series
   [\[pdf\]](https://www.aaai.org/AAAI22Papers/AAAI-8809.YueZ.pdf)
-  [\[code\]](https://github.com/yuezhihan/ts2vec) ⭐ 870 | 🐛 28 | 🌐 Python | 📅 2024-07-29
+  [\[code\]](https://github.com/yuezhihan/ts2vec) ⭐ 871 | 🐛 28 | 🌐 Python | 📅 2024-07-29
   * Zerveas, George, Srideepika Jayaraman, Dhaval Patel, Anuradha Bhamidipaty, and Carsten Eickhoff. *AAAI 2022*
 
 * Time-Series Representation Learning via Temporal and Contextual Contrasting
@@ -1398,7 +1398,7 @@ Markdown format:
 
 * GPT-GNN: Generative Pre-Training of Graph Neural Networks
   [\[pdf\]](https://arxiv.org/pdf/2006.15437.pdf)
-  [\[code\]](https://github.com/acbull/GPT-GNN) ⭐ 499 | 🐛 23 | 🌐 Python | 📅 2024-07-25
+  [\[code\]](https://github.com/acbull/GPT-GNN) ⭐ 500 | 🐛 23 | 🌐 Python | 📅 2024-07-25
   * Ziniu Hu, Yuxiao Dong, Kuansan Wang, Kai-Wei Chang, Yizhou Sun. *KDD 2020*
 
 * Deep Graph Contrastive Representation Learning
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
