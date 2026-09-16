@@ -16,7 +16,7 @@ Self-Supervised Learning has become an exciting direction in AI community.
   <img src="http://cdn1.sportngin.com/attachments/news_article/7269/5172/needyou_small.jpg" alt="We Need You!">
 </p>
 
-Please help contribute this list by [pull request](https://github.com/jason718/Awesome-Self-Supervised-Learning/pulls) ⭐ 6,416 | 🐛 2 | 📅 2026-02-24
+Please help contribute this list by [pull request](https://github.com/jason718/Awesome-Self-Supervised-Learning/pulls) ⭐ 6,425 | 🐛 2 | 📅 2026-02-24
 
 Markdown format:
 
@@ -432,7 +432,7 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,765 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-10
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,771 | 🐛 1,994 | 🌐 Jupyter Notebook | 📅 2026-09-15
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
@@ -1371,7 +1371,7 @@ Markdown format:
 
 * Time-Series Representation Learning via Temporal and Contextual Contrasting
   [\[pdf\]](https://www.ijcai.org/proceedings/2021/0324.pdf)
-  [\[code\]](https://github.com/emadeldeen24/TS-TCC) ⭐ 499 | 🐛 4 | 🌐 Python | 📅 2024-03-31
+  [\[code\]](https://github.com/emadeldeen24/TS-TCC) ⭐ 498 | 🐛 4 | 🌐 Python | 📅 2024-03-31
   * Emadeldeen Eldele, Mohamed Ragab, Zhenghua Chen, Min Wu, Chee Keong Kwoh, Xiaoli Li, and Cuntai Guan. *IJCAI 2021*
 
 * Unsupervised Scalable Representation Learning for Multivariate Time Series
@@ -1398,7 +1398,7 @@ Markdown format:
 
 * GPT-GNN: Generative Pre-Training of Graph Neural Networks
   [\[pdf\]](https://arxiv.org/pdf/2006.15437.pdf)
-  [\[code\]](https://github.com/acbull/GPT-GNN) ⭐ 500 | 🐛 23 | 🌐 Python | 📅 2024-07-25
+  [\[code\]](https://github.com/acbull/GPT-GNN) ⭐ 501 | 🐛 23 | 🌐 Python | 📅 2024-07-25
   * Ziniu Hu, Yuxiao Dong, Kuansan Wang, Kai-Wei Chang, Yizhou Sun. *KDD 2020*
 
 * Deep Graph Contrastive Representation Learning
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
