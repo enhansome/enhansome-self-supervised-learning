@@ -822,7 +822,7 @@
                     "open_issues": 1994,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38779,
+                    "stars": 38786,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1317,7 +1317,7 @@
                     "open_issues": 8,
                     "owner": "facebookresearch",
                     "repo": "barlowtwins",
-                    "stars": 1015,
+                    "stars": 1016,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -2669,7 +2669,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32224,
+            "stars": 32222,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2694,7 +2694,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32224,
+            "stars": 32222,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2719,7 +2719,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32224,
+            "stars": 32222,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2744,7 +2744,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32224,
+            "stars": 32222,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2769,7 +2769,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32224,
+            "stars": 32222,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -3112,7 +3112,7 @@
             "open_issues": 11,
             "owner": "PetarV-",
             "repo": "DGI",
-            "stars": 667,
+            "stars": 668,
             "topics": [
               "deep-graph-infomax",
               "graph-convolutional-networks",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T07:59:54.816Z",
+    "last_updated": "2026-09-18T07:38:01.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",
