@@ -819,10 +819,10 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-16T19:46:42Z",
-                    "open_issues": 1994,
+                    "open_issues": 1995,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38786,
+                    "stars": 38789,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -847,7 +847,7 @@
                     "open_issues": 61,
                     "owner": "facebookresearch",
                     "repo": "moco",
-                    "stars": 5135,
+                    "stars": 5134,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -868,7 +868,7 @@
                     "open_issues": 71,
                     "owner": "google-research",
                     "repo": "simclr",
-                    "stars": 4503,
+                    "stars": 4502,
                     "topics": [
                       "computer-vision",
                       "contrastive-learning",
@@ -897,7 +897,7 @@
                     "open_issues": 71,
                     "owner": "google-research",
                     "repo": "simclr",
-                    "stars": 4503,
+                    "stars": 4502,
                     "topics": [
                       "computer-vision",
                       "contrastive-learning",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T07:38:01.425Z",
+    "last_updated": "2026-09-19T07:33:25.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",
