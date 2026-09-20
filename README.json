@@ -822,7 +822,7 @@
                     "open_issues": 1995,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38789,
+                    "stars": 38797,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -847,7 +847,7 @@
                     "open_issues": 61,
                     "owner": "facebookresearch",
                     "repo": "moco",
-                    "stars": 5134,
+                    "stars": 5135,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -2995,7 +2995,7 @@
             "open_issues": 28,
             "owner": "zhihanyue",
             "repo": "ts2vec",
-            "stars": 872,
+            "stars": 873,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
@@ -3141,7 +3141,7 @@
             "open_issues": 11,
             "owner": "THUDM",
             "repo": "GraphMAE",
-            "stars": 592,
+            "stars": 593,
             "topics": [
               "deep-learning",
               "graph-neural-networks",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T07:33:25.320Z",
+    "last_updated": "2026-09-20T07:56:10.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",
