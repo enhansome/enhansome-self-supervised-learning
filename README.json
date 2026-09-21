@@ -822,7 +822,7 @@
                     "open_issues": 1995,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38797,
+                    "stars": 38807,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2285,7 +2285,7 @@
                 "open_issues": 0,
                 "owner": "nttcslab",
                 "repo": "byol-a",
-                "stars": 240,
+                "stars": 241,
                 "topics": [
                   "audio",
                   "byol",
@@ -2406,7 +2406,7 @@
                 "open_issues": 6,
                 "owner": "OxWearables",
                 "repo": "ssl-wearables",
-                "stars": 165,
+                "stars": 166,
                 "topics": [
                   "accelerometer",
                   "deep-learning",
@@ -2564,7 +2564,7 @@
             "open_issues": 880,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40041,
+            "stars": 40043,
             "topics": [
               "google",
               "natural-language-processing",
@@ -2669,7 +2669,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32222,
+            "stars": 32220,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2694,7 +2694,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32222,
+            "stars": 32220,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2719,7 +2719,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32222,
+            "stars": 32220,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2744,7 +2744,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32222,
+            "stars": 32220,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2769,7 +2769,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32222,
+            "stars": 32220,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2794,7 +2794,7 @@
             "open_issues": 72,
             "owner": "s3prl",
             "repo": "s3prl",
-            "stars": 2568,
+            "stars": 2567,
             "topics": [
               "apc",
               "cpc",
@@ -2836,7 +2836,7 @@
             "open_issues": 72,
             "owner": "s3prl",
             "repo": "s3prl",
-            "stars": 2568,
+            "stars": 2567,
             "topics": [
               "apc",
               "cpc",
@@ -2974,7 +2974,7 @@
             "open_issues": 35,
             "owner": "gzerveas",
             "repo": "mvts_transformer",
-            "stars": 874,
+            "stars": 875,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
@@ -3053,7 +3053,7 @@
             "open_issues": 1,
             "owner": "White-Link",
             "repo": "UnsupervisedScalableRepresentationLearningTimeSeries",
-            "stars": 404,
+            "stars": 405,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T07:56:10.396Z",
+    "last_updated": "2026-09-21T08:13:36.810Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",

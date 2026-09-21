@@ -1,6 +1,6 @@
 # Awesome Self-Supervised Learning with stars
 
-A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,187 | 🐛 48 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,914 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,191 | 🐛 37 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,191 | 🐛 2 | 📅 2020-09-15
+A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,187 | 🐛 48 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,914 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,193 | 🐛 37 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,191 | 🐛 2 | 📅 2020-09-15
 
 #### Why Self-Supervised?
 
@@ -432,7 +432,7 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,797 | 🐛 1,995 | 🌐 Jupyter Notebook | 📅 2026-09-16
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,807 | 🐛 1,995 | 🌐 Jupyter Notebook | 📅 2026-09-16
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
@@ -895,7 +895,7 @@ Markdown format:
 
 * BYOL for Audio: Self-Supervised Learning for General-Purpose Audio Representation.
   [\[pdf\]](https://arxiv.org/pdf/2103.06695.pdf)
-  [\[code\]](https://github.com/nttcslab/byol-a) ⭐ 240 | 🐛 0 | 🌐 Python | 📅 2023-04-26
+  [\[code\]](https://github.com/nttcslab/byol-a) ⭐ 241 | 🐛 0 | 🌐 Python | 📅 2023-04-26
   * Daisuke Niizumi; Daiki Takeuchi; Yasunori Ohishi *IJCNN 2021*
 
 * Audio-Visual Scene Analysis with Self-Supervised Multisensory Features.
@@ -956,7 +956,7 @@ Markdown format:
 
 * Self-supervised Learning for Human Activity Recognition Using 700,000 Person-days of Wearable Data
   [\[pdf\]](https://arxiv.org/abs/2206.02909)
-  [\[code\]](https://github.com/OxWearables/ssl-wearables) ⭐ 165 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-10-24
+  [\[code\]](https://github.com/OxWearables/ssl-wearables) ⭐ 166 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-10-24
   * Hang Yuan\*, Shing Chan\*, Andrew P. Creagh, Catherine Tong, David A. Clifton, Aiden Doherty
 
 * Multi-Task Self-Supervised Object Detection via Recycling of Bounding Box Annotations.
@@ -1297,12 +1297,12 @@ Markdown format:
 
 * Mockingjay: Unsupervised Speech Representation Learning with Deep Bidirectional Transformer Encoders
   [\[pdf\]](https://arxiv.org/abs/1910.12638)
-  [\[code\]](https://github.com/s3prl/s3prl) ⭐ 2,568 | 🐛 72 | 🌐 Python | 📅 2026-03-12
+  [\[code\]](https://github.com/s3prl/s3prl) ⭐ 2,567 | 🐛 72 | 🌐 Python | 📅 2026-03-12
   * Andy T. Liu, Shu-wen Yang, Po-Han Chi, Po-chun Hsu, Hung-yi Lee. *ICASSP 2020*
 
 * TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech
   [\[pdf\]](https://arxiv.org/abs/2007.06028)
-  [\[code\]](https://github.com/s3prl/s3prl) ⭐ 2,568 | 🐛 72 | 🌐 Python | 📅 2026-03-12
+  [\[code\]](https://github.com/s3prl/s3prl) ⭐ 2,567 | 🐛 72 | 🌐 Python | 📅 2026-03-12
   * Andy T. Liu, Shang-Wen Li, Hung-yi Lee. *IEEE/ACM TASLP 2021*
 
 * Unsupervised Pretraining Transfers Well Across Languages
@@ -1361,7 +1361,7 @@ Markdown format:
 
 * A Transformer-Based Framework for Multivariate Time Series Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/2010.02803.pdf)
-  [\[code\]](https://github.com/gzerveas/mvts_transformer) ⭐ 874 | 🐛 35 | 🌐 Python | 📅 2026-04-29
+  [\[code\]](https://github.com/gzerveas/mvts_transformer) ⭐ 875 | 🐛 35 | 🌐 Python | 📅 2026-04-29
   * Zerveas, George, Srideepika Jayaraman, Dhaval Patel, Anuradha Bhamidipaty, and Carsten Eickhoff. *KDD 2021*
 
 * TS2Vec: Towards Universal Representation of Time Series
@@ -1376,7 +1376,7 @@ Markdown format:
 
 * Unsupervised Scalable Representation Learning for Multivariate Time Series
   [\[pdf\]](https://proceedings.neurips.cc/paper/2019/file/53c6de78244e9f528eb3e1cda69699bb-Paper.pdf)
-  [\[code\]](https://github.com/White-Link/UnsupervisedScalableRepresentationLearningTimeSeries) ⭐ 404 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-07-31
+  [\[code\]](https://github.com/White-Link/UnsupervisedScalableRepresentationLearningTimeSeries) ⭐ 405 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-07-31
   * Franceschi, Jean-Yves, Aymeric Dieuleveut, and Martin Jaggi. *NeurIPS 2019*
 
 * Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
