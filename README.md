@@ -1,6 +1,6 @@
 # Awesome Self-Supervised Learning with stars
 
-A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,187 | 🐛 48 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,915 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,196 | 🐛 38 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,191 | 🐛 2 | 📅 2020-09-15
+A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,187 | 🐛 49 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,916 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,196 | 🐛 38 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,191 | 🐛 2 | 📅 2020-09-15
 
 #### Why Self-Supervised?
 
@@ -432,7 +432,7 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,825 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-23
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,831 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-23
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
@@ -457,7 +457,7 @@ Markdown format:
 
 * Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning
   [\[pdf\]](https://arxiv.org/abs/2006.07733)
-  [\[unofficial-code\]](https://github.com/lucidrains/byol-pytorch) ⭐ 1,901 | 🐛 41 | 🌐 Python | 📅 2026-04-27
+  [\[unofficial-code\]](https://github.com/lucidrains/byol-pytorch) ⭐ 1,900 | 🐛 41 | 🌐 Python | 📅 2026-04-27
   * Jean-Bastien Grill, Florian Strub, Florent Altché, Corentin Tallec, Pierre H. Richemond, Elena Buchatskaya, Carl Doersch, Bernardo Avila Pires, Zhaohan Daniel Guo, Mohammad Gheshlaghi Azar, Bilal Piot, Koray Kavukcuoglu, Rémi Munos, Michal Valko. *NeurIPS 2020, Oral*
 
 * SCAN: Learning to Classify Images without Labels
@@ -478,7 +478,7 @@ Markdown format:
 * Self-labelling via simultaneous clustering and representation learning
   [\[pdf\]](https://openreview.net/pdf?id=Hyx-jyBFPr)
   [\[blogpost\]](http://www.robots.ox.ac.uk/~vgg/blog/self-labelling-via-simultaneous-clustering-and-representation-learning.html)
-  [\[code\]](https://github.com/yukimasano/self-label) ⭐ 545 | 🐛 4 | 🌐 Python | 📅 2024-07-25
+  [\[code\]](https://github.com/yukimasano/self-label) ⭐ 546 | 🐛 4 | 🌐 Python | 📅 2024-07-25
   * Yuki Markus Asano, Christian Rupprecht, Andrea Vedaldi. *ICLR 2020 (Spotlight)*
 
 * Contrastive learning of global and local features for medical image segmentation with limited annotations
@@ -513,7 +513,7 @@ Markdown format:
 
 * A critical analysis of self-supervision, or what we can learn from a single image
   [\[pdf\]](https://arxiv.org/pdf/1904.13132)
-  [\[code\]](https://github.com/yukimasano/linear-probes) ⭐ 41 | 🐛 3 | 🌐 Python | 📅 2020-10-13
+  [\[code\]](https://github.com/yukimasano/linear-probes) ⭐ 42 | 🐛 3 | 🌐 Python | 📅 2020-10-13
   * Yuki M. Asano, Christian Rupprecht, Andrea Vedaldi. *ICLR 2020*
 
 * Mitigating embedding and class assignment mismatch in unsupervised image classification
@@ -556,7 +556,7 @@ Markdown format:
 
 * Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/2011.10043)
-  [\[code\]](https://github.com/zdaxie/PixPro) ⭐ 363 | 🐛 22 | 🌐 Python | 📅 2021-10-24
+  [\[code\]](https://github.com/zdaxie/PixPro) ⭐ 364 | 🐛 22 | 🌐 Python | 📅 2021-10-24
   * Zhenda Xie, Yutong Lin, Zheng Zhang, Yue Cao, Stephen Lin, and Han Hu. *CVPR 2021*
 
 * How Well Do Self-Supervised Models Transfer?
@@ -1042,7 +1042,7 @@ Markdown format:
 
 * Visual Reinforcement Learning with Self-Supervised 3D Representations.
   [\[pdf\]](https://arxiv.org/pdf/2210.07241.pdf)
-  [\[code\]](https://github.com/YanjieZe/rl3d) ⭐ 86 | 🐛 0 | 🌐 Python | 📅 2023-03-08
+  [\[code\]](https://github.com/YanjieZe/rl3d) ⭐ 87 | 🐛 0 | 🌐 Python | 📅 2023-03-08
   * Yanjie Ze\*, Nicklas Hansen\*, Yinbo Chen, Mohit Jain, Xiaolong Wang. *Preprint 2022*
 
 * Curiosity-driven Exploration by Self-supervised Prediction.
@@ -1413,7 +1413,7 @@ Markdown format:
 
 * Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks
   [\[pdf\]](https://people.cs.vt.edu/~reddy/papers/WWW21.pdf)
-  [\[code\]](https://github.com/pnnl/SLICE) ⭐ 29 | 🐛 5 | 🌐 Python | 📅 2021-11-05
+  [\[code\]](https://github.com/pnnl/SLICE) ⭐ 29 | 🐛 9 | 🌐 Python | 📅 2026-09-25
   * Ping Wang, Khushbu Agarwal, Colby Ham, Sutanay Choudhury, and Chandan K. Reddy. *WWW 2021*
 
 * When Does Self-Supervision Help Graph Convolutional Networks
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._

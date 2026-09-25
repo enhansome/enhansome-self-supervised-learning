@@ -822,7 +822,7 @@
                     "open_issues": 1996,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38825,
+                    "stars": 38831,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -947,7 +947,7 @@
                     "open_issues": 41,
                     "owner": "lucidrains",
                     "repo": "byol-pytorch",
-                    "stars": 1901,
+                    "stars": 1900,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -1058,7 +1058,7 @@
                     "open_issues": 4,
                     "owner": "yukimasano",
                     "repo": "self-label",
-                    "stars": 545,
+                    "stars": 546,
                     "topics": [
                       "clustering",
                       "iclr2020",
@@ -1226,7 +1226,7 @@
                     "open_issues": 3,
                     "owner": "yukimasano",
                     "repo": "linear-probes",
-                    "stars": 41,
+                    "stars": 42,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -1338,7 +1338,7 @@
                     "open_issues": 22,
                     "owner": "zdaxie",
                     "repo": "PixPro",
-                    "stars": 363,
+                    "stars": 364,
                     "topics": [
                       "contrastive-learning",
                       "cvpr2021",
@@ -2532,7 +2532,7 @@
                 "open_issues": 0,
                 "owner": "YanjieZe",
                 "repo": "rl3d",
-                "stars": 86,
+                "stars": 87,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
@@ -2564,7 +2564,7 @@
             "open_issues": 880,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40042,
+            "stars": 40045,
             "topics": [
               "google",
               "natural-language-processing",
@@ -2669,7 +2669,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32221,
+            "stars": 32219,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2694,7 +2694,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32221,
+            "stars": 32219,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2719,7 +2719,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32221,
+            "stars": 32219,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2744,7 +2744,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32221,
+            "stars": 32219,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2769,7 +2769,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32221,
+            "stars": 32219,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -3236,8 +3236,8 @@
             "id": 285621918,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2021-11-05T00:12:55Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-25T00:08:21Z",
+            "open_issues": 9,
             "owner": "pnnl",
             "repo": "SLiCE",
             "stars": 29,
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T07:50:11.746Z",
+    "last_updated": "2026-09-25T08:12:27.165Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",
