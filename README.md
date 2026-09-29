@@ -1,6 +1,6 @@
 # Awesome Self-Supervised Learning with stars
 
-A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,185 | 🐛 49 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,916 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,197 | 🐛 38 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,191 | 🐛 2 | 📅 2020-09-15
+A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,185 | 🐛 49 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,916 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,199 | 🐛 38 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,191 | 🐛 2 | 📅 2020-09-15
 
 #### Why Self-Supervised?
 
@@ -16,7 +16,7 @@ Self-Supervised Learning has become an exciting direction in AI community.
   <img src="http://cdn1.sportngin.com/attachments/news_article/7269/5172/needyou_small.jpg" alt="We Need You!">
 </p>
 
-Please help contribute this list by [pull request](https://github.com/jason718/Awesome-Self-Supervised-Learning/pulls) ⭐ 6,429 | 🐛 2 | 📅 2026-02-24
+Please help contribute this list by [pull request](https://github.com/jason718/Awesome-Self-Supervised-Learning/pulls) ⭐ 6,430 | 🐛 2 | 📅 2026-02-24
 
 Markdown format:
 
@@ -432,7 +432,7 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,836 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-23
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,846 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-23
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
@@ -1361,7 +1361,7 @@ Markdown format:
 
 * A Transformer-Based Framework for Multivariate Time Series Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/2010.02803.pdf)
-  [\[code\]](https://github.com/gzerveas/mvts_transformer) ⭐ 876 | 🐛 35 | 🌐 Python | 📅 2026-04-29
+  [\[code\]](https://github.com/gzerveas/mvts_transformer) ⭐ 875 | 🐛 35 | 🌐 Python | 📅 2026-04-29
   * Zerveas, George, Srideepika Jayaraman, Dhaval Patel, Anuradha Bhamidipaty, and Carsten Eickhoff. *KDD 2021*
 
 * TS2Vec: Towards Universal Representation of Time Series
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
