@@ -822,7 +822,7 @@
                     "open_issues": 1996,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38846,
+                    "stars": 38852,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -926,7 +926,7 @@
                     "open_issues": 41,
                     "owner": "facebookresearch",
                     "repo": "swav",
-                    "stars": 2094,
+                    "stars": 2093,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -972,7 +972,7 @@
                     "open_issues": 20,
                     "owner": "wvangansbeke",
                     "repo": "Unsupervised-Classification",
-                    "stars": 1459,
+                    "stars": 1460,
                     "topics": [
                       "clustering",
                       "contrastive-learning",
@@ -2564,7 +2564,7 @@
             "open_issues": 880,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40046,
+            "stars": 40045,
             "topics": [
               "google",
               "natural-language-processing",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T09:07:29.029Z",
+    "last_updated": "2026-09-30T09:02:21.439Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",
