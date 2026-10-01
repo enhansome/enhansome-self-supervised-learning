@@ -432,7 +432,7 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,852 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-23
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,856 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-30
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
@@ -1297,12 +1297,12 @@ Markdown format:
 
 * Mockingjay: Unsupervised Speech Representation Learning with Deep Bidirectional Transformer Encoders
   [\[pdf\]](https://arxiv.org/abs/1910.12638)
-  [\[code\]](https://github.com/s3prl/s3prl) ⭐ 2,566 | 🐛 72 | 🌐 Python | 📅 2026-03-12
+  [\[code\]](https://github.com/s3prl/s3prl) ⭐ 2,568 | 🐛 72 | 🌐 Python | 📅 2026-03-12
   * Andy T. Liu, Shu-wen Yang, Po-Han Chi, Po-chun Hsu, Hung-yi Lee. *ICASSP 2020*
 
 * TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech
   [\[pdf\]](https://arxiv.org/abs/2007.06028)
-  [\[code\]](https://github.com/s3prl/s3prl) ⭐ 2,566 | 🐛 72 | 🌐 Python | 📅 2026-03-12
+  [\[code\]](https://github.com/s3prl/s3prl) ⭐ 2,568 | 🐛 72 | 🌐 Python | 📅 2026-03-12
   * Andy T. Liu, Shang-Wen Li, Hung-yi Lee. *IEEE/ACM TASLP 2021*
 
 * Unsupervised Pretraining Transfers Well Across Languages
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
