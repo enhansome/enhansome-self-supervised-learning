@@ -59,7 +59,7 @@
                 {
                   "node_type": "item",
                   "title": "Unsupervised Deep Embedding for Clustering Analysis. [pdf]",
-                  "description": "[code]",
+                  "description": "piiswrong/dec",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -101,7 +101,7 @@
                 {
                   "node_type": "item",
                   "title": "Unsupervised Visual Representation Learning by Graph-based Consistent Constraints. [pdf]",
-                  "description": "[code]",
+                  "description": "dongli12/FeatureLearning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -129,7 +129,7 @@
                 {
                   "node_type": "item",
                   "title": "Adversarial Feature Learning. [pdf]",
-                  "description": "[code]",
+                  "description": "jeffdonahue/bigan",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -150,7 +150,7 @@
                 {
                   "node_type": "item",
                   "title": "Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction. [pdf]",
-                  "description": "[code]",
+                  "description": "richzhang/splitbrainauto",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -175,7 +175,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-supervised learning of visual features through embedding images into text topic spaces. [pdf]",
-                  "description": "[code]",
+                  "description": "lluisgomez/TextTopicNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -196,7 +196,7 @@
                 {
                   "node_type": "item",
                   "title": "Unsupervised Learning by Predicting Noise. [pdf]",
-                  "description": "[code]",
+                  "description": "facebookresearch/noise-as-targets",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -217,7 +217,7 @@
                 {
                   "node_type": "item",
                   "title": "Unsupervised Representation Learning by Sorting Sequences. [pdf]",
-                  "description": "[code]",
+                  "description": "HsinYingLee/OPN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -238,7 +238,7 @@
                 {
                   "node_type": "item",
                   "title": "DeepPermNet: Visual Permutation Learning. [pdf]",
-                  "description": "[code]",
+                  "description": "rfsantacruz/deep-perm-net",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -266,7 +266,7 @@
                 {
                   "node_type": "item",
                   "title": "Deep Clustering for Unsupervised Learning of Visual Features [pdf]",
-                  "description": "[code]",
+                  "description": "facebookresearch/deepcluster",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -287,7 +287,7 @@
                 {
                   "node_type": "item",
                   "title": "Unsupervised Feature Learning via Non-parameteric Instance Discrimination [pdf]",
-                  "description": "[code]",
+                  "description": "zhirongw/lemniscate.pytorch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -318,7 +318,7 @@
                 {
                   "node_type": "item",
                   "title": "Unsupervised Representation Learning by Predicting Image Rotations. [pdf]",
-                  "description": "[code]",
+                  "description": "gidariss/FeatureLearningRotNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -339,7 +339,7 @@
                 {
                   "node_type": "item",
                   "title": "Cross-domain Self-supervised Multi-task Feature Learning Using Synthetic Imagery. [pdf]",
-                  "description": "[code]",
+                  "description": "jason718/game-feature-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -367,7 +367,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning Image Representations by Completing Damaged Jigsaw Puzzles. [pdf]",
-                  "description": "[code]",
+                  "description": "MehdiNoroozi/JigsawPuzzleSolver",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -388,7 +388,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-Supervised Feature Learning by Learning to Spot Artifacts. [pdf]",
-                  "description": "[code]",
+                  "description": "sjenni/LearningToSpotArtifacts",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -420,7 +420,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning Latent Representations in Neural Networks for Clustering through Pseudo Supervision and Graph-based Activity Regularization. [pdf]",
-                  "description": "[code]",
+                  "description": "ozcell/LALNets",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -452,7 +452,7 @@
                 {
                   "node_type": "item",
                   "title": "Contrastive Multiview Coding. [pdf]",
-                  "description": "[code]",
+                  "description": "HobbitLong/CMC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -473,7 +473,7 @@
                 {
                   "node_type": "item",
                   "title": "Scaling and Benchmarking Self-Supervised Visual Representation Learning [pdf]",
-                  "description": "[code]",
+                  "description": "facebookresearch/fair_self_supervision_benchmark",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -494,7 +494,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning Representations by Maximizing Mutual Information Across Views. [pdf]",
-                  "description": "[code]",
+                  "description": "Philip-Bachman/amdim-public",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -515,7 +515,7 @@
                 {
                   "node_type": "item",
                   "title": "Revisiting Self-Supervised Visual Representation Learning. [pdf]",
-                  "description": "[code]",
+                  "description": "google/revisiting-self-supervised",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -536,7 +536,7 @@
                 {
                   "node_type": "item",
                   "title": "Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty [pdf]",
-                  "description": "[code]",
+                  "description": "hendrycks/ss-ood",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -564,7 +564,7 @@
                 {
                   "node_type": "item",
                   "title": "Unsupervised Pre-Training of Image Features on Non-Curated Data [pdf]",
-                  "description": "[code]",
+                  "description": "facebookresearch/DeeperCluster",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -585,7 +585,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-Supervised Generalisation with Meta Auxiliary Learning [pdf]",
-                  "description": "[code]",
+                  "description": "lorenmt/maxl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -611,7 +611,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-Supervised Learning via Conditional Motion Propagation. [pdf]",
-                  "description": "[code]",
+                  "description": "XiaohangZhan/conditional-motion-propagation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -666,7 +666,7 @@
                 {
                   "node_type": "item",
                   "title": "AET vs. AED: Unsupervised Representation Learning by Auto-Encoding Transformations rather than Data. [pdf]",
-                  "description": "[code]",
+                  "description": "maple-research-lab/AET",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -687,7 +687,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-Supervised Representation Learning by Rotation Feature Decoupling. [pdf]",
-                  "description": "[code]",
+                  "description": "philiptheother/FeatureDecoupling",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -708,7 +708,7 @@
                 {
                   "node_type": "item",
                   "title": "S4L: Self-Supervised Semi-Supervised Learning [pdf]",
-                  "description": "[code]",
+                  "description": "google-research/s4l",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -729,7 +729,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-supervised model adaptation for multimodal semantic segmentation. [pdf]",
-                  "description": "[code]",
+                  "description": "DeepSceneSeg/SSMA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -750,7 +750,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-Supervised GANs via Auxiliary Rotation Loss. [pdf]",
-                  "description": "[code]",
+                  "description": "vandit15/Self-Supervised-Gans-Pytorch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -781,7 +781,7 @@
                 {
                   "node_type": "item",
                   "title": "Wasserstein Dependency Measure for Representation Learning [pdf]",
-                  "description": "[code]",
+                  "description": "SeongokRyu/mutual_information_and_self-supervised_learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -809,7 +809,7 @@
                 {
                   "node_type": "item",
                   "title": "On Mutual Information Maximization for Representation Learning [pdf]",
-                  "description": "[code]",
+                  "description": "google-research/google-research",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -822,7 +822,7 @@
                     "open_issues": 1996,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38859,
+                    "stars": 38863,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -834,7 +834,7 @@
                 {
                   "node_type": "item",
                   "title": "Momentum Contrast for Unsupervised Visual Representation Learning [pdf]",
-                  "description": "[code]",
+                  "description": "facebookresearch/moco",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -855,7 +855,7 @@
                 {
                   "node_type": "item",
                   "title": "A Simple Framework for Contrastive Learning of Visual Representations [pdf]",
-                  "description": "[code]",
+                  "description": "google-research/simclr",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -884,7 +884,7 @@
                 {
                   "node_type": "item",
                   "title": "Big Self-Supervised Models are Strong Semi-Supervised Learners [pdf]",
-                  "description": "[code]",
+                  "description": "google-research/simclr",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -913,7 +913,7 @@
                 {
                   "node_type": "item",
                   "title": "Unsupervised Learning of Visual Features by Contrasting Cluster Assignments [pdf]",
-                  "description": "[code]",
+                  "description": "facebookresearch/swav",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -959,7 +959,7 @@
                 {
                   "node_type": "item",
                   "title": "SCAN: Learning to Classify Images without Labels [pdf]",
-                  "description": "[code]",
+                  "description": "wvangansbeke/Unsupervised-Classification",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1012,7 +1012,7 @@
                 {
                   "node_type": "item",
                   "title": "Rethinking the Value of Labels for Improving Class-Imbalanced Learning [pdf]",
-                  "description": "[code]",
+                  "description": "YyzHarry/imbalanced-semi-self",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1073,7 +1073,7 @@
                 {
                   "node_type": "item",
                   "title": "Contrastive learning of global and local features for medical image segmentation with limited annotations [pdf]",
-                  "description": "[code]",
+                  "description": "krishnabits001/domain_specific_cl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1094,7 +1094,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-Supervised Relational Reasoning for Representation Learning [pdf]",
-                  "description": "[code]",
+                  "description": "mpatacchiola/self-supervised-relational-reasoning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1125,7 +1125,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-supervised Label Augmentation via Input Transformations [pdf]",
-                  "description": "[code]",
+                  "description": "hankook/SLA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1146,7 +1146,7 @@
                 {
                   "node_type": "item",
                   "title": "Online Bag-of-Visual-Words Generation for Unsupervised Representation Learning [pdf]",
-                  "description": "[code]",
+                  "description": "valeoai/obow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1167,7 +1167,7 @@
                 {
                   "node_type": "item",
                   "title": "Understanding the Limitations of Variational Mutual Information Estimators [pdf]",
-                  "description": "[code]",
+                  "description": "ermongroup/smile-mi-estimator",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1188,7 +1188,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-Supervised Prototypical Transfer Learning for Few-Shot Classification [pdf]",
-                  "description": "[code]",
+                  "description": "indy-lab/ProtoTransfer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1213,7 +1213,7 @@
                 {
                   "node_type": "item",
                   "title": "A critical analysis of self-supervision, or what we can learn from a single image [pdf]",
-                  "description": "[code]",
+                  "description": "yukimasano/linear-probes",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1234,7 +1234,7 @@
                 {
                   "node_type": "item",
                   "title": "Mitigating embedding and class assignment mismatch in unsupervised image classification [pdf]",
-                  "description": "[code]",
+                  "description": "Sungwon-Han/TwoStageUC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1255,7 +1255,7 @@
                 {
                   "node_type": "item",
                   "title": "How Useful is Self-Supervised Pretraining for Visual Tasks? [pdf]",
-                  "description": "[code]",
+                  "description": "princeton-vl/selfstudy-render",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1276,7 +1276,7 @@
                 {
                   "node_type": "item",
                   "title": "Unsupervised Representation Learning by InvariancePropagation [pdf]",
-                  "description": "[code]",
+                  "description": "WangFeng18/InvariancePropagation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1304,7 +1304,7 @@
                 {
                   "node_type": "item",
                   "title": "Barlow twins: Self-supervised learning via redundancy reduction [pdf]",
-                  "description": "[code]",
+                  "description": "facebookresearch/barlowtwins",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1317,7 +1317,7 @@
                     "open_issues": 8,
                     "owner": "facebookresearch",
                     "repo": "barlowtwins",
-                    "stars": 1016,
+                    "stars": 1015,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -1325,7 +1325,7 @@
                 {
                   "node_type": "item",
                   "title": "Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning [pdf]",
-                  "description": "[code]",
+                  "description": "zdaxie/PixPro",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1352,7 +1352,7 @@
                 {
                   "node_type": "item",
                   "title": "How Well Do Self-Supervised Models Transfer? [pdf]",
-                  "description": "[code]",
+                  "description": "linusericsson/ssl-transfer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1373,7 +1373,7 @@
                 {
                   "node_type": "item",
                   "title": "Improving Unsupervised Image Clustering With Robust Learning [pdf]",
-                  "description": "[code]",
+                  "description": "deu30303/RUC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1394,7 +1394,7 @@
                 {
                   "node_type": "item",
                   "title": "Improving Contrastive Learning by Visualizing Feature Transformation [pdf]",
-                  "description": "[code]",
+                  "description": "DTennant/CL-Visualizing-Feature-Transformation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1415,7 +1415,7 @@
                 {
                   "node_type": "item",
                   "title": "Jigsaw Clustering for Unsupervised Visual Representation Learning [pdf]",
-                  "description": "[code]",
+                  "description": "JIA-Lab-research/JigsawClustering",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1436,7 +1436,7 @@
                 {
                   "node_type": "item",
                   "title": "Vectorization and Rasterization: Self-Supervised Learning for Sketch and Handwriting.[code]",
-                  "description": null,
+                  "description": "AyanKumarBhunia/Self-Supervised-Learning-for-Sketch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1457,7 +1457,7 @@
                 {
                   "node_type": "item",
                   "title": "SelfAugment: Automatic Augmentation Policies for Self-Supervised Learning [pdf]",
-                  "description": "[code]",
+                  "description": "cjrd/selfaugment",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1485,7 +1485,7 @@
                 {
                   "node_type": "item",
                   "title": "Masked Siamese Networks for Label-Efficient Learning [pdf]",
-                  "description": "[code]",
+                  "description": "facebookresearch/msn",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1506,7 +1506,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-Supervised Visual Representation Learning with Semantic Grouping [pdf]",
-                  "description": "[code]",
+                  "description": "CVMI-Lab/SlotCon",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1534,7 +1534,7 @@
                 {
                   "node_type": "item",
                   "title": "FedX: Unsupervised Federated Learning with Cross Knowledge Distillation [pdf]",
-                  "description": "[code]",
+                  "description": "Sungwon-Han/FEDX",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1555,7 +1555,7 @@
                 {
                   "node_type": "item",
                   "title": "Tailoring Self-Supervision for Supervised Learning [pdf]",
-                  "description": "[code]",
+                  "description": "wjun0830/Localizable-Rotation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1583,7 +1583,7 @@
                 {
                   "node_type": "item",
                   "title": "Adaptive Soft Contrastive Learning [pdf]",
-                  "description": "[code]",
+                  "description": "MrChenFeng/Adaptive-Soft-Contrastive-Learning_ICPR2022",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1617,7 +1617,7 @@
                 {
                   "node_type": "item",
                   "title": "Inter-Instance Similarity Modeling for Contrastive Learning [pdf]",
-                  "description": "[code]",
+                  "description": "visresearch/patchmix",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1647,7 +1647,7 @@
                 {
                   "node_type": "item",
                   "title": "Asymmetric Patch Sampling for Contrastive Learning [pdf]",
-                  "description": "[code]",
+                  "description": "visresearch/aps",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1684,7 +1684,7 @@
                 {
                   "node_type": "item",
                   "title": "Towards evolution of Deep Neural Networks through contrastive Self-Supervised learning [pdf]",
-                  "description": "[code]",
+                  "description": "cdvetal/evodenss",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1717,7 +1717,7 @@
             {
               "node_type": "item",
               "title": "Learning Correspondence from the Cycle-consistency of Time. [pdf]",
-              "description": "[code]",
+              "description": "xiaolonw/TimeCycle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1738,7 +1738,7 @@
             {
               "node_type": "item",
               "title": "Unsupervised Learning of Video Representations using LSTMs. [pdf]",
-              "description": "[code]",
+              "description": "mansimov/unsupervised-videos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1759,7 +1759,7 @@
             {
               "node_type": "item",
               "title": "Self-supervised Co-training for Video Representation Learning [pdf]",
-              "description": "[code]",
+              "description": "TengdaHan/CoCLR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1801,7 +1801,7 @@
             {
               "node_type": "item",
               "title": "Joint-task Self-supervised Learning for Temporal Correspondence. [pdf]",
-              "description": "[code]",
+              "description": "Liusifei/UVC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1822,7 +1822,7 @@
             {
               "node_type": "item",
               "title": "Self-Supervised Video Representation Learning Using Inter-Intra Contrstive Framework [pdf]",
-              "description": "[code]",
+              "description": "BestJuly/IIC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1843,7 +1843,7 @@
             {
               "node_type": "item",
               "title": "Self-Supervised Video Representation Learning by Pace Prediction [pdf]",
-              "description": "[code]",
+              "description": "laura-wang/video-pace",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1869,7 +1869,7 @@
             {
               "node_type": "item",
               "title": "Enhancing Unsupervised Video Representation Learning by Decoupling the Scene and the Motion [pdf]",
-              "description": "[code]",
+              "description": "FingerRec/DSM-decoupling-scene-motion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1893,7 +1893,7 @@
             {
               "node_type": "item",
               "title": "Video Representation Learning by Recognizing Temporal Transformations [pdf]",
-              "description": "[code]",
+              "description": "sjenni/temporal-ssl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1923,7 +1923,7 @@
             {
               "node_type": "item",
               "title": "Shuffle and Learn: Unsupervised Learning using Temporal Order Verification. [pdf]",
-              "description": "[code]",
+              "description": "imisra/shuffle-tuple",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1944,7 +1944,7 @@
             {
               "node_type": "item",
               "title": "Video Playback Rate Perception for Self-Supervised Spatio-Temporal Representation Learning [pdf]",
-              "description": "[Code]",
+              "description": "yuanyao366/PRP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1965,7 +1965,7 @@
             {
               "node_type": "item",
               "title": "RSPNet: Relative Speed Perception for Unsupervised Video Representation Learning [pdf]",
-              "description": "[code]",
+              "description": "PeihaoChen/RSPNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1986,7 +1986,7 @@
             {
               "node_type": "item",
               "title": "Video Representation Learning with Visual Tempo Consistency [pdf]",
-              "description": "[code]",
+              "description": "decisionforce/VTHCL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2009,7 +2009,7 @@
                 {
                   "node_type": "item",
                   "title": "How Severe is Benchmark-Sensitivity in Video Self-Supervised Learning? [pdf]",
-                  "description": "[code]",
+                  "description": "fmthoker/SEVERE-BENCHMARK",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2042,7 +2042,7 @@
             {
               "node_type": "item",
               "title": "PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm [pdf]",
-              "description": "[code]",
+              "description": "OpenGVLab/PonderV2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2067,7 +2067,7 @@
             {
               "node_type": "item",
               "title": "PointContrast: Unsupervised Pre-training for 3D Point Cloud [pdf]",
-              "description": "[code]",
+              "description": "facebookresearch/PointContrast",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2088,7 +2088,7 @@
             {
               "node_type": "item",
               "title": "Self-Supervised Learning of Point Clouds via Orientation Estimation [pdf]",
-              "description": "[code]",
+              "description": "OmidPoursaeed/Self_supervised_Learning_Point_Clouds",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2149,7 +2149,7 @@
             {
               "node_type": "item",
               "title": "Geometry-Aware Learning of Maps for Camera Localization. [pdf]",
-              "description": "[code]",
+              "description": "NVlabs/geomapnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2176,7 +2176,7 @@
             {
               "node_type": "item",
               "title": "Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue. [pdf]",
-              "description": "[code]",
+              "description": "Ravi-Garg/Unsupervised_Depth_Estimation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2246,7 +2246,7 @@
             {
               "node_type": "item",
               "title": "The Sound of Pixels. [pdf]",
-              "description": "[project]",
+              "description": "hangzhaomit/Sound-of-Pixels",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2272,7 +2272,7 @@
             {
               "node_type": "item",
               "title": "BYOL for Audio: Self-Supervised Learning for General-Purpose Audio Representation. [pdf]",
-              "description": "[code]",
+              "description": "nttcslab/byol-a",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2299,7 +2299,7 @@
             {
               "node_type": "item",
               "title": "Audio-Visual Scene Analysis with Self-Supervised Multisensory Features. [pdf]",
-              "description": "[code]",
+              "description": "andrewowens/multisensory",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2320,7 +2320,7 @@
             {
               "node_type": "item",
               "title": "There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge [pdf]",
-              "description": "[code]",
+              "description": "robot-learning-freiburg/MM-DistillNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2341,7 +2341,7 @@
             {
               "node_type": "item",
               "title": "Learning State-Aware Visual Representations from Audible Interactions [pdf]",
-              "description": "[code]",
+              "description": "HimangiM/RepLAI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2372,7 +2372,7 @@
             {
               "node_type": "item",
               "title": "Fighting Fake News: Image Splice Detection via Learned Self-Consistency [pdf]",
-              "description": "[code]",
+              "description": "minyoungg/selfconsistency",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2393,7 +2393,7 @@
             {
               "node_type": "item",
               "title": "Self-supervised Learning for Human Activity Recognition Using 700,000 Person-days of Wearable Data [pdf]",
-              "description": "[code]",
+              "description": "OxWearables/ssl-wearables",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2406,7 +2406,7 @@
                 "open_issues": 6,
                 "owner": "OxWearables",
                 "repo": "ssl-wearables",
-                "stars": 166,
+                "stars": 167,
                 "topics": [
                   "accelerometer",
                   "deep-learning",
@@ -2422,7 +2422,7 @@
             {
               "node_type": "item",
               "title": "Multi-Task Self-Supervised Object Detection via Recycling of Bounding Box Annotations. [pdf]",
-              "description": "[code]",
+              "description": "wonheeML/mtl-ssl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2443,7 +2443,7 @@
             {
               "node_type": "item",
               "title": "Just Go with the Flow: Self-Supervised Scene Flow Estimation [pdf]",
-              "description": "[code]",
+              "description": "HimangiM/Just-Go-with-the-Flow-Self-Supervised-Scene-Flow-Estimation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2464,7 +2464,7 @@
             {
               "node_type": "item",
               "title": "ColloSSL: Collaborative Self-Supervised Learning for Human Activity Recognition [pdf]",
-              "description": "[code]",
+              "description": "akhilmathurs/collossl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2498,7 +2498,7 @@
             {
               "node_type": "item",
               "title": "Unsupervised State Representation Learning in Atari. [pdf]",
-              "description": "[code]",
+              "description": "mila-iqia/atari-representation-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2519,7 +2519,7 @@
             {
               "node_type": "item",
               "title": "Visual Reinforcement Learning with Self-Supervised 3D Representations. [pdf]",
-              "description": "[code]",
+              "description": "YanjieZe/rl3d",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2578,7 +2578,7 @@
         {
           "node_type": "item",
           "title": "VL-BERT: Pre-training of Generic Visual-Linguistic Representations [pdf]",
-          "description": "[code]",
+          "description": "jackroos/VL-BERT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2608,7 +2608,7 @@
         {
           "node_type": "item",
           "title": "A Simple and Effective Self-Supervised Contrastive Learning Framework for Aspect Detection [pdf]",
-          "description": "[code]",
+          "description": "tshi04/AspDecSSCL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2629,7 +2629,7 @@
         {
           "node_type": "item",
           "title": "Self-Guided Contrastive Learning for BERT Sentence Representations [pdf]",
-          "description": "[code]",
+          "description": "galsang/SG-BERT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2656,7 +2656,7 @@
         {
           "node_type": "item",
           "title": "wav2vec: Unsupervised Pre-Training for Speech Recognition [pdf]",
-          "description": "[code]",
+          "description": "facebookresearch/fairseq",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2669,7 +2669,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32217,
+            "stars": 32214,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2681,7 +2681,7 @@
         {
           "node_type": "item",
           "title": "wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations [pdf]",
-          "description": "[code]",
+          "description": "facebookresearch/fairseq",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2694,7 +2694,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32217,
+            "stars": 32214,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2706,7 +2706,7 @@
         {
           "node_type": "item",
           "title": "Robust wav2vec 2.0: Analyzing Domain Shift in Self-Supervised Pre-Training [pdf]",
-          "description": "[code]",
+          "description": "facebookresearch/fairseq",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2719,7 +2719,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32217,
+            "stars": 32214,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2731,7 +2731,7 @@
         {
           "node_type": "item",
           "title": "HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units [pdf]",
-          "description": "[code]",
+          "description": "facebookresearch/fairseq",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2744,7 +2744,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32217,
+            "stars": 32214,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2756,7 +2756,7 @@
         {
           "node_type": "item",
           "title": "Unsupervised Speech Recognition [pdf]",
-          "description": "[code]",
+          "description": "facebookresearch/fairseq",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2769,7 +2769,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32217,
+            "stars": 32214,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2781,7 +2781,7 @@
         {
           "node_type": "item",
           "title": "Mockingjay: Unsupervised Speech Representation Learning with Deep Bidirectional Transformer Encoders [pdf]",
-          "description": "[code]",
+          "description": "s3prl/s3prl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2823,7 +2823,7 @@
         {
           "node_type": "item",
           "title": "TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech [pdf]",
-          "description": "[code]",
+          "description": "s3prl/s3prl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2865,7 +2865,7 @@
         {
           "node_type": "item",
           "title": "Unsupervised Pretraining Transfers Well Across Languages [pdf]",
-          "description": "[code]",
+          "description": "facebookresearch/CPC_audio",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2886,7 +2886,7 @@
         {
           "node_type": "item",
           "title": "Generative Pre-Training for Speech with Autoregressive Predictive Coding [pdf]",
-          "description": "[code]",
+          "description": "iamyuanchung/Autoregressive-Predictive-Coding",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2913,7 +2913,7 @@
         {
           "node_type": "item",
           "title": "Vector-Quantized Autoregressive Predictive Coding [pdf]",
-          "description": "[code]",
+          "description": "Alexander-H-Liu/NPC",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2934,7 +2934,7 @@
         {
           "node_type": "item",
           "title": "Non-Autoregressive Predictive Coding for Learning Speech Representations from Local Dependencies [pdf]",
-          "description": "[code]",
+          "description": "Alexander-H-Liu/NPC",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2961,7 +2961,7 @@
         {
           "node_type": "item",
           "title": "A Transformer-Based Framework for Multivariate Time Series Representation Learning [pdf]",
-          "description": "[code]",
+          "description": "gzerveas/mvts_transformer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2982,7 +2982,7 @@
         {
           "node_type": "item",
           "title": "TS2Vec: Towards Universal Representation of Time Series [pdf]",
-          "description": "[code]",
+          "description": "zhihanyue/ts2vec",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3003,7 +3003,7 @@
         {
           "node_type": "item",
           "title": "Time-Series Representation Learning via Temporal and Contextual Contrasting [pdf]",
-          "description": "[code]",
+          "description": "emadeldeen24/TS-TCC",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3040,7 +3040,7 @@
         {
           "node_type": "item",
           "title": "Unsupervised Scalable Representation Learning for Multivariate Time Series [pdf]",
-          "description": "[code]",
+          "description": "White-Link/UnsupervisedScalableRepresentationLearningTimeSeries",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3072,7 +3072,7 @@
         {
           "node_type": "item",
           "title": "Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding [pdf]",
-          "description": "[code]",
+          "description": "sanatonek/TNC_representation_learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3099,7 +3099,7 @@
         {
           "node_type": "item",
           "title": "Deep Graph Infomax [pdf]",
-          "description": "[code]",
+          "description": "PetarV-/DGI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3128,7 +3128,7 @@
         {
           "node_type": "item",
           "title": "GraphMAE: Self-supervised Masked Graph Autoencoders [pdf]",
-          "description": "[code]",
+          "description": "THUDM/GraphMAE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3154,7 +3154,7 @@
         {
           "node_type": "item",
           "title": "GPT-GNN: Generative Pre-Training of Graph Neural Networks [pdf]",
-          "description": "[code]",
+          "description": "acbull/GPT-GNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3180,7 +3180,7 @@
         {
           "node_type": "item",
           "title": "Deep Graph Contrastive Representation Learning [pdf]",
-          "description": "[code]",
+          "description": "CRIPAC-DIG/GRACE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3206,7 +3206,7 @@
         {
           "node_type": "item",
           "title": "Self-Supervised Hyperboloid Representations from Logical Queries over Knowledge Graphs [pdf]",
-          "description": "[code]",
+          "description": "amazon-science/hyperbolic-embeddings",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3227,7 +3227,7 @@
         {
           "node_type": "item",
           "title": "Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks [pdf]",
-          "description": "[code]",
+          "description": "pnnl/SLiCE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:02:29.140Z",
+    "last_updated": "2026-10-03T05:07:10.128Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",
