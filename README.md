@@ -432,7 +432,7 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,880 | 🐛 1,997 | 🌐 Jupyter Notebook | 📅 2026-09-30
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,882 | 🐛 1,997 | 🌐 Jupyter Notebook | 📅 2026-10-07
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
@@ -1413,7 +1413,7 @@ Markdown format:
 
 * Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks
   [\[pdf\]](https://people.cs.vt.edu/~reddy/papers/WWW21.pdf)
-  [\[code\]](https://github.com/pnnl/SLICE) ⭐ 29 | 🐛 9 | 🌐 Python | 📅 2026-09-25
+  [\[code\]](https://github.com/pnnl/SLICE) ⭐ 29 | 🐛 10 | 🌐 Python | 📅 2026-10-08
   * Ping Wang, Khushbu Agarwal, Colby Ham, Sutanay Choudhury, and Chandan K. Reddy. *WWW 2021*
 
 * When Does Self-Supervision Help Graph Convolutional Networks
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
