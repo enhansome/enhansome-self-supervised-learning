@@ -818,11 +818,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-07T21:04:37Z",
+                    "last_commit": "2026-10-08T17:38:14Z",
                     "open_issues": 1997,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38882,
+                    "stars": 38886,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2669,7 +2669,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32213,
+            "stars": 32209,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2694,7 +2694,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32213,
+            "stars": 32209,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2719,7 +2719,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32213,
+            "stars": 32209,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2744,7 +2744,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32213,
+            "stars": 32209,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2769,7 +2769,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32213,
+            "stars": 32209,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2974,7 +2974,7 @@
             "open_issues": 28,
             "owner": "zhihanyue",
             "repo": "ts2vec",
-            "stars": 876,
+            "stars": 877,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
@@ -3016,7 +3016,7 @@
             "open_issues": 4,
             "owner": "emadeldeen24",
             "repo": "TS-TCC",
-            "stars": 498,
+            "stars": 499,
             "topics": [
               "contextual",
               "contrastive-learning",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T09:33:28.477Z",
+    "last_updated": "2026-10-09T09:40:34.850Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",
