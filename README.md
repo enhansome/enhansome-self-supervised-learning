@@ -1,6 +1,6 @@
 # Awesome Self-Supervised Learning with stars
 
-A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,188 | 🐛 48 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,917 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,196 | 🐛 38 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,191 | 🐛 2 | 📅 2020-09-15
+A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,187 | 🐛 48 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,917 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,198 | 🐛 38 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,191 | 🐛 2 | 📅 2020-09-15
 
 #### Why Self-Supervised?
 
@@ -335,7 +335,7 @@ Markdown format:
 
 * Contrastive Multiview Coding.
   [\[pdf\]](https://arxiv.org/abs/1906.05849)
-  [\[code\]](https://github.com/HobbitLong/CMC/) ⭐ 1,339 | 🐛 25 | 🌐 Python | 📅 2020-11-10
+  [\[code\]](https://github.com/HobbitLong/CMC/) ⭐ 1,338 | 🐛 25 | 🌐 Python | 📅 2020-11-10
   * Yonglong Tian and Dilip Krishnan and Phillip Isola.
 
 * Scaling and Benchmarking Self-Supervised Visual Representation Learning
@@ -432,12 +432,12 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,886 | 🐛 1,997 | 🌐 Jupyter Notebook | 📅 2026-10-08
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,887 | 🐛 1,998 | 🌐 Jupyter Notebook | 📅 2026-10-09
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1911.05722.pdf)
-  \[[code](https://github.com/facebookresearch/moco) ⭐ 5,135 | 🐛 61 | 📅 2026-02-03]
+  \[[code](https://github.com/facebookresearch/moco) ⭐ 5,136 | 🐛 61 | 📅 2026-02-03]
   * Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick. *CVPR 2020*
 
 * A Simple Framework for Contrastive Learning of Visual Representations
@@ -457,7 +457,7 @@ Markdown format:
 
 * Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning
   [\[pdf\]](https://arxiv.org/abs/2006.07733)
-  [\[unofficial-code\]](https://github.com/lucidrains/byol-pytorch) ⭐ 1,900 | 🐛 41 | 🌐 Python | 📅 2026-04-27
+  [\[unofficial-code\]](https://github.com/lucidrains/byol-pytorch) ⭐ 1,901 | 🐛 41 | 🌐 Python | 📅 2026-04-27
   * Jean-Bastien Grill, Florian Strub, Florent Altché, Corentin Tallec, Pierre H. Richemond, Elena Buchatskaya, Carl Doersch, Bernardo Avila Pires, Zhaohan Daniel Guo, Mohammad Gheshlaghi Azar, Bilal Piot, Koray Kavukcuoglu, Rémi Munos, Michal Valko. *NeurIPS 2020, Oral*
 
 * SCAN: Learning to Classify Images without Labels
@@ -1361,7 +1361,7 @@ Markdown format:
 
 * TS2Vec: Towards Universal Representation of Time Series
   [\[pdf\]](https://www.aaai.org/AAAI22Papers/AAAI-8809.YueZ.pdf)
-  [\[code\]](https://github.com/yuezhihan/ts2vec) ⭐ 877 | 🐛 28 | 🌐 Python | 📅 2024-07-29
+  [\[code\]](https://github.com/yuezhihan/ts2vec) ⭐ 878 | 🐛 28 | 🌐 Python | 📅 2024-07-29
   * Zerveas, George, Srideepika Jayaraman, Dhaval Patel, Anuradha Bhamidipaty, and Carsten Eickhoff. *AAAI 2022*
 
 * A Transformer-Based Framework for Multivariate Time Series Representation Learning
@@ -1413,7 +1413,7 @@ Markdown format:
 
 * Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks
   [\[pdf\]](https://people.cs.vt.edu/~reddy/papers/WWW21.pdf)
-  [\[code\]](https://github.com/pnnl/SLICE) ⭐ 29 | 🐛 10 | 🌐 Python | 📅 2026-10-08
+  [\[code\]](https://github.com/pnnl/SLICE) ⭐ 29 | 🐛 11 | 🌐 Python | 📅 2026-10-09
   * Ping Wang, Khushbu Agarwal, Colby Ham, Sutanay Choudhury, and Chandan K. Reddy. *WWW 2021*
 
 * When Does Self-Supervision Help Graph Convolutional Networks
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
