@@ -1,6 +1,6 @@
 # Awesome Self-Supervised Learning with stars
 
-A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,188 | 🐛 48 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,917 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,196 | 🐛 38 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,191 | 🐛 2 | 📅 2020-09-15
+A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,190 | 🐛 48 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,917 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,195 | 🐛 38 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,191 | 🐛 2 | 📅 2020-09-15
 
 #### Why Self-Supervised?
 
@@ -370,7 +370,7 @@ Markdown format:
 
 * Self-Supervised Learning via Conditional Motion Propagation.
   [\[pdf\]](https://arxiv.org/abs/1903.11412)
-  [\[code\]](https://github.com/XiaohangZhan/conditional-motion-propagation) ⭐ 159 | 🐛 4 | 🌐 Python | 📅 2019-07-19
+  [\[code\]](https://github.com/XiaohangZhan/conditional-motion-propagation) ⭐ 160 | 🐛 4 | 🌐 Python | 📅 2019-07-19
   * Xiaohang Zhan, Xingang Pan, Ziwei Liu, Dahua Lin, and Chen Change Loy. *CVPR 2019*
 
 * Unsupervised Deep Learning by Neighbourhood Discovery.
@@ -432,12 +432,12 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,897 | 🐛 2,005 | 🌐 Jupyter Notebook | 📅 2026-10-10
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,905 | 🐛 2,005 | 🌐 Jupyter Notebook | 📅 2026-10-13
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1911.05722.pdf)
-  \[[code](https://github.com/facebookresearch/moco) ⭐ 5,137 | 🐛 61 | 📅 2026-02-03]
+  \[[code](https://github.com/facebookresearch/moco) ⭐ 5,138 | 🐛 61 | 📅 2026-02-03]
   * Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick. *CVPR 2020*
 
 * A Simple Framework for Contrastive Learning of Visual Representations
@@ -457,7 +457,7 @@ Markdown format:
 
 * Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning
   [\[pdf\]](https://arxiv.org/abs/2006.07733)
-  [\[unofficial-code\]](https://github.com/lucidrains/byol-pytorch) ⭐ 1,901 | 🐛 41 | 🌐 Python | 📅 2026-04-27
+  [\[unofficial-code\]](https://github.com/lucidrains/byol-pytorch) ⭐ 1,900 | 🐛 41 | 🌐 Python | 📅 2026-04-27
   * Jean-Bastien Grill, Florian Strub, Florent Altché, Corentin Tallec, Pierre H. Richemond, Elena Buchatskaya, Carl Doersch, Bernardo Avila Pires, Zhaohan Daniel Guo, Mohammad Gheshlaghi Azar, Bilal Piot, Koray Kavukcuoglu, Rémi Munos, Michal Valko. *NeurIPS 2020, Oral*
 
 * SCAN: Learning to Classify Images without Labels
@@ -1297,12 +1297,12 @@ Markdown format:
 
 * Mockingjay: Unsupervised Speech Representation Learning with Deep Bidirectional Transformer Encoders
   [\[pdf\]](https://arxiv.org/abs/1910.12638)
-  [\[code\]](https://github.com/s3prl/s3prl) ⭐ 2,568 | 🐛 72 | 🌐 Python | 📅 2026-03-12
+  [\[code\]](https://github.com/s3prl/s3prl) ⭐ 2,569 | 🐛 72 | 🌐 Python | 📅 2026-03-12
   * Andy T. Liu, Shu-wen Yang, Po-Han Chi, Po-chun Hsu, Hung-yi Lee. *ICASSP 2020*
 
 * TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech
   [\[pdf\]](https://arxiv.org/abs/2007.06028)
-  [\[code\]](https://github.com/s3prl/s3prl) ⭐ 2,568 | 🐛 72 | 🌐 Python | 📅 2026-03-12
+  [\[code\]](https://github.com/s3prl/s3prl) ⭐ 2,569 | 🐛 72 | 🌐 Python | 📅 2026-03-12
   * Andy T. Liu, Shang-Wen Li, Hung-yi Lee. *IEEE/ACM TASLP 2021*
 
 * Unsupervised Pretraining Transfers Well Across Languages
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._

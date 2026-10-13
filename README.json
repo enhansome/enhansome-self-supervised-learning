@@ -624,7 +624,7 @@
                     "open_issues": 4,
                     "owner": "XiaohangZhan",
                     "repo": "conditional-motion-propagation",
-                    "stars": 159,
+                    "stars": 160,
                     "topics": [
                       "deep-learning",
                       "interactive-annotation",
@@ -818,11 +818,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-10T14:34:09Z",
+                    "last_commit": "2026-10-13T06:27:55Z",
                     "open_issues": 2005,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38897,
+                    "stars": 38905,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -847,7 +847,7 @@
                     "open_issues": 61,
                     "owner": "facebookresearch",
                     "repo": "moco",
-                    "stars": 5137,
+                    "stars": 5138,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -947,7 +947,7 @@
                     "open_issues": 41,
                     "owner": "lucidrains",
                     "repo": "byol-pytorch",
-                    "stars": 1901,
+                    "stars": 1900,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -2561,7 +2561,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-07-23T23:39:41Z",
-            "open_issues": 880,
+            "open_issues": 879,
             "owner": "google-research",
             "repo": "bert",
             "stars": 40036,
@@ -2669,7 +2669,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32207,
+            "stars": 32208,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2694,7 +2694,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32207,
+            "stars": 32208,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2719,7 +2719,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32207,
+            "stars": 32208,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2744,7 +2744,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32207,
+            "stars": 32208,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2769,7 +2769,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32207,
+            "stars": 32208,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2794,7 +2794,7 @@
             "open_issues": 72,
             "owner": "s3prl",
             "repo": "s3prl",
-            "stars": 2568,
+            "stars": 2569,
             "topics": [
               "apc",
               "cpc",
@@ -2836,7 +2836,7 @@
             "open_issues": 72,
             "owner": "s3prl",
             "repo": "s3prl",
-            "stars": 2568,
+            "stars": 2569,
             "topics": [
               "apc",
               "cpc",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T09:49:12.905Z",
+    "last_updated": "2026-10-13T09:46:20.702Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",
