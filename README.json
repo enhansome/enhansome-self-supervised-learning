@@ -822,7 +822,7 @@
                     "open_issues": 2008,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38924,
+                    "stars": 38927,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2135,7 +2135,7 @@
                 "open_issues": 48,
                 "owner": "tinghuiz",
                 "repo": "SfMLearner",
-                "stars": 2015,
+                "stars": 2014,
                 "topics": [
                   "deep-learning",
                   "depth-prediction",
@@ -2564,7 +2564,7 @@
             "open_issues": 879,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40040,
+            "stars": 40039,
             "topics": [
               "google",
               "natural-language-processing",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T07:33:17.753Z",
+    "last_updated": "2026-10-17T07:12:56.466Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",
@@ -3259,7 +3259,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-02-24T08:30:02Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "jason718",
       "repo": "awesome-self-supervised-learning",
       "stars": 6436,

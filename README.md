@@ -432,7 +432,7 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,924 | 🐛 2,008 | 🌐 Jupyter Notebook | 📅 2026-10-15
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,927 | 🐛 2,008 | 🌐 Jupyter Notebook | 📅 2026-10-15
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
@@ -834,7 +834,7 @@ Markdown format:
 
 * Unsupervised Learning of Depth and Ego-Motion from Video.
   [\[pdf\]](https://arxiv.org/pdf/1704.07813.pdf)
-  [\[code\]](https://github.com/tinghuiz/SfMLearner) ⭐ 2,015 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2021-10-26
+  [\[code\]](https://github.com/tinghuiz/SfMLearner) ⭐ 2,014 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2021-10-26
   [\[web\]](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/)
   * Zhou, Tinghui and Brown, Matthew and Snavely, Noah and Lowe, David G. *CVPR 2017*
 
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
