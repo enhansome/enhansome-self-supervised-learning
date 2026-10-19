@@ -822,7 +822,7 @@
                     "open_issues": 2008,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38933,
+                    "stars": 38952,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -847,7 +847,7 @@
                     "open_issues": 61,
                     "owner": "facebookresearch",
                     "repo": "moco",
-                    "stars": 5141,
+                    "stars": 5140,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -2564,7 +2564,7 @@
             "open_issues": 879,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40038,
+            "stars": 40036,
             "topics": [
               "google",
               "natural-language-processing",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T07:26:23.367Z",
+    "last_updated": "2026-10-19T08:06:57.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",
@@ -3262,7 +3262,7 @@
       "open_issues": 3,
       "owner": "jason718",
       "repo": "awesome-self-supervised-learning",
-      "stars": 6435,
+      "stars": 6434,
       "topics": [
         "computer-vision",
         "deep-learning",
