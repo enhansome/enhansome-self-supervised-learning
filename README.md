@@ -1,6 +1,6 @@
 # Awesome Self-Supervised Learning with stars
 
-A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,191 | 🐛 48 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,917 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,197 | 🐛 38 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,191 | 🐛 2 | 📅 2020-09-15
+A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,191 | 🐛 48 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,917 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,195 | 🐛 38 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,191 | 🐛 2 | 📅 2020-09-15
 
 #### Why Self-Supervised?
 
@@ -432,7 +432,7 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,952 | 🐛 2,008 | 🌐 Jupyter Notebook | 📅 2026-10-15
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,969 | 🐛 2,008 | 🌐 Jupyter Notebook | 📅 2026-10-15
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
@@ -698,7 +698,7 @@ Markdown format:
 
 * Video Representation Learning by Recognizing Temporal Transformations
   [\[pdf\]](https://arxiv.org/pdf/2007.10730.pdf)
-  [\[code\]](https://github.com/sjenni/temporal-ssl) ⭐ 49 | 🐛 3 | 🌐 Python | 📅 2021-03-18
+  [\[code\]](https://github.com/sjenni/temporal-ssl) ⭐ 50 | 🐛 3 | 🌐 Python | 📅 2021-03-18
   * Simon Jenni, Givi Meishvili, Paolo Favaro. *ECCV 2020*
 
 * Shuffle and Learn: Unsupervised Learning using Temporal Order Verification.
@@ -834,7 +834,7 @@ Markdown format:
 
 * Unsupervised Learning of Depth and Ego-Motion from Video.
   [\[pdf\]](https://arxiv.org/pdf/1704.07813.pdf)
-  [\[code\]](https://github.com/tinghuiz/SfMLearner) ⭐ 2,014 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2021-10-26
+  [\[code\]](https://github.com/tinghuiz/SfMLearner) ⭐ 2,015 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2021-10-26
   [\[web\]](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/)
   * Zhou, Tinghui and Brown, Matthew and Snavely, Noah and Lowe, David G. *CVPR 2017*
 
@@ -956,7 +956,7 @@ Markdown format:
 
 * Self-supervised Learning for Human Activity Recognition Using 700,000 Person-days of Wearable Data
   [\[pdf\]](https://arxiv.org/abs/2206.02909)
-  [\[code\]](https://github.com/OxWearables/ssl-wearables) ⭐ 167 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-10-24
+  [\[code\]](https://github.com/OxWearables/ssl-wearables) ⭐ 168 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-10-24
   * Hang Yuan\*, Shing Chan\*, Andrew P. Creagh, Catherine Tong, David A. Clifton, Aiden Doherty
 
 * Multi-Task Self-Supervised Object Detection via Recycling of Bounding Box Annotations.
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
