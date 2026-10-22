@@ -355,7 +355,7 @@ Markdown format:
 
 * Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty
   [\[pdf\]](https://arxiv.org/pdf/1906.12340)
-  [\[code\]](https://github.com/hendrycks/ss-ood) ⭐ 270 | 🐛 3 | 🌐 Python | 📅 2021-04-29
+  [\[code\]](https://github.com/hendrycks/ss-ood) ⭐ 269 | 🐛 3 | 🌐 Python | 📅 2021-04-29
   * Dan Hendrycks, Mantas Mazeika, Saurav Kadavath, Dawn Song. *NeurIPS 2019*
 
 * Unsupervised Pre-Training of Image Features on Non-Curated Data
@@ -432,7 +432,7 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,992 | 🐛 2,008 | 🌐 Jupyter Notebook | 📅 2026-10-21
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 38,999 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-22
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
@@ -796,7 +796,7 @@ Markdown format:
 
 * PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm
   [\[pdf\]](https://arxiv.org/abs/2310.08586)
-  [\[code\]](https://github.com/OpenGVLab/PonderV2) ⭐ 377 | 🐛 0 | 🌐 Python | 📅 2025-09-30
+  [\[code\]](https://github.com/OpenGVLab/PonderV2) ⭐ 378 | 🐛 0 | 🌐 Python | 📅 2025-09-30
   * Haoyi Zhu, Honghui Yang, Xiaoyang Wu, Di Huang, Tong He, Hengshuang Zhao, Chunhua Shen, Yu Qiao and Wanli Ouyang *Arxiv 2023*
 
 * PointContrast: Unsupervised Pre-training for 3D Point Cloud
@@ -956,7 +956,7 @@ Markdown format:
 
 * Self-supervised Learning for Human Activity Recognition Using 700,000 Person-days of Wearable Data
   [\[pdf\]](https://arxiv.org/abs/2206.02909)
-  [\[code\]](https://github.com/OxWearables/ssl-wearables) ⭐ 168 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-10-24
+  [\[code\]](https://github.com/OxWearables/ssl-wearables) ⭐ 169 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-10-24
   * Hang Yuan\*, Shing Chan\*, Andrew P. Creagh, Catherine Tong, David A. Clifton, Aiden Doherty
 
 * Multi-Task Self-Supervised Object Detection via Recycling of Bounding Box Annotations.
@@ -1361,7 +1361,7 @@ Markdown format:
 
 * TS2Vec: Towards Universal Representation of Time Series
   [\[pdf\]](https://www.aaai.org/AAAI22Papers/AAAI-8809.YueZ.pdf)
-  [\[code\]](https://github.com/yuezhihan/ts2vec) ⭐ 880 | 🐛 28 | 🌐 Python | 📅 2024-07-29
+  [\[code\]](https://github.com/yuezhihan/ts2vec) ⭐ 882 | 🐛 28 | 🌐 Python | 📅 2024-07-29
   * Zerveas, George, Srideepika Jayaraman, Dhaval Patel, Anuradha Bhamidipaty, and Carsten Eickhoff. *AAAI 2022*
 
 * A Transformer-Based Framework for Multivariate Time Series Representation Learning
@@ -1413,7 +1413,7 @@ Markdown format:
 
 * Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks
   [\[pdf\]](https://people.cs.vt.edu/~reddy/papers/WWW21.pdf)
-  [\[code\]](https://github.com/pnnl/SLICE) ⭐ 29 | 🐛 11 | 🌐 Python | 📅 2026-10-09
+  [\[code\]](https://github.com/pnnl/SLICE) ⭐ 29 | 🐛 12 | 🌐 Python | 📅 2026-10-22
   * Ping Wang, Khushbu Agarwal, Colby Ham, Sutanay Choudhury, and Chandan K. Reddy. *WWW 2021*
 
 * When Does Self-Supervision Help Graph Convolutional Networks
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._

@@ -279,7 +279,7 @@
                     "open_issues": 10,
                     "owner": "facebookresearch",
                     "repo": "deepcluster",
-                    "stars": 1740,
+                    "stars": 1739,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -549,7 +549,7 @@
                     "open_issues": 3,
                     "owner": "hendrycks",
                     "repo": "ss-ood",
-                    "stars": 270,
+                    "stars": 269,
                     "topics": [
                       "ml-safety",
                       "out-of-distribution-detection",
@@ -818,11 +818,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-21T07:52:25Z",
-                    "open_issues": 2008,
+                    "last_commit": "2026-10-22T02:02:42Z",
+                    "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38992,
+                    "stars": 38999,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -868,7 +868,7 @@
                     "open_issues": 71,
                     "owner": "google-research",
                     "repo": "simclr",
-                    "stars": 4503,
+                    "stars": 4502,
                     "topics": [
                       "computer-vision",
                       "contrastive-learning",
@@ -897,7 +897,7 @@
                     "open_issues": 71,
                     "owner": "google-research",
                     "repo": "simclr",
-                    "stars": 4503,
+                    "stars": 4502,
                     "topics": [
                       "computer-vision",
                       "contrastive-learning",
@@ -2055,7 +2055,7 @@
                 "open_issues": 0,
                 "owner": "OpenGVLab",
                 "repo": "PonderV2",
-                "stars": 377,
+                "stars": 378,
                 "topics": [
                   "3d-vision",
                   "foundation-models",
@@ -2406,7 +2406,7 @@
                 "open_issues": 6,
                 "owner": "OxWearables",
                 "repo": "ssl-wearables",
-                "stars": 168,
+                "stars": 169,
                 "topics": [
                   "accelerometer",
                   "deep-learning",
@@ -2564,7 +2564,7 @@
             "open_issues": 879,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40038,
+            "stars": 40039,
             "topics": [
               "google",
               "natural-language-processing",
@@ -2669,7 +2669,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32213,
+            "stars": 32212,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2694,7 +2694,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32213,
+            "stars": 32212,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2719,7 +2719,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32213,
+            "stars": 32212,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2744,7 +2744,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32213,
+            "stars": 32212,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2769,7 +2769,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32213,
+            "stars": 32212,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2974,7 +2974,7 @@
             "open_issues": 28,
             "owner": "zhihanyue",
             "repo": "ts2vec",
-            "stars": 880,
+            "stars": 882,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
@@ -3236,8 +3236,8 @@
             "id": 285621918,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T22:32:31Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-22T03:20:59Z",
+            "open_issues": 12,
             "owner": "pnnl",
             "repo": "SLiCE",
             "stars": 29,
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T08:01:12.338Z",
+    "last_updated": "2026-10-22T07:59:27.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",
