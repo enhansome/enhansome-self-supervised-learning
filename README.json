@@ -818,11 +818,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-23T00:52:55Z",
+                    "last_commit": "2026-10-23T21:57:07Z",
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39011,
+                    "stars": 39014,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -926,7 +926,7 @@
                     "open_issues": 41,
                     "owner": "facebookresearch",
                     "repo": "swav",
-                    "stars": 2093,
+                    "stars": 2092,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -947,7 +947,7 @@
                     "open_issues": 41,
                     "owner": "lucidrains",
                     "repo": "byol-pytorch",
-                    "stars": 1900,
+                    "stars": 1899,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -1428,7 +1428,7 @@
                     "open_issues": 3,
                     "owner": "JIA-Lab-research",
                     "repo": "JigsawClustering",
-                    "stars": 77,
+                    "stars": 76,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -1470,7 +1470,7 @@
                     "open_issues": 2,
                     "owner": "cjrd",
                     "repo": "selfaugment",
-                    "stars": 27,
+                    "stars": 26,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -2406,7 +2406,7 @@
                 "open_issues": 6,
                 "owner": "OxWearables",
                 "repo": "ssl-wearables",
-                "stars": 169,
+                "stars": 170,
                 "topics": [
                   "accelerometer",
                   "deep-learning",
@@ -2669,7 +2669,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32211,
+            "stars": 32210,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2694,7 +2694,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32211,
+            "stars": 32210,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2719,7 +2719,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32211,
+            "stars": 32210,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2744,7 +2744,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32211,
+            "stars": 32210,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2769,7 +2769,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32211,
+            "stars": 32210,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T07:57:54.878Z",
+    "last_updated": "2026-10-24T07:37:40.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",
