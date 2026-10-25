@@ -1,6 +1,6 @@
 # Awesome Self-Supervised Learning with stars
 
-A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,191 | 🐛 48 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,917 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,198 | 🐛 38 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,191 | 🐛 2 | 📅 2020-09-15
+A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,192 | 🐛 48 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,916 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,199 | 🐛 38 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,191 | 🐛 2 | 📅 2020-09-15
 
 #### Why Self-Supervised?
 
@@ -287,7 +287,7 @@ Markdown format:
 
 * Unsupervised Feature Learning via Non-parameteric Instance Discrimination
   [\[pdf\]](https://arxiv.org/pdf/1805.01978.pdf)
-  [\[code\]](https://github.com/zhirongw/lemniscate.pytorch) ⭐ 759 | 🐛 20 | 🌐 Python | 📅 2021-03-25
+  [\[code\]](https://github.com/zhirongw/lemniscate.pytorch) ⭐ 760 | 🐛 20 | 🌐 Python | 📅 2021-03-25
   * Zhirong Wu, Yuanjun Xiong and X Yu Stella and Dahua Lin. *CVPR 2018*
 
 * Unsupervised Representation Learning by Predicting Image Rotations.
@@ -335,7 +335,7 @@ Markdown format:
 
 * Contrastive Multiview Coding.
   [\[pdf\]](https://arxiv.org/abs/1906.05849)
-  [\[code\]](https://github.com/HobbitLong/CMC/) ⭐ 1,338 | 🐛 25 | 🌐 Python | 📅 2020-11-10
+  [\[code\]](https://github.com/HobbitLong/CMC/) ⭐ 1,339 | 🐛 25 | 🌐 Python | 📅 2020-11-10
   * Yonglong Tian and Dilip Krishnan and Phillip Isola.
 
 * Scaling and Benchmarking Self-Supervised Visual Representation Learning
@@ -432,7 +432,7 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 39,014 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-23
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 39,022 | 🐛 2,024 | 🌐 Jupyter Notebook | 📅 2026-10-25
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
@@ -1413,7 +1413,7 @@ Markdown format:
 
 * Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks
   [\[pdf\]](https://people.cs.vt.edu/~reddy/papers/WWW21.pdf)
-  [\[code\]](https://github.com/pnnl/SLICE) ⭐ 29 | 🐛 12 | 🌐 Python | 📅 2026-10-22
+  [\[code\]](https://github.com/pnnl/SLICE) ⭐ 29 | 🐛 14 | 🌐 Python | 📅 2026-10-24
   * Ping Wang, Khushbu Agarwal, Colby Ham, Sutanay Choudhury, and Chandan K. Reddy. *WWW 2021*
 
 * When Does Self-Supervision Help Graph Convolutional Networks
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
