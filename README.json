@@ -818,11 +818,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-26T00:43:54Z",
+                    "last_commit": "2026-10-26T20:10:08Z",
                     "open_issues": 2024,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39029,
+                    "stars": 39037,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1693,7 +1693,7 @@
                     "id": 521421688,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-25T11:17:10Z",
+                    "last_commit": "2026-10-26T16:16:10Z",
                     "open_issues": 2,
                     "owner": "cdvetal",
                     "repo": "evodenss",
@@ -2669,7 +2669,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32212,
+            "stars": 32211,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2694,7 +2694,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32212,
+            "stars": 32211,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2719,7 +2719,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32212,
+            "stars": 32211,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2744,7 +2744,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32212,
+            "stars": 32211,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2769,7 +2769,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32212,
+            "stars": 32211,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2974,7 +2974,7 @@
             "open_issues": 28,
             "owner": "zhihanyue",
             "repo": "ts2vec",
-            "stars": 882,
+            "stars": 883,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
@@ -2995,7 +2995,7 @@
             "open_issues": 35,
             "owner": "gzerveas",
             "repo": "mvts_transformer",
-            "stars": 876,
+            "stars": 877,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T08:09:03.685Z",
+    "last_updated": "2026-10-27T08:24:02.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",

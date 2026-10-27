@@ -432,7 +432,7 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 39,029 | 🐛 2,024 | 🌐 Jupyter Notebook | 📅 2026-10-26
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 39,037 | 🐛 2,024 | 🌐 Jupyter Notebook | 📅 2026-10-26
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
@@ -650,7 +650,7 @@ Markdown format:
 
 * Towards evolution of Deep Neural Networks through contrastive Self-Supervised learning
   [\[pdf\]](https://arxiv.org/pdf/2406.14525)
-  [\[code\]](https://github.com/cdvetal/evodenss) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-10-25
+  [\[code\]](https://github.com/cdvetal/evodenss) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-10-26
   * Adriano Vinhas, João Correia, Penousal Machado. *CEC 2024*
 
 ### Video Representation Learning
@@ -1361,12 +1361,12 @@ Markdown format:
 
 * TS2Vec: Towards Universal Representation of Time Series
   [\[pdf\]](https://www.aaai.org/AAAI22Papers/AAAI-8809.YueZ.pdf)
-  [\[code\]](https://github.com/yuezhihan/ts2vec) ⭐ 882 | 🐛 28 | 🌐 Python | 📅 2024-07-29
+  [\[code\]](https://github.com/yuezhihan/ts2vec) ⭐ 883 | 🐛 28 | 🌐 Python | 📅 2024-07-29
   * Zerveas, George, Srideepika Jayaraman, Dhaval Patel, Anuradha Bhamidipaty, and Carsten Eickhoff. *AAAI 2022*
 
 * A Transformer-Based Framework for Multivariate Time Series Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/2010.02803.pdf)
-  [\[code\]](https://github.com/gzerveas/mvts_transformer) ⭐ 876 | 🐛 35 | 🌐 Python | 📅 2026-04-29
+  [\[code\]](https://github.com/gzerveas/mvts_transformer) ⭐ 877 | 🐛 35 | 🌐 Python | 📅 2026-04-29
   * Zerveas, George, Srideepika Jayaraman, Dhaval Patel, Anuradha Bhamidipaty, and Carsten Eickhoff. *KDD 2021*
 
 * Time-Series Representation Learning via Temporal and Contextual Contrasting
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
