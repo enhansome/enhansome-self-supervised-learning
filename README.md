@@ -1,6 +1,6 @@
 # Awesome Self-Supervised Learning with stars
 
-A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,190 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,916 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,200 | 🐛 38 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,191 | 🐛 2 | 📅 2020-09-15
+A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,190 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,916 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,198 | 🐛 38 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,191 | 🐛 2 | 📅 2020-09-15
 
 #### Why Self-Supervised?
 
@@ -432,12 +432,12 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 39,043 | 🐛 2,024 | 🌐 Jupyter Notebook | 📅 2026-10-27
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 39,054 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-28
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1911.05722.pdf)
-  \[[code](https://github.com/facebookresearch/moco) ⭐ 5,143 | 🐛 61 | 📅 2026-02-03]
+  \[[code](https://github.com/facebookresearch/moco) ⭐ 5,142 | 🐛 61 | 📅 2026-02-03]
   * Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick. *CVPR 2020*
 
 * A Simple Framework for Contrastive Learning of Visual Representations
@@ -472,7 +472,7 @@ Markdown format:
 
 * Rethinking the Value of Labels for Improving Class-Imbalanced Learning
   [\[pdf\]](https://arxiv.org/abs/2006.07529)
-  [\[code\]](https://github.com/YyzHarry/imbalanced-semi-self) ⭐ 755 | 🐛 0 | 🌐 Python | 📅 2021-04-03
+  [\[code\]](https://github.com/YyzHarry/imbalanced-semi-self) ⭐ 754 | 🐛 0 | 🌐 Python | 📅 2021-04-03
   * Yuzhe Yang, Zhi Xu. *NeurIPS 2020*
 
 * Self-labelling via simultaneous clustering and representation learning
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._

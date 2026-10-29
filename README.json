@@ -818,11 +818,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-27T19:38:57Z",
-                    "open_issues": 2024,
+                    "last_commit": "2026-10-28T13:44:13Z",
+                    "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39043,
+                    "stars": 39054,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -847,7 +847,7 @@
                     "open_issues": 61,
                     "owner": "facebookresearch",
                     "repo": "moco",
-                    "stars": 5143,
+                    "stars": 5142,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -1025,7 +1025,7 @@
                     "open_issues": 0,
                     "owner": "YyzHarry",
                     "repo": "imbalanced-semi-self",
-                    "stars": 755,
+                    "stars": 754,
                     "topics": [
                       "class-imbalance",
                       "imbalanced-classification",
@@ -2564,7 +2564,7 @@
             "open_issues": 879,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40035,
+            "stars": 40036,
             "topics": [
               "google",
               "natural-language-processing",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T09:01:35.795Z",
+    "last_updated": "2026-10-29T08:58:43.555Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",
@@ -3262,7 +3262,7 @@
       "open_issues": 3,
       "owner": "jason718",
       "repo": "awesome-self-supervised-learning",
-      "stars": 6438,
+      "stars": 6439,
       "topics": [
         "computer-vision",
         "deep-learning",
