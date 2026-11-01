@@ -822,7 +822,7 @@
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39067,
+                    "stars": 39080,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -972,7 +972,7 @@
                     "open_issues": 20,
                     "owner": "wvangansbeke",
                     "repo": "Unsupervised-Classification",
-                    "stars": 1460,
+                    "stars": 1459,
                     "topics": [
                       "clustering",
                       "contrastive-learning",
@@ -2995,7 +2995,7 @@
             "open_issues": 35,
             "owner": "gzerveas",
             "repo": "mvts_transformer",
-            "stars": 877,
+            "stars": 876,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T08:58:05.202Z",
+    "last_updated": "2026-11-01T09:47:59.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",
@@ -3262,7 +3262,7 @@
       "open_issues": 3,
       "owner": "jason718",
       "repo": "awesome-self-supervised-learning",
-      "stars": 6439,
+      "stars": 6440,
       "topics": [
         "computer-vision",
         "deep-learning",
