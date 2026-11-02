@@ -1,6 +1,6 @@
 # Awesome Self-Supervised Learning with stars
 
-A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,192 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,918 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,200 | 🐛 38 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,193 | 🐛 2 | 📅 2020-09-15
+A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,192 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,918 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,202 | 🐛 38 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,193 | 🐛 2 | 📅 2020-09-15
 
 #### Why Self-Supervised?
 
@@ -335,7 +335,7 @@ Markdown format:
 
 * Contrastive Multiview Coding.
   [\[pdf\]](https://arxiv.org/abs/1906.05849)
-  [\[code\]](https://github.com/HobbitLong/CMC/) ⭐ 1,339 | 🐛 25 | 🌐 Python | 📅 2020-11-10
+  [\[code\]](https://github.com/HobbitLong/CMC/) ⭐ 1,340 | 🐛 25 | 🌐 Python | 📅 2020-11-10
   * Yonglong Tian and Dilip Krishnan and Phillip Isola.
 
 * Scaling and Benchmarking Self-Supervised Visual Representation Learning
@@ -432,7 +432,7 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 39,080 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-30
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 39,094 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-30
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
@@ -556,7 +556,7 @@ Markdown format:
 
 * Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/2011.10043)
-  [\[code\]](https://github.com/zdaxie/PixPro) ⭐ 365 | 🐛 22 | 🌐 Python | 📅 2021-10-24
+  [\[code\]](https://github.com/zdaxie/PixPro) ⭐ 364 | 🐛 22 | 🌐 Python | 📅 2021-10-24
   * Zhenda Xie, Yutong Lin, Zheng Zhang, Yue Cao, Stephen Lin, and Han Hu. *CVPR 2021*
 
 * How Well Do Self-Supervised Models Transfer?
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
