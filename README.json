@@ -822,7 +822,7 @@
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39094,
+                    "stars": 39097,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2564,7 +2564,7 @@
             "open_issues": 879,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40037,
+            "stars": 40034,
             "topics": [
               "google",
               "natural-language-processing",
@@ -2669,7 +2669,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32211,
+            "stars": 32210,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2694,7 +2694,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32211,
+            "stars": 32210,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2719,7 +2719,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32211,
+            "stars": 32210,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2744,7 +2744,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32211,
+            "stars": 32210,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2769,7 +2769,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32211,
+            "stars": 32210,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T10:05:49.719Z",
+    "last_updated": "2026-11-03T10:08:24.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",
