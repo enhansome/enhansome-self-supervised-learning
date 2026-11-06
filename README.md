@@ -432,7 +432,7 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 39,116 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-05
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 39,121 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-06
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
@@ -472,7 +472,7 @@ Markdown format:
 
 * Rethinking the Value of Labels for Improving Class-Imbalanced Learning
   [\[pdf\]](https://arxiv.org/abs/2006.07529)
-  [\[code\]](https://github.com/YyzHarry/imbalanced-semi-self) ⭐ 754 | 🐛 0 | 🌐 Python | 📅 2021-04-03
+  [\[code\]](https://github.com/YyzHarry/imbalanced-semi-self) ⭐ 755 | 🐛 0 | 🌐 Python | 📅 2021-04-03
   * Yuzhe Yang, Zhi Xu. *NeurIPS 2020*
 
 * Self-labelling via simultaneous clustering and representation learning
@@ -1413,7 +1413,7 @@ Markdown format:
 
 * Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks
   [\[pdf\]](https://people.cs.vt.edu/~reddy/papers/WWW21.pdf)
-  [\[code\]](https://github.com/pnnl/SLICE) ⭐ 29 | 🐛 15 | 🌐 Python | 📅 2026-10-30
+  [\[code\]](https://github.com/pnnl/SLICE) ⭐ 29 | 🐛 16 | 🌐 Python | 📅 2026-11-05
   * Ping Wang, Khushbu Agarwal, Colby Ham, Sutanay Choudhury, and Chandan K. Reddy. *WWW 2021*
 
 * When Does Self-Supervision Help Graph Convolutional Networks
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
