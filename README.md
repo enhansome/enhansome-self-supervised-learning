@@ -1,6 +1,6 @@
 # Awesome Self-Supervised Learning with stars
 
-A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,191 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,918 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,208 | 🐛 38 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,192 | 🐛 2 | 📅 2020-09-15
+A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,192 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,918 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,205 | 🐛 38 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,192 | 🐛 2 | 📅 2020-09-15
 
 #### Why Self-Supervised?
 
@@ -432,12 +432,12 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 39,146 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-06
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 39,150 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-09
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1911.05722.pdf)
-  \[[code](https://github.com/facebookresearch/moco) ⭐ 5,141 | 🐛 62 | 📅 2026-02-03]
+  \[[code](https://github.com/facebookresearch/moco) ⭐ 5,140 | 🐛 62 | 📅 2026-02-03]
   * Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick. *CVPR 2020*
 
 * A Simple Framework for Contrastive Learning of Visual Representations
@@ -457,7 +457,7 @@ Markdown format:
 
 * Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning
   [\[pdf\]](https://arxiv.org/abs/2006.07733)
-  [\[unofficial-code\]](https://github.com/lucidrains/byol-pytorch) ⭐ 1,898 | 🐛 41 | 🌐 Python | 📅 2026-04-27
+  [\[unofficial-code\]](https://github.com/lucidrains/byol-pytorch) ⭐ 1,899 | 🐛 41 | 🌐 Python | 📅 2026-04-27
   * Jean-Bastien Grill, Florian Strub, Florent Altché, Corentin Tallec, Pierre H. Richemond, Elena Buchatskaya, Carl Doersch, Bernardo Avila Pires, Zhaohan Daniel Guo, Mohammad Gheshlaghi Azar, Bilal Piot, Koray Kavukcuoglu, Rémi Munos, Michal Valko. *NeurIPS 2020, Oral*
 
 * SCAN: Learning to Classify Images without Labels
@@ -1388,7 +1388,7 @@ Markdown format:
 
 * Deep Graph Infomax
   [\[pdf\]](https://openreview.net/forum?id=rklz9iAcKQ)
-  [\[code\]](https://github.com/PetarV-/DGI) ⭐ 668 | 🐛 11 | 🌐 Python | 📅 2022-11-01
+  [\[code\]](https://github.com/PetarV-/DGI) ⭐ 669 | 🐛 11 | 🌐 Python | 📅 2022-11-01
   * Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm. *ICLR 2019*
 
 * GraphMAE: Self-supervised Masked Graph Autoencoders
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
