@@ -72,7 +72,7 @@
                     "open_issues": 19,
                     "owner": "piiswrong",
                     "repo": "dec",
-                    "stars": 490,
+                    "stars": 489,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -818,11 +818,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-09T18:10:16Z",
-                    "open_issues": 2009,
+                    "last_commit": "2026-11-11T11:58:31Z",
+                    "open_issues": 2011,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39156,
+                    "stars": 39161,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2162,7 +2162,7 @@
                 "open_issues": 9,
                 "owner": "NVlabs",
                 "repo": "geomapnet",
-                "stars": 359,
+                "stars": 360,
                 "topics": [
                   "computer-vision",
                   "cvpr2018",
@@ -2564,7 +2564,7 @@
             "open_issues": 879,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40029,
+            "stars": 40030,
             "topics": [
               "google",
               "natural-language-processing",
@@ -2669,7 +2669,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32204,
+            "stars": 32207,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2694,7 +2694,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32204,
+            "stars": 32207,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2719,7 +2719,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32204,
+            "stars": 32207,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2744,7 +2744,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32204,
+            "stars": 32207,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2769,7 +2769,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32204,
+            "stars": 32207,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2974,7 +2974,7 @@
             "open_issues": 28,
             "owner": "zhihanyue",
             "repo": "ts2vec",
-            "stars": 885,
+            "stars": 884,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
@@ -3236,8 +3236,8 @@
             "id": 285621918,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T12:12:23Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-11T21:56:35Z",
+            "open_issues": 17,
             "owner": "pnnl",
             "repo": "SLiCE",
             "stars": 29,
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T09:54:14.499Z",
+    "last_updated": "2026-11-12T10:22:20.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",
@@ -3262,7 +3262,7 @@
       "open_issues": 3,
       "owner": "jason718",
       "repo": "awesome-self-supervised-learning",
-      "stars": 6446,
+      "stars": 6447,
       "topics": [
         "computer-vision",
         "deep-learning",

@@ -1,6 +1,6 @@
 # Awesome Self-Supervised Learning with stars
 
-A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,193 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,917 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,206 | 🐛 38 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,192 | 🐛 2 | 📅 2020-09-15
+A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,193 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,918 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,207 | 🐛 38 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,192 | 🐛 2 | 📅 2020-09-15
 
 #### Why Self-Supervised?
 
@@ -177,7 +177,7 @@ Markdown format:
 
 * Unsupervised Deep Embedding for Clustering Analysis.
   [\[pdf\]](https://arxiv.org/pdf/1511.06335.pdf)
-  [\[code\]](https://github.com/piiswrong/dec) ⭐ 490 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2019-12-01
+  [\[code\]](https://github.com/piiswrong/dec) ⭐ 489 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2019-12-01
   * Junyuan Xie, Ross Girshick, and Ali Farhadi. *ICML 2016*
 
 * Joint Unsupervised Learning of Deep Representations and Image Clusters.
@@ -432,7 +432,7 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 39,156 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-09
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 39,161 | 🐛 2,011 | 🌐 Jupyter Notebook | 📅 2026-11-11
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
@@ -840,7 +840,7 @@ Markdown format:
 
 * Geometry-Aware Learning of Maps for Camera Localization.
   [\[pdf\]](https://arxiv.org/abs/1712.03342)
-  [\[code\]](https://github.com/NVlabs/geomapnet) ⭐ 359 | 🐛 9 | 🌐 Python | 📅 2021-07-27
+  [\[code\]](https://github.com/NVlabs/geomapnet) ⭐ 360 | 🐛 9 | 🌐 Python | 📅 2021-07-27
   * Samarth Brahmbhatt, Jinwei Gu, Kihwan Kim, James Hays, and Jan Kautz. CVPR 2018
 
 * Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue.
@@ -1361,7 +1361,7 @@ Markdown format:
 
 * TS2Vec: Towards Universal Representation of Time Series
   [\[pdf\]](https://www.aaai.org/AAAI22Papers/AAAI-8809.YueZ.pdf)
-  [\[code\]](https://github.com/yuezhihan/ts2vec) ⭐ 885 | 🐛 28 | 🌐 Python | 📅 2024-07-29
+  [\[code\]](https://github.com/yuezhihan/ts2vec) ⭐ 884 | 🐛 28 | 🌐 Python | 📅 2024-07-29
   * Zerveas, George, Srideepika Jayaraman, Dhaval Patel, Anuradha Bhamidipaty, and Carsten Eickhoff. *AAAI 2022*
 
 * A Transformer-Based Framework for Multivariate Time Series Representation Learning
@@ -1413,7 +1413,7 @@ Markdown format:
 
 * Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks
   [\[pdf\]](https://people.cs.vt.edu/~reddy/papers/WWW21.pdf)
-  [\[code\]](https://github.com/pnnl/SLICE) ⭐ 29 | 🐛 16 | 🌐 Python | 📅 2026-11-05
+  [\[code\]](https://github.com/pnnl/SLICE) ⭐ 29 | 🐛 17 | 🌐 Python | 📅 2026-11-11
   * Ping Wang, Khushbu Agarwal, Colby Ham, Sutanay Choudhury, and Chandan K. Reddy. *WWW 2021*
 
 * When Does Self-Supervision Help Graph Convolutional Networks
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
