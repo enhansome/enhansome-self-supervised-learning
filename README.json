@@ -818,11 +818,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-13T17:37:12Z",
+                    "last_commit": "2026-11-14T12:36:20Z",
                     "open_issues": 2013,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39171,
+                    "stars": 39178,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2564,7 +2564,7 @@
             "open_issues": 879,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40030,
+            "stars": 40027,
             "topics": [
               "google",
               "natural-language-processing",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T09:31:38.931Z",
+    "last_updated": "2026-11-15T09:58:26.080Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",
