@@ -465,7 +465,7 @@
                     "open_issues": 25,
                     "owner": "HobbitLong",
                     "repo": "CMC",
-                    "stars": 1339,
+                    "stars": 1341,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -818,11 +818,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-14T12:36:20Z",
+                    "last_commit": "2026-11-16T16:31:35Z",
                     "open_issues": 2013,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39187,
+                    "stars": 39200,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -847,7 +847,7 @@
                     "open_issues": 62,
                     "owner": "facebookresearch",
                     "repo": "moco",
-                    "stars": 5140,
+                    "stars": 5139,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:46.020Z"
@@ -1936,7 +1936,7 @@
                 "open_issues": 5,
                 "owner": "imisra",
                 "repo": "shuffle-tuple",
-                "stars": 45,
+                "stars": 46,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
@@ -2080,7 +2080,7 @@
                 "open_issues": 19,
                 "owner": "facebookresearch",
                 "repo": "PointContrast",
-                "stars": 351,
+                "stars": 352,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:46.020Z"
@@ -2564,7 +2564,7 @@
             "open_issues": 879,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40026,
+            "stars": 40024,
             "topics": [
               "google",
               "natural-language-processing",
@@ -2591,7 +2591,7 @@
             "open_issues": 21,
             "owner": "jackroos",
             "repo": "VL-BERT",
-            "stars": 741,
+            "stars": 742,
             "topics": [
               "bert",
               "iclr2020",
@@ -2669,7 +2669,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32205,
+            "stars": 32203,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2694,7 +2694,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32205,
+            "stars": 32203,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2719,7 +2719,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32205,
+            "stars": 32203,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2744,7 +2744,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32205,
+            "stars": 32203,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2769,7 +2769,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32205,
+            "stars": 32203,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2878,7 +2878,7 @@
             "open_issues": 14,
             "owner": "facebookresearch",
             "repo": "CPC_audio",
-            "stars": 374,
+            "stars": 375,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:46.020Z"
@@ -3167,7 +3167,7 @@
             "open_issues": 23,
             "owner": "acbull",
             "repo": "GPT-GNN",
-            "stars": 501,
+            "stars": 502,
             "topics": [
               "graph-neural-networks",
               "graph-representation-learning",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T10:12:30.692Z",
+    "last_updated": "2026-11-17T11:15:00.377Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",

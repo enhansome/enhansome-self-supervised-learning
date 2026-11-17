@@ -1,6 +1,6 @@
 # Awesome Self-Supervised Learning with stars
 
-A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,195 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,918 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,206 | 🐛 38 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,192 | 🐛 2 | 📅 2020-09-15
+A curated list of awesome Self-Supervised Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,198 | 🐛 47 | 📅 2023-08-15, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,918 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,209 | 🐛 38 | 🌐 TeX | 📅 2024-01-18, and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,192 | 🐛 2 | 📅 2020-09-15
 
 #### Why Self-Supervised?
 
@@ -335,7 +335,7 @@ Markdown format:
 
 * Contrastive Multiview Coding.
   [\[pdf\]](https://arxiv.org/abs/1906.05849)
-  [\[code\]](https://github.com/HobbitLong/CMC/) ⭐ 1,339 | 🐛 25 | 🌐 Python | 📅 2020-11-10
+  [\[code\]](https://github.com/HobbitLong/CMC/) ⭐ 1,341 | 🐛 25 | 🌐 Python | 📅 2020-11-10
   * Yonglong Tian and Dilip Krishnan and Phillip Isola.
 
 * Scaling and Benchmarking Self-Supervised Visual Representation Learning
@@ -432,12 +432,12 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 39,187 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-14
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 39,200 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-16
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1911.05722.pdf)
-  \[[code](https://github.com/facebookresearch/moco) ⭐ 5,140 | 🐛 62 | 📅 2026-02-03]
+  \[[code](https://github.com/facebookresearch/moco) ⭐ 5,139 | 🐛 62 | 📅 2026-02-03]
   * Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, Ross Girshick. *CVPR 2020*
 
 * A Simple Framework for Contrastive Learning of Visual Representations
@@ -703,7 +703,7 @@ Markdown format:
 
 * Shuffle and Learn: Unsupervised Learning using Temporal Order Verification.
   [\[pdf\]](http://arxiv.org/abs/1603.08561)
-  [\[code\]](https://github.com/imisra/shuffle-tuple) ⭐ 45 | 🐛 5 | 🌐 Python | 📅 2021-12-12
+  [\[code\]](https://github.com/imisra/shuffle-tuple) ⭐ 46 | 🐛 5 | 🌐 Python | 📅 2021-12-12
   * Ishan Misra, C. Lawrence Zitnick and Martial Hebert. *ECCV 2016*
 
 * Video Playback Rate Perception for Self-Supervised Spatio-Temporal Representation Learning
@@ -1243,7 +1243,7 @@ Markdown format:
 
 * VL-BERT: Pre-training of Generic Visual-Linguistic Representations
   [\[pdf\]](https://arxiv.org/pdf/1908.08530.pdf)
-  [\[code\]](https://github.com/jackroos/VL-BERT) ⭐ 741 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2023-05-22
+  [\[code\]](https://github.com/jackroos/VL-BERT) ⭐ 742 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2023-05-22
   * Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei, Jifeng Dai. *ICLR 2020*
 
 * A Simple and Effective Self-Supervised Contrastive Learning Framework for Aspect Detection
@@ -1398,7 +1398,7 @@ Markdown format:
 
 * GPT-GNN: Generative Pre-Training of Graph Neural Networks
   [\[pdf\]](https://arxiv.org/pdf/2006.15437.pdf)
-  [\[code\]](https://github.com/acbull/GPT-GNN) ⭐ 501 | 🐛 23 | 🌐 Python | 📅 2024-07-25
+  [\[code\]](https://github.com/acbull/GPT-GNN) ⭐ 502 | 🐛 23 | 🌐 Python | 📅 2024-07-25
   * Ziniu Hu, Yuxiao Dong, Kuansan Wang, Kai-Wei Chang, Yizhou Sun. *KDD 2020*
 
 * Deep Graph Contrastive Representation Learning
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
