@@ -224,7 +224,7 @@ Markdown format:
 
 * Adversarial Feature Learning.
   [\[pdf\]](https://arxiv.org/pdf/1605.09782.pdf)
-  [\[code\]](https://github.com/jeffdonahue/bigan) ⭐ 240 | 🐛 7 | 🌐 Python | 📅 2022-07-12
+  [\[code\]](https://github.com/jeffdonahue/bigan) ⭐ 241 | 🐛 7 | 🌐 Python | 📅 2022-07-12
   * Donahue, Jeff and Krahenbuhl, Philipp and Darrell, Trevor. *ICLR 2017*
 
 * Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction.
@@ -432,7 +432,7 @@ Markdown format:
 
 * On Mutual Information Maximization for Representation Learning
   [\[pdf\]](https://arxiv.org/pdf/1907.13625.pdf)
-  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 39,285 | 🐛 2,015 | 🌐 Jupyter Notebook | 📅 2026-11-25
+  [\[code\]](https://github.com/google-research/google-research/tree/master/mutual_information_representation_learning) ⭐ 39,498 | 🐛 2,020 | 🌐 Jupyter Notebook | 📅 2026-11-26
   * Michael Tschannen, Josip Djolonga, Paul K. Rubenstein, Sylvain Gelly, Mario Lucic. *ICLR 2020*
 
 * Momentum Contrast for Unsupervised Visual Representation Learning
@@ -890,7 +890,7 @@ Markdown format:
 
 * The Sound of Pixels.
   [\[pdf\]](https://arxiv.org/pdf/1804.03160.pdf)
-  [\[project\]](https://github.com/hangzhaomit/Sound-of-Pixels) ⭐ 394 | 🐛 11 | 🌐 Python | 📅 2022-04-25
+  [\[project\]](https://github.com/hangzhaomit/Sound-of-Pixels) ⭐ 393 | 🐛 11 | 🌐 Python | 📅 2022-04-25
   * Zhao, Hang and Gan, Chuang and Rouditchenko, Andrew and Vondrick, Carl and McDermott, Josh and Torralba, Antonio. *ECCV 2018*
 
 * BYOL for Audio: Self-Supervised Learning for General-Purpose Audio Representation.
@@ -1481,4 +1481,4 @@ To the extent possible under law, [Zhongzheng Ren](https://jason718.github.io/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
