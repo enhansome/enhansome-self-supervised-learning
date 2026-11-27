@@ -819,10 +819,10 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-26T08:37:24Z",
-                    "open_issues": 2020,
+                    "open_issues": 2023,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39498,
+                    "stars": 39549,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -947,7 +947,7 @@
                     "open_issues": 41,
                     "owner": "lucidrains",
                     "repo": "byol-pytorch",
-                    "stars": 1897,
+                    "stars": 1898,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -2564,7 +2564,7 @@
             "open_issues": 879,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40019,
+            "stars": 40018,
             "topics": [
               "google",
               "natural-language-processing",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T11:33:13.390Z",
+    "last_updated": "2026-11-27T11:28:42.007Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome self-supervised methods",
@@ -3262,7 +3262,7 @@
       "open_issues": 3,
       "owner": "jason718",
       "repo": "awesome-self-supervised-learning",
-      "stars": 6448,
+      "stars": 6447,
       "topics": [
         "computer-vision",
         "deep-learning",
